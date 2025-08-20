@@ -46,4 +46,4 @@ if __name__ == '__main__':
 
     for file in os.listdir(args.pdf_dir):
         if file.endswith(".pdf"):
-             a=extract_sequence(os.path.join(args.pdf_dir, file), args.output_dir)
+             extract_sequence(os.path.join(args.pdf_dir, file), args.output_dir)
