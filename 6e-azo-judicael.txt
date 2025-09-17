@@ -1,0 +1,10249 @@
+MATHS EN 6EME :
+
+COURS ET EXERCICES PRATIQUES
+1ÈRE EDITION
+
+   REALISE PAR AZOKPOTA JUDICAEL
+( ENSEIGNANT DE MATHEMATIQUES )
+
+                      Téléphones :   94173204 / 68170530 / 62236115
+
+SOUS LA SUPERVISION DU CP AMBROISE EZROU
+(CONSEILLER PEDAGOGIQUE  DE MATHEMATIQUES)
+
+                                  MATHS EN 6EME : COURS ET EXERCICES PRATIQUES
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+1
+
+Remerciements :
+
+Sincère merci à tous ceux qui ont contribué à la parution de ce
+
+document, en particulier :
+
+  à  Monsieur  Ambroise  EZROU,  Conseiller  Pédagogique  des
+
+mathématiques ;
+
+   à  Monsieur  Emmanuel  AZOKPOTA,    Professeur  Certifié  des
+
+SVT, Auteur des documents de la ‘‘Collection AZ’’ ;
+
+   au Père Léon DOSSOU pour ses conseils.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+2
+
+A mes amis apprenants,
+pour une bonne réussite de l’année scolaire.
+
+Souvent,  l’on  pense  que  les  mathématiques  constituent  une  matière
+difficile ; mais en réalité elle peut devenir un jeu si l’on parvient à maîtriser les
+deux règles essentielles que voici :
+
+  aimer  la  matière  et  étudier  ses  leçons  (définitions,  vocabulaires,
+
+propriétés, synthèses et formules).
+
+   travailler en groupes et faire beaucoup d’exercices.
+
+ C’est dans cette optique que la ‘‘Collection AZO’’ vous propose sa toute
+
+première parution intitulée : ‘‘ Maths faciles 6ème ’’.
+
+C’est un ensemble de Cours et d’Exercices Pratiques. Ce manuel offre
+
+plusieurs avantages :
+
+  Il  explique  les  chapitres  au  programme  dans  un  langage  simple
+
+suivis de plusieurs exercices pratiques.
+
+  Il propose également diverses épreuves corrigées pour faciliter la
+
+bonne compréhension et aider à la bonne maîtrise du cours.
+
+  Il vise à forger chez l’apprenant  l’esprit scientifique et le goût de la
+
+réflexion.
+
+       A l’usage, vous en découvrirez l’utilité.
+
+       Courage et bon travail donc !
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+4
+
+SAN°1 : CONFIGURATIONS DE L’ESPACE
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+5
+
+Séquence n°1 : Cube et Pavé droit
+
+A-  Description d’un cube  et d’un pavé droit.
+
+  Description du cube :
+
+Un cube est un solide de l’espace ayant 8 sommets, 12 arêtes et 6 faces carrées toutes
+
+superposables.  Les  diagonales  de  ses  faces  sont  de  supports  perpendiculaires  et  se
+
+coupent en leur milieu.
+
+La figure suivante est une représentation d’un cube :
+
+Quelques objets ayant la forme d’un cube : morceau de sucre,  les dés cubiques.
+
+  Description du pavé droit ou parallépipède rectangle :
+
+      Un  pavé  droit  est  un  solide  de  l’espace  ayant 8  sommets,  12  arêtes  et  6  faces
+
+rectangulaires deux à deux superposables, opposées l’une à l’autre dont  2 bases et 4 faces
+
+latérales. Les arêtes verticales sont les hauteurs de ce pavé droit et les diagonales des faces se
+
+coupent en leur milieu.
+
+Les figures suivantes sont des représentations d’un pavé droit :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+6
+
+[𝐷𝐶], [𝐴𝐷] 𝑒𝑡 [𝐴𝐸]  sont  des  arêtes  de  la  première  figure.  Elle  a  pour  longueur  𝐷𝐶,
+
+largeur  𝐴𝐷    et  hauteur  𝐴𝐸.  Ses  sommets  sont  𝐴, 𝐵, 𝐶, 𝐷, 𝐸, 𝐹, 𝐺 𝑒𝑡 𝐻.  Le  segment  [AE]
+
+représente
+
+une
+
+hauteur
+
+de
+
+ce
+
+pavé
+
+droit.
+
+Les
+
+faces
+
+𝐴𝐵𝐶𝐷 𝑒𝑡 𝐸𝐹𝐺𝐻, 𝐴𝐷𝐻𝐸 𝑒𝑡 𝐵𝐶𝐺𝐹 𝑝𝑢𝑖𝑠 𝐴𝐵𝐹𝐸 𝑒𝑡 𝐷𝐶𝐺𝐻 sont superposables deux à deux. Les
+
+deux premières faces sont les bases de ce pavé droit et les quatre dernières sont ses faces
+
+latérales.
+
+NB  :  Le  mot  hauteur  peut  être  utilisé  dans  deux  contextes  :  On  dit  ‘’une  hauteur’’  pour
+
+désigner  une  arête  verticale  et  ‘’la  hauteur’’  pour  parler  de  la  longueur  de  chaque  arête
+
+verticale.
+
+Quelques objets ayant la forme d’un pavé droit : briques de 10kg et 15kg, boîtes de sucres,
+
+boîtes de pâtes dentifrices, savon palmida, le chiffon, la gomme, boîtes de cigarettes.
+
+B-  Patron ou développement d’un cube et d’un pavé droit.
+
+          Lorsque l’on découpe selon certaines arêtes un cube ou un pavé droit, on obtient une
+
+figure plane appelée le « le patron » ou  « le développement » de ce cube ou de ce pavé droit.
+
+Il est constitué d'une surface latérale et de deux bases.
+
+  Le patron du cube :
+
+      Le patron d’un cube peut se présenter comme suit :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+7
+
+Ici, c’est un cas particulier. Toutes les arêtes ont la même longueur : 3 cm.
+
+Les onze patrons d’un cube se présentent comme suit :
+
+  Le patron du pavé droit :
+
+      Le patron d’un pavé droit peut se présenter comme suit :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+8
+
+Le
+
+pavé
+
+droit
+
+a
+
+54
+
+patrons
+
+dont
+
+ce
+
+présentent les formes des 11 patrons de cubes présentés ci-dessus.
+
+rtains
+
+C-  Aires et volume d’un cube et d’un pavé droit.
+
+  Le pavé droit:
+
+Considérons un pavé droit de longueur 𝐿, de largeur 𝑙 et de hauteur ℎ.
+
+Désignons respectivement par 𝑃𝑏, 𝐴𝑏, 𝐴𝐿 𝑒𝑡 𝐴𝑇, le périmètre d’une base, l’aire d’une
+
+base, l’aire de la surface latérale et l’aire de la surface totale de ce pavé droit. Chaque base
+
+étant  un  rectangle  de  longueur 𝐿  et  de  largeur  𝑙,  on  a  :  𝑷𝒃 = 𝟐 × (𝑳 + 𝒍) ;  𝑨𝒃 = 𝑳 × 𝒍 ;
+
+𝑨𝑳 = 𝑷𝒃  × 𝒉 et 𝑨𝑻 = 𝑨𝑳 + (𝟐 × 𝑨𝒃).
+
+Le volume V de ce pavé droit est : 𝑽 = 𝑳 × 𝒍 × 𝒉  =  𝑨𝒃 × 𝒉.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+9
+
+  Le cube :
+
+Un cube est un pavé droit dont les arêtes ont même longueur. Ainsi, en considérant un
+
+cube dont la longueur de chaque arête est a et en utilisant les mêmes inconnues, on a :
+
+𝑷𝒃 = 𝟒 × 𝒂 ;    𝑨𝒃 = 𝒂 × 𝒂 ;    𝑨𝑳 = 𝟒  × 𝒂 × 𝒂   et
+
+𝑨𝑻 = 𝑨𝑳 + (𝟐 × 𝑨𝒃) = 𝟔 × 𝒂 × 𝒂 =  𝟔 × 𝑨𝒃.
+
+Le volume 𝑉 de ce cube est : 𝑽 = 𝒂 × 𝒂 × 𝒂.
+
+Exercices :
+
+Exercice n°1 :
+
+On considère le solide représenté ci-dessous :
+
+       On a : 𝐴𝐸 = 𝐴𝐵 = 𝐴𝐷.
+
+1)  Donne un nom au solide de cette figure.
+
+Maths faciles 6è : Cours et Exercices Pratiques  10
+
+2)  Pour ce solide, précise :
+
+a)  le nombre de sommets puis cite-les.
+
+b)  le nombre de faces puis cite-les.
+
+c)  le nombre d’arêtes puis cite-les.
+
+Exercice n°2 :
+
+On considère le solide représenté ci-dessous :
+
+1)  Donne un nom au solide de cette figure.
+
+2)  Pour ce solide, précise :
+
+a)  le nombre de sommets puis cite-les.
+
+b)  le nombre de faces puis cite-les.
+
+c)  le nombre d’arêtes puis cite-les.
+
+d)  le nombre de faces latérales puis cite-les.
+
+e)  le nombre de bases puis cite-les.
+
+Exercice n°3 :
+
+Parmi les figures ci-dessous, dis celle qui représente le patron d’un cube et celle qui
+
+représente le patron d’un pavé droit :
+
+Maths faciles 6è : Cours et Exercices Pratiques  11
+
+Figure 1 :                                     Figure 2 :                                          Figure 3 :
+
+Exercice n°4 :
+
+1)
+
+2)
+
+Réalise le patron d’un cube d’arête 2,5 𝑐𝑚.
+
+Réalise le patron d’un pavé droit de dimensions 4 𝑐𝑚, 3 𝑐𝑚 𝑒𝑡 2,5 𝑐𝑚.
+
+Exercice n°5 :
+
+1)  Construis un pavé droit ABCDEFGH.
+
+2)  Construis un cube EFGHIJKL.
+
+Exercice n°6 :
+
+                On  considère  5  pavés  droits  dont  certaines  informations  sont  recueillies  dans  le
+
+tableau suivant.
+
+Longueur
+
+Largeur  (en
+
+Hauteur  (en
+
+Aire  de
+
+la
+
+Volume (en cm3)
+
+(en cm)
+
+cm)
+
+cm)
+
+base
+
+(en
+
+Pavé droit n°1
+
+22
+
+14
+
+Pavé droit n°2
+
+18
+
+Pavé droit n°3
+
+15
+
+Pavé droit n°4
+
+20
+
+5
+
+6
+
+8
+
+cm²)
+
+90
+
+260
+
+1320
+
+2080
+
+Maths faciles 6è : Cours et Exercices Pratiques  12
+
+Pavé droit n°5
+
+14
+
+12
+
+2520
+
+Reproduis puis complète ce tableau.
+
+Exercice n°7 :
+
+On considère 4 cubes dont certaines informations sont recueillies dans le tableau suivant.
+
+arête (en cm)
+
+Aire  de
+
+la
+
+Aire
+
+totale
+
+Volume (en cm3)
+
+base
+
+(en
+
+(en cm²)
+
+cm²)
+
+121
+
+Cube n°1
+
+15
+
+Cube n°2
+
+Cube n°3
+
+Cube n°4
+
+Reproduis puis complète ce tableau.
+
+Séquence n° 2: Cône de révolution.
+
+I.
+
+Reconnaissance :
+
+294
+
+27
+
+D
+
+C
+
+Maths faciles 6è : Cours et Exercices Pratiques  13
+
+Le cône de révolution encore appelé cône circulaire droit est un solide de l’espace qui possède
+
+deux faces : une face courbe ou non plane qui est appelée face latérale du cône et une face plane en
+
+forme de disque qui représente la base du cône. Il a un sommet A mais ne possède pas d’arête . Les
+
+segments [DA] et [AC] sont appelés génératrices du cône et leur longueur est appelée apothème du
+
+cône. La droite (AB) est l’axe du cône. Les segments [AB] et [BC] sont respectivement  appelés hauteur
+
+et rayon du disque de base du cône de révolution.
+
+Quelques objets ayant la forme d’un cône de révolution, on a : le chapeau du père Noel, les
+
+toits des tata-sombas, l’entonnoir.
+
+II.
+
+Patron d’un cône de révolution.
+
+a)  Reconnaissance
+
+       Le patron d’un cône de révolution, encore appelé le développement de ce cône est une surface
+
+plane comprenant deux parties :
+
+  Un disque de rayon r (rayon de base).
+
+  Une surface en forme de secteur circulaire d’angle de mesure 𝛼 et de rayon 𝑎.
+
+        Exemple :
+
+Ici  le rayon  du  disque  de  base  est  3  cm,  l’apothème du  cône  est  5  cm  et  l’angle  de
+
+développement est 216°.
+
+b)  Description
+
+Maths faciles 6è : Cours et Exercices Pratiques  14
+
+Le patron d’un cône de révolution comprend :
+
+  Une partie appelée face latérale qui est un secteur circulaire d’angle 𝛼 et de rayon 𝑎
+
+appelé apothème du cône.
+
+  Une partie appelée disque de base de rayon 𝑟 appelé rayon du cône.
+
+  La longueur de l’arc de la face latérale est appelée longueur de l’arc du développement de la
+
+face latérale.
+
+  La longueur du bord du disque α de base est appelée périmètre de base du cône.
+
+Remarque :
+
+La longueur de l’arc du développement de la surface est égale au périmètre du disque de
+
+base.
+
+c)  Réalisation du patron d’un cône
+
+Pour  réaliser  à  l’aide d’un papier  ou d’un  carton,  le patron  d’un  cône de révolution
+
+dont la surface latérale a pour apothème, pour angle 𝛼 puis de rayon 𝑟, il faut :
+
+  Construire sur le papier ou le carton, une portion de cercle de rayon 𝑎 et d’angle 𝛼
+
+pour obtenir la surface latérale.
+
+  Construire un cercle de rayon 𝑟 qui coupe l’arc de cette surface en un seul point et ne
+
+soit pas contenu dans la surface : c’est le disque de base.
+
+On obtient ainsi le patron d’un cône circulaire droit.
+
+Maths faciles 6è : Cours et Exercices Pratiques  15
+
+III.  Fabrication du cône de révolution.
+
+Pour fabriquer le cône de révolution, il faut :
+
+  réaliser d’abord son patron.
+
+  Découper la figure obtenue.
+
+  Coller cette figure en joignant les deux apothèmes délimitant la surface latérale.
+
+On obtient ainsi le cône de révolution.
+
+Exercices :
+
+Exercice 1 :
+
+      Parmi  les  figures  ci-dessous,  identifie  celle  qui  correspond  à  une  représentation  d’un
+
+patron de cône de révolution.
+
+Exercice 2 :
+
+On considère la figure ci –dessous :
+
+a
+
+b
+
+c
+
+d
+
+e
+
+Maths faciles 6è : Cours et Exercices Pratiques  16
+
+a)  Donne un nom au solide de cette figure.
+
+b)  Annote cette figure en utilisant les lettres.
+
+ Exercice 3 :
+
+On considère la figure ci –dessus :
+
+a)  Donne un nom à cette figure.
+
+b)  Annote cette figure en utilisant les lettres.
+
+Séquence n° 3: Sphère.
+
+A: Description d'une sphère.
+
+La sphère est un solide limité par une surface non plane ou courbe. Elle n'a ni arête, ni
+
+sommet, ni face.
+
+Des objets ayant la forme d'une sphère : ballon rond, le globe terrestre, la boule.
+
+Maths faciles 6è : Cours et Exercices Pratiques  17
+
+B: Répérage d'un point sur le globe terrestre :
+
+a)   Le globe terrestre.
+
+Le dessin ci-dessus est celui d’un globe terrestre.
+
+b)  Quelques définitions sur le globe terrestre:
+
+       Pour répérer un point sur le globe terrestre, les géographes utilisent une série de points
+
+et de courbes remarquables.
+
+  L'équateur :  C'est le cercle central imaginaire situé à égale distance des pôles et qui
+
+divise la terre en deux parties : l'hémisphère nord et l'hémisphère sud.
+
+  Les parallèles : Ce sont des cercles imaginaires qui sont parallèles à l'équateur. Ils sont
+
+numérotés de 0° à 90° vers le nord et de 0° à 90° vers le Sud.
+
+  Les méridiens : Ce sont des demi-cercles qui sont perpendiculaires à l'équateur et qui
+
+vont d'un pôle à l'autre. Ils sont numérotés de 0° à 180° vers l’Est et de 0° à 180° vers
+
+l’Ouest.
+
+Le méridien d'origine est encore appelé méridien de Greenwich.
+
+  Les coordonnées d'un point : Il s'agit de sa latitude et de sa longitude exprimées en
+
+degré  (°),  indiquées  dans  cet  ordre  lorsqu'elles  sont  écrites  en  couple  :  (latitude  ;
+
+longitude).
+
+Maths faciles 6è : Cours et Exercices Pratiques  18
+
+  La latitude d'un lieu : C'est la distance en degré qui sépare ce lieu de l'équateur. On
+
+précise toujours s'il s'agit de latitude nord pour les lieux situés dans l'hémisphère Nord
+
+et de latitude sud pour ceux situés dans l'hémisphère sud.
+
+  La longitude d'un lieu: C'est la distance en degré qui sépare un  lieu du méridien origine
+
+ou méridien de Greenwich en Angleterre. On précise toujours s'il s'agit de la longitude
+
+EST ou de la longitude OUEST.
+
+NB : Si un lieu est situé sur l'équateur, sa latitude est 0° ; sa longitude est 0° s’il est situé sur
+
+le méridien de Greenwich.
+
+Illustration:
+
+      On considère la représentation suivante du globe terrestre où cinq pays sont matérialisés
+
+par les points A, B, D, E et G
+
+Figure : Le globe terrestre
+
+1)  Annotation de la figure :
+
+a : méridiens ;           b : méridien de Greenwich ;             c : équateur ;              d : parallèles.
+
+2)  Coordonnées géographiques de lieux :
+
+Maths faciles 6è : Cours et Exercices Pratiques  19
+
+              Points
+
+ A
+
+B
+
+D
+
+E
+
+G
+
+Coordonnées
+
+Latitude
+
+60° Sud
+
+40° Nord  20° Sud
+
+80° Sud
+
+60° Nord
+
+Longitude
+
+60°
+
+20°
+
+40° Est
+
+60° Est
+
+40° Est
+
+Ouest
+
+Ouest
+
+Exercice :
+
+        On considère la figure suivante :
+
+                                                                        Figure :
+
+1)  Donne les coordonnées géographiques des points I, J, K, L, U, R et S.
+
+2)  Place sur la figure ci-dessous, les points E, F, G et H de coordonnées géographiques :
+
+              Points
+
+ E
+
+F
+
+G
+
+H
+
+Coordonnées
+
+Latitude
+
+40° NORD
+
+   0°
+
+60° SUD    80° NORD
+
+Longitude
+
+20° EST
+
+40° EST
+
+40°
+
+40° OUEST
+
+OUEST
+
+Maths faciles 6è : Cours et Exercices Pratiques  20
+
+Maths faciles 6è : Cours et Exercices Pratiques  21
+
+SAN°2 : CONFIGURATIONS DU PLAN
+
+Maths faciles 6è : Cours et Exercices Pratiques  22
+
+Séquence n°1 : Droites du plan.
+
+A-  Notions de droites, demi-droites du plan et notations relatives.
+
+a)  Synthèse :
+
+  Une droite est une infinité de points alignés. Elle n’a pas de point de départ ni
+
+de point d’arrivée.
+
+Pour nommer une droite, on se sert de deux points appartenant à cette droite ou une
+
+lettre choisie. La droite contenant les points A et B se note : (AB).
+
+Des points appartenant à une même droite sont appelés des points alignés.
+
+Les points A, B et C sont alignés.
+
+  Une demi-droite est une portion de droite ayant une origine (le point de départ)
+
+mais pas de fin.
+
+Une demi-droite limitée par un point A et contenant un point B se note [AB).
+
+    Cette demi-droite est l’ensemble des points de la droite (AB) limités par le point A contenant
+
+le point B.
+
+  La droite (AB) est appelée support de la demi-droite [AB).
+
+  Deux demi-droites sont dites opposées lorsqu’elles ont même origine et dirigent
+
+dans de sens contraires ou opposés.
+
+Maths faciles 6è : Cours et Exercices Pratiques  23
+
+Les demi-droites [BC) et [BE) sont opposées.
+
+NB :
+
+  Par  deux  points  distincts,  il  passe  une  et  une  seule  droite.  On  ne  peut  donc  tracer
+
+qu’une seule droite passant par deux points distincts du plan.
+
+  Par un point donné du plan, on peut tracer une infinité de droites.
+
+b)  Vocabulaire : Utilisation des symboles ∈,  ∉, ⊂  𝒆𝒕 ⊄.
+
+  A ∈(D) se lit : ‘’ A appartient à (D) ‘’ et signifie que A est un point de la droite
+
+(D).
+
+  A ∉ (D) se lit : ‘’ A n’appartient pas à (D) ‘’ et signifie que A n’est pas un point
+
+de la droite (D).
+
+
+
+(AB) ⊂ (D) se lit : ‘’ (AB) est incluse dans (D) ‘’ ou ‘’ (AB) est contenue dans (D)’’
+
+et signifie que A et B sont des points de la droite (D).
+
+
+
+(AB) ⊄ (D) se lit : ‘’ (AB) est non incluse dans (D) ‘’ ou ‘’ (AB) est non contenue
+
+dans (D)’’ et signifie que  l’un au moins des points A et B n’appartient pas à la
+
+droite (D).
+
+Illustrations :
+
+On a : E ∈ (BC) ; F ∉ (BC) ; E ∉ [BC) ; F ∉ [BC) ; F ∉ [CB) ; B ∈ (EC) ;  E ∈ [CB) ; (BC) ⊂ (𝑩𝑬)
+
+et (BF) ⊄ (BE).
+
+B-  Droites sécantes
+
+Maths faciles 6è : Cours et Exercices Pratiques  24
+
+   Deux  droites  sont  dites  sécantes  lorsqu’elles  se  coupent  en  un  seul  point.  Ce  sont  deux
+
+droites qui ont un seul point en commun. Ce point commun (leur point de concours) est appelé
+
+point d’intersection des deux droites.
+
+Exemple : Les droites (AB) et (CD) sont sécantes en E.
+
+C-  Droites perpendiculaires
+
+  Définition
+
+  Deux droites sont dites perpendiculaires lorsqu’elles se coupent en formant un angle droit.
+
+Deux droites perpendiculaires sont donc sécantes.
+
+  Notation
+
+‘’Deux droites perpendiculaires (D1) et (D2)’’ se note : (D1) Ʇ (D2).
+
+Exemple : Les droites (AB) et (EF) suivantes sont perpendiculaires en C.
+
+D-  Droites parallèles
+
+  Définition
+
+Maths faciles 6è : Cours et Exercices Pratiques  25
+
+« Deux droites sont dites parallèles lorsqu’elles sont perpendiculaires à une même droite ».
+
+On dit aussi que : « lorsque deux droites sont perpendiculaires à une même droite, alors elles
+
+sont parallèles ».
+
+           Les  droites  (𝐺𝐹) 𝑒𝑡 (𝐻𝐼)  sont  perpendiculaires  à  la  droite  (𝐷𝐸).  Donc  les  droites
+
+(𝐺𝐹) 𝑒𝑡 (𝐻𝐼) sont parallèles.
+
+  Propriétés
+
+  Lorsque deux droites sont parallèles, toute droite parallèle à l'une est  parallèle
+
+à l'autre.
+
+  Lorsque deux droites sont parallèles, toute droite sécante à l'une est sécante à
+
+l'autre.
+
+  Lorsque deux droites sont parallèles, toute droite perpendiculaire à l'une est
+
+perpendiculaire à l'autre.
+
+Illustrations :
+
+Maths faciles 6è : Cours et Exercices Pratiques  26
+
+Les droites (𝐶𝐽) 𝑒𝑡 (𝐴𝐵) sont toutes perpendiculaires à (𝐴𝐶). Alors (𝐶𝐽) // (𝐴𝐵). En
+
+supposant  que  (𝐸𝐻) // (𝐶𝐽),  on  a  :  (𝐸𝐻) // (𝐴𝐵) ; (𝐸𝐻)   ⊥   (𝐴𝐶)  puis  (𝐽𝐵) 𝑒𝑡 (𝐸𝐻)  sont
+
+sécantes en 𝐻.
+
+Exercices :
+
+Exercice n°1 :
+
+On considère la figure ci-dessous :
+
+1)  Donne tous les noms de :
+
+a.  la droite (𝐴𝐵) ;
+
+b.  la demi-droite [𝐵𝐷) ;
+
+c.  la demi-droite [𝐶𝐴).
+
+2)  Recopie puis complète les expressions suivantes en remplaçant les pointillés par les
+
+symboles : ∈, ∉, ⊂ 𝑜𝑢  ⊄.
+
+𝐴 … … (𝐴𝐵);     𝐷 … … (𝐴𝐵);    𝐸 … . . (𝐴𝐶);    𝐹 … … (𝐵𝐶); 𝐴 … … [𝐴𝐵);    𝐶 … . [𝐵𝐷);      𝐶 … . . [𝐵𝐴);
+
+Maths faciles 6è : Cours et Exercices Pratiques  27
+
+𝐸 … . . [𝐶𝐷); [𝐵𝐸) … … … [𝐵𝐶);   [𝐵𝐴) … … [𝐵𝐷); [𝐵𝐶) … . . [𝐵𝐷); (𝐶𝐷) … . . (𝐴𝐵); (𝐸𝐵) … . (𝐶𝐷).
+
+Exercice n°2 :
+
+On considère la figure ci-dessous :
+
+1)  Recopie  puis  complète  les  phrases  suivantes  en  utilisant  les  vocabulaires  suivants  :
+
+intersection, parallèles, sécantes et perpendiculaires.
+
+  Les droites (𝑀𝑄) 𝑒𝑡 (𝑅𝑁) sont …………… en 𝑉.
+
+  Les points 𝑆, 𝑅 𝑒𝑡 𝑃 sont …………………
+
+  Les droites (𝑀𝑁) 𝑒𝑡 (𝑄𝑃) sont ………………
+
+  Les droites (𝑆𝐿) 𝑒𝑡 (𝑀𝑉) sont ……………
+
+  Les droites (𝑇𝑈) 𝑒𝑡 (𝑆𝐿) sont ………………
+
+  Le point S est l’…………………….. des droites (𝑇𝐿) 𝑒𝑡 (𝑅𝑃).
+
+2)  Recopie puis complète les phrases suivantes  à l’aide des symboles // 𝑜𝑢  ⊥.
+
+ (𝐿𝑆) … . (𝑈𝑅) ; (𝑀𝑁) … . (𝑂𝑃) ; (𝑆𝑅) … . (𝑂𝑃) ; (𝑆𝑅) … . (𝑄𝑃).
+
+Exercice n°3 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  28
+
+On considère la figure ci-dessous :
+
+ Recopie puis complète les textes suivants par les mots ou expressions qui conviennent :
+
+1)  « Les droites (BE) et ……. sont ……………………,  de même que les droites (DG) et ……..
+
+Or,  si  deux  droites  sont  …………………………  à  une  même  droite,  alors  elles  sont
+
+…………………….. Donc les droites (BE) et ………. sont ……………………….. . »
+
+2)  «  Les  droites  ……..  et  (DF)  sont  parallèles  et  les  droites  ………  et  (AG)  sont
+
+perpendiculaires.  Or  si  deux  droites  sont  ……………………………  et  si  une  droite  est
+
+………………………….. à l’une, alors elle est …………………………….. à l’autre.  Donc les droites
+
+…….. et (AG) sont ………………………….. . »
+
+Séquence n°2 : Segments de droites
+
+A-  Notion de segment de droites et notation relative.
+
+On considère la figure suivante :
+
+Maths faciles 6è : Cours et Exercices Pratiques  29
+
+Cette  représentation  est  notée  [AB]  ou  [BA] et  se  lit  ‘‘segment  AB’’.  C’est  la
+
+portion de la droite (AB) qui est comprise entre les points A et B. Ces points marquant
+
+le début et la fin de ce segment sont ses extrémités. La droite (AB) est le support du
+
+segment [AB].
+
+B-  Vocabulaire relatif aux côtés et angles d'un triangle.
+
+On considère la figure suivante :
+
+  Les points A, B et C sont les sommets du triangle ABC.
+
+  [BC]  est le côté opposé au point A.
+
+  [AC] est le côté opposé à l'angle 𝐴𝐵𝐶.̂
+
+  L'angle 𝐵𝐴𝐶.̂  est l'angle opposé au côté [BC].
+
+  Le sommet opposé au côté [AB] est C.
+
+  Un triangle a 3 sommets et 3 côtés.
+
+C-  Nature d’un triangle.
+
+Définitions :
+
+  Un  triangle  rectangle  est  un  triangle  qui  a  deux  côtés  dont  les  supports  sont
+
+perpendiculaires. C’est un triangle qui a un angle droit.
+
+Maths faciles 6è : Cours et Exercices Pratiques  30
+
+JAB est un triangle rectangle en A.
+
+  Un triangle isocèle est un triangle qui a deux côtés de même longueur.
+
+  Un triangle équilatéral est un triangle qui a trois côtés de même longueur.
+
+ABC est un triangle isocèle en A.
+
+FGH est un triangle équilatéral.
+
+D-  Milieu et médiatrice d'un segment.
+
+Maths faciles 6è : Cours et Exercices Pratiques  31
+
+  Définitions :
+
+  On appelle milieu d’un segment, le point de ce segment qui le partage en
+
+deux autres segments de même longueur.
+
+  On appelle médiatrice d’un segment, la droite qui passe par le milieu de ce
+
+segment et qui est perpendiculaire à son support.
+
+
+
+Illustrations :
+
+                    Le segment [AB] a pour milieu le point C  et pour médiatrice la droite (GH).
+
+Exercice :
+
+On considère les figures suivantes :
+
+Maths faciles 6è : Cours et Exercices Pratiques  32
+
+Indique la figure pour  laquelle la droite (𝑑) est la médiatrice du segment [𝐴𝐵] tout en
+
+justifiant ta réponse.
+
+Séquence n°3 : Cercle.
+
+A-  Définition :
+
+      On appelle cercle de centre O et de rayon r, l'ensemble (C) des points du plan situés à une
+
+distance r de O. On le note: (C)(O ; r) et on lit : cercle (C) de centre O et de rayon r.
+
+Illustration :
+
+Ce cercle a pour centre 𝐴 et pour rayon 𝑟  =  𝐴𝐵. On peut le noter (𝐶) (𝐴 ;  𝑟).
+
+Remarques:
+
+  On peut tracer plusieurs cercles de rayon donné.
+
+Maths faciles 6è : Cours et Exercices Pratiques  33
+
+Ces cercles ont même rayon AB.
+
+  On peut tracer plusieurs cercles de centre donné.
+
+Ces cercles ont même centre A.
+
+  On ne peut tracer qu'un seul cercle de centre donné et de rayon donné.
+
+Les cercles de centre A et de rayons AN et AM sont les mêmes ( 𝐴𝑁  =  𝐴𝑀).
+
+  S'il n'y a pas d'ambiguïté, le cercle de centre O et de rayon r peut être noté (C).
+
+B-  Vocabulaire relatif aux rayons, diamètres et cordes d'un cercle.
+
+Maths faciles 6è : Cours et Exercices Pratiques  34
+
+        Désignons ce cercle par (C).
+
+
+
+  A est le centre du cercle (C).
+
+  Les points M, Q, V et N appartiennent à (C).
+
+  Les points A et U sont à l'intérieur de (C).
+
+  Les points P et O sont à l'extérieur de (C).
+
+  Les segments [AM], [AN] et [AV] sont appelés des rayons de (C).
+
+  Les segments dont les extrémités appartiennent au cercle (C) sont  appelés des cordes
+
+de (C). Ainsi, le segment [MQ] est une corde de (C).
+
+  Le centre A de ce cercle appartient à la corde [MV]. Le segment [MV] est un diamètre
+
+de (C).
+
+NB : Les mots rayon et diamètre peuvent être utilisés dans deux sens. Ainsi, lorsqu’on dit ‘’ le
+
+rayon ou le diamètre’’, on veut parler d’une longueur alors qu’on utilisera ‘’un rayon ou un
+
+diamètre’’ pour désigner un segment.
+
+C-  Quelques formules
+
+        Soit un cercle (𝐶) de centre 𝑂 et de rayon 𝑟, 𝑃 son périmètre et 𝐴 l'aire du disque délimité
+
+par ce cercle.
+
+On a: 𝑃  =  2  ×  𝑟  ×  𝜋 = 𝑑𝑖𝑎𝑚è𝑡𝑟𝑒  ×  𝜋 et  𝐴 =  𝑟  ×  𝑟  ×  𝜋.
+
+Maths faciles 6è : Cours et Exercices Pratiques  35
+
+Exercice :
+
+1)  On considère un cercle (𝐶) de centre 𝑂 et de rayon 𝑟  =  7 𝑐𝑚.
+
+a)  Calcule le périmètre 𝑃 de ce cercle.
+
+b)  Détermine l’aire du disque délimité par ce cercle.
+
+2)  Un carrefour circulaire a pour diamètre 30 𝑚
+
+a)  Détermine le périmètre de ce carrefour.
+
+b)  Détermine son aire.
+
+NB : Prend pour valeur approchée de 𝜋 le nombre 3,14 (𝜋 ≈ 3,14).
+
+Séquence n° 4: Angles
+
+A-   Vocabulaire relatif au sommet, côtés et mesure d'un angle.
+
+           Les demi-droites [AB) et [AC) ont la même origine A. Elles forment l'angle 𝐵𝐴𝐶̂. On le
+
+note aussi 𝐶𝐴𝐵̂ . Le point A est le sommet de cet angle. Les demi-droites [AB) et [AC) sont ses
+
+côtés. La mesure de l'angle 𝐵𝐴𝐶̂ est notée mes 𝐵𝐴𝐶̂.
+
+Remarque :
+
+Dans l'écriture d'un angle 𝐵𝐴𝐶̂, la lettre qui désigne le sommet se trouve entre les deux
+
+autres lettres. Ainsi, le sommet de l'angle 𝐵𝐴𝐶̂ est A.
+
+Programme de prise de la mesure d’un angle.
+
+Maths faciles 6è : Cours et Exercices Pratiques  36
+
+B-   Classification des angles et construction d'un angle de mesure inférieure à 180°.
+
+Informations:
+
+  Un angle dont la mesure est comprise entre 0 ° et 90° est appelé angle aigu.
+
+𝐵𝐴𝐶̂ est un angle aigu.
+
+  Un angle dont la mesure est de 90° est appelé angle droit.
+
+𝐵𝐴𝐶̂ est un angle droit.
+
+Maths faciles 6è : Cours et Exercices Pratiques  37
+
+  Un angle dont la mesure est comprise entre 90 ° et 180° est appelé angle obtus.
+
+𝐹𝐴𝐶̂ est un angle obtus.
+
+  Un angle dont la mesure est de 180° est appelé angle plat.
+
+𝐸𝐵𝐶̂ est un angle plat.
+
+  Un angle dont la mesure est de 0° est appelé angle nul.
+
+𝐸𝐶𝐵̂ est un angle nul.
+
+C-  Angles adjacents.
+
+Définition :
+
+     Deux angles sont dits adjacents lorsqu'ils ont le même sommet, un côté commun et
+
+sont situés de part et d'autre du côté commun.
+
+Synthèse :
+
+Maths faciles 6è : Cours et Exercices Pratiques  38
+
+Les angles 𝐵𝐴𝐶̂ et 𝐶𝐴𝐷̂ sont adjacents.
+
+𝑚𝑒𝑠 𝐵𝐴𝐶̂   +  𝑚𝑒𝑠 𝐶𝐴𝐷̂    =  𝑚𝑒𝑠 𝐵𝐴𝐷̂ .
+
+D-   Bissectrice d'un angle.
+
+Définition:
+
+   La  bissectrice  d'un  angle  est  la  droite  qui  passe  par  le  sommet  de  cet  angle  et  qui  le
+
+partage
+
+en
+
+deux
+
+angles
+
+adjacents
+
+de
+
+même
+
+mesure.
+
+Les  angles  𝐵𝐴𝐹̂  et  𝐶𝐴𝐹 ̂ sont  deux  angles  adjacents  de  même  mesure.  Alors  (AF)  est  la
+
+bissectrice de l’angle 𝐵𝐴𝐸̂.
+
+Programme de construction de la bissectrice d’un angle 𝑴𝑶𝑵̂ .
+
+Maths faciles 6è : Cours et Exercices Pratiques  39
+
+Exercices :
+
+Exercice n°1 :
+
+1)  Construis  un  angle  𝐵𝐴𝐶̂, 𝐻𝐺𝐻′̂ , 𝐿𝑀𝐾̂ , 𝑂𝑄𝑁̂  𝑒𝑡 𝑅𝑊𝑃̂    de  mesures  respectives  35°  ;
+
+90° ; 100° ; 0° et 180°.
+
+2)  Donne le nom correspondant à chaque angle obtenu.
+
+Exercice n°2 :
+
+On considère la figure suivante où les angles 𝐴𝐵𝐶̂ et 𝐶𝐵𝐷̂ sont adjacents.
+
+1) On donne 𝑚𝑒𝑠 𝐴𝐵𝐶̂   =  20° et 𝑚𝑒𝑠 𝐶𝐵𝐷 ̂ =  60°.
+
+Calcule 𝑚𝑒𝑠 𝐴𝐵𝐷̂ .
+
+Maths faciles 6è : Cours et Exercices Pratiques  40
+
+2) On donne : 𝑚𝑒𝑠 𝐴𝐵𝐷̂   =  60° et 𝑚𝑒𝑠 𝐶𝐵𝐷̂   =  35°.
+
+Calcule 𝑚𝑒𝑠 𝐴𝐵𝐶̂.
+
+Exercice n°3 :
+
+1-a) Construis un angle 𝐵𝐴𝐶̂ de mesure 60°.
+
+b) Construis la bissectrice (AM) de cet angle.
+
+2) 𝐸𝐹𝐺̂ est un angle de mesure 80°; (FN) est la bissectrice de cet angle.
+
+Calcule mes 𝐸𝐹𝑁̂ .
+
+Séquence n° 5: Triangles
+
+A-  Construction d'un triangle quelconque et triangles particuliers.
+
+Programmes de constructions (Méthodes).
+
+  Construction d’un triangle connaissant les longueurs des trois côtés :
+
+Pour construire un triangle dont on connaît les longueurs des trois côtés, il faut construire
+
+l’un  des côtés d’abord. A l’aide d’un compas et d’une règle, prendre la longueur de l’un des
+
+deux autres côtés ; poser le compas à l’un des sommets déjà tracé puis construis un arc de
+
+cercle ; faire la même chose pour le dernier côté en posant le compas au second sommet du
+
+segment. Le point d’intersection des deux arcs est le troisième sommet du triangle.
+
+Ce triangle a ses côtés de longueurs 𝑎, 𝑏 𝑒𝑡 𝑐.
+
+  Construction d’un triangle connaissant les longueurs de deux côtés et la mesure d’un
+
+angle.
+
+Maths faciles 6è : Cours et Exercices Pratiques  41
+
+         Pour construire un triangle dont on connaît les longueurs de deux côtés et la mesure d’un
+
+angle, il faut construire d’abord l’un des côtés dont on connait la longueur ; construire une
+
+demi-droite telle que la mesure de l’angle donnée soit vérifiée ; placer le point de cette demi-
+
+droite  vérifiant  la  seconde  longueur  de  côté  donnée.  Ce  point  est  le  troisième  sommet  du
+
+triangle.
+
+côtés forment un angle dont on connait la mesure.
+
+Ce  triangle  a deux de  ses  côtés  de  longueurs  𝑎 𝑒𝑡 𝑏.  Ces
+
+  Construction d’un triangle connaissant la longueur d’un côté et les mesures de deux
+
+angles.
+
+Pour construire un triangle dont on connaît la longueur d’un côté et les mesures de deux
+
+angles,  il  faut  d’abord  construire  le  côté  dont  on  connaît  la  longueur  ;  construire  deux
+
+différentes demi-droites ayant pour origines,  les sommets du segment construit tels que les
+
+mesures d’angles données soient respectées. Le point d’intersection des deux demi-droites
+
+est le troisième sommet du triangle.
+
+Ce triangle a deux de ses angles dont nous connaissons
+
+les mesures et la longueur 𝑎 du côté compris entre eux.
+
+B-   Hauteur, médiatrice et bissectrice d'un triangle.
+
+Définitions:
+
+Maths faciles 6è : Cours et Exercices Pratiques  42
+
+  Une hauteur d'un triangle est une droite passant par un sommet et perpendiculaire au
+
+support du côté opposé.
+
+  On appelle médiatrice d'un triangle, toute médiatrice d'un côté de ce triangle.
+
+  On appelle bissectrice d'un triangle, toute bissectrice d'un angle de ce triangle.
+
+Illustrations :
+
+
+
+
+
+
+
+(GH) est une hauteur du triangle ABH. C’est la hauteur relative au côté [AB] ;
+
+(SQ) est une médiatrice du triangle ABH. C’est la médiatrice du côté [AB] ;
+
+(LB) est une bissectrice du triangle ABH. C’est la bissectrice de l’angle  𝐴𝐵𝐻̂  (la droite
+
+(LB) partage l’angle 𝐴𝐵𝐻̂  en deux angles adjacents de même mesure).
+
+Exercices :
+
+Exercice n°1 :
+
+1) Construis un triangle ABC dans chacun des cas suivants:
+
+a)  AB = AC = BC = 4 cm;
+
+b)  AB = 3 cm, AC = 3 cm et 𝑚𝑒𝑠 𝐵𝐴𝐶̂   =  30° ;
+
+c)  AB = 4 cm, mes 𝐵𝐴𝐶̂= 60° et mes 𝐴𝐵𝐶̂= 30°;
+
+d)  AB = 3 cm, AC = 6 cm et mes 𝐵𝐴𝐶 ̂ = 35°.
+
+2) Donne la nature du triangle ABC dans chaque cas.
+
+Exercice n°2 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  43
+
+1)  Construis un triangle ABC isocèle en A tel que : 𝐴𝐵 = 6𝑐𝑚 𝑒𝑡 𝐵𝐶 = 4𝑐𝑚.
+
+2)  Construis un triangle DEF isocèle en E tel que 𝐸𝐹 =  6𝑐𝑚 et 𝑚𝑒𝑠 𝐷𝐸𝐹̂ = 130°.
+
+Séquence n°6 : Parallélogrammes.
+
+I.  Notion de parallélogrammes.
+
+Définition :
+
+Un  parallélogramme  est  un  quadrilatère  dont  les  supports  des  côtés  opposés  sont
+
+parallèles.
+
+Vocabulaire :
+
+ABCD est un parallélogramme.
+
+  Les segments [𝐴𝐵], [𝐵𝐶], [𝐶𝐷] 𝑒𝑡 [𝐴𝐷] sont les côtés du parallélogramme 𝐴𝐵𝐶𝐷.
+
+  Les segments [𝐴𝐶] 𝑒𝑡 [𝐵𝐷] sont les diagonales  de ce parallélogramme.
+
+  Les côtés [𝐴𝐵] 𝑒𝑡 [𝐵𝐶] se suivent. Ce sont des côtés consécutifs.
+
+  Les côtés [𝐴𝐷] 𝑒𝑡 [𝐵𝐶] se font face. Ce sont des côtés opposés.
+
+  Ce parallélogramme a quatre sommets : 𝐴, 𝐵, 𝐶 𝑒𝑡 𝐷  et quatre angles : 𝐴𝐵𝐶̂ ; 𝐵𝐶𝐷̂ ;
+
+𝐶𝐷𝐴̂ et 𝐷𝐴𝐵̂ .
+
+  Les angles 𝐴𝐵𝐶̂  et  𝐶𝐷𝐴̂ se font face. Ils sont des angles opposés.
+
+  Les angles 𝐴𝐵𝐶̂ et 𝐵𝐶𝐷̂ se suivent. Ils sont des angles consécutifs.
+
+Propriétés :
+
+   Les diagonales d'un parallélogramme se coupent en leur milieu.
+
+Maths faciles 6è : Cours et Exercices Pratiques  44
+
+Illustration :
+
+𝐴𝐵𝐶𝐷 est un parallélogramme ayant pour diagonales, les segments [𝐴𝐶] 𝑒𝑡 [𝐷𝐵]. Ces
+
+segments se coupent en  𝑂. Alors 𝑂 est le milieu de chacun des segments [𝐴𝐶] 𝑒𝑡 [𝐷𝐵].
+
+Remarque :
+
+Le point d’intersection des diagonales d’un parallélogramme est le centre de symétrie
+
+de ce parallélogramme. C’est le centre du parallélogramme.
+
+  Un  quadrilatère  dont
+
+les  diagonales  se  coupent  en
+
+leur  milieu  est  un
+
+parallélogramme.
+
+Illustration :
+
+Le quadrilatère ABCD a ses diagonales qui se coupent en leur milieu E. Alors
+
+ABCD est un parallélogramme.
+
+  Les côtés opposés d’un parallélogramme ont la même longueur.
+
+Illustration :
+
+En considérant un parallélogramme 𝐴𝐵𝐶𝐷, on a : 𝐴𝐵  =  𝐶𝐷 𝑒𝑡 𝐴𝐷 =  𝐵𝐶.
+
+  Un quadrilatère qui a ses côtés opposés de même longueur est un parallélogramme.
+
+Maths faciles 6è : Cours et Exercices Pratiques  45
+
+Illustration :
+
+ABCD  est  un  quadrilatère  tel  que    𝐴𝐵  =  𝐶𝐷 𝑒𝑡 𝐵𝐶  =  𝐴𝐷.  Les  côtés  opposés  de  ce
+
+quadrilatère  sont  : [𝐴𝐵] 𝑒𝑡 [𝐶𝐷],  de  même  que  [𝐴𝐷] 𝑒𝑡 [𝐵𝐶].  Alors  𝐴𝐵𝐶𝐷  est  un
+
+parallélogramme.
+
+II.
+
+Etude de quelques parallélogrammes particuliers.
+
+I.
+
+Le losange.
+
+  Définition :
+
+Un
+
+losange  est  un  parallélogramme  dont
+
+les  supports  des  diagonales  sont
+
+perpendiculaires.
+
+Illustration :
+
+On considère le parallélogramme ABCD suivant :
+
+Maths faciles 6è : Cours et Exercices Pratiques  46
+
+Ce  parallélogramme  a  pour  diagonales  les  segments  [DB]  et  [AC]  de  supports
+
+perpendiculaires (c’est-à-dire (𝐴𝐶) ⊥ (𝐵𝐷)). Alors ABCD est un losange.
+
+  Propriété : Les côtés d’un losange ont même longueur.
+
+Illustration :
+
+ABCD est un losange. On a alors : 𝐴𝐵 = 𝐵𝐶 = 𝐶𝐷 = 𝐴𝐷.
+
+II.
+
+Le rectangle
+
+  Définition :
+
+Un rectangle est un quadrilatère qui a quatre (04) angles droits.
+
+Illustration :
+
+Maths faciles 6è : Cours et Exercices Pratiques  47
+
+ABCD est un quadrilatère ayant 4 angles droits. Alors ABCD est un rectangle.
+
+  Propriétés :
+
+  Un quadrilatère ayant trois angles droits est un rectangle.
+
+Illustration :
+
+EFGH est un quadrilatère ayant trois (03) angles droits. Alors EFGH est un rectangle.
+
+  Un parallélogramme ayant un angle droit est un rectangle.
+
+Illustration :
+
+Considérons le parallélogramme IJKL suivant :
+
+Ce parallélogramme a un angle droit au sommet I. Alors IJKL est un rectangle.
+
+Maths faciles 6è : Cours et Exercices Pratiques  48
+
+  Un rectangle est un parallélogramme.
+
+Ceci s’explique par le fait qu’un rectangle est avant tout un quadrilatère qui a
+
+ses côtés opposés de même longueur et de supports parallèles.
+
+III.
+
+Le carré
+
+Définition :
+
+« Un carré est un rectangle dont les côtés ont la même longueur. »
+
+Ceci s’explique par le fait qu’un carré est un quadrilatère ayant quatre (04) angles
+
+droits et ses côtés de même longueur.
+
+IIustration :
+
+𝑂𝑃𝑄𝑅 est un carré.
+
+IV.
+
+Périmètre et aire d’un parallélogramme.
+
+Maths faciles 6è : Cours et Exercices Pratiques  49
+
+𝐴𝐵𝐶𝐷 est un parallélogramme. [𝐼𝐵] est la hauteur du parallélogramme relative
+
+au côté [𝐵𝐶].
+
+Soit P le périmètre de ce parallélogramme et S son aire.
+
+On a : 𝑃 = 2 × (𝐴𝐵 + 𝐵𝐶) 𝑒𝑡  𝑆 =  𝐼𝐵 × 𝐵𝐶.
+
+V.
+
+Périmètre et aire d’un losange .
+
+          𝐴𝐵𝐶𝐷 est un losange. Soit 𝑆 son aire. On a :       𝑺 =
+
+𝑷 = 𝟒 × 𝑨𝑩.
+
+𝑨𝑪 ×𝑩𝑫
+
+𝟐
+
+  et son périmètre est
+
+VI.
+
+Périmètre et aire d'un carré et d'un rectangle.
+
+  Désignons par 𝑐 la longueur de chaque côté d'un carré, 𝑃 son périmètre et 𝐴 son aire.
+
+On a: 𝑷  =  𝟒  ×  𝒄  et  𝑨  =  𝒄  ×  𝒄.
+
+  Désignons par 𝐿 𝑒𝑡 𝑙 respectivement la longueur et la largeur d'un rectangle,  𝑃′ son
+
+périmètre et 𝐴′ son aire.
+
+On a: 𝑷′  =  𝟐 × ( 𝑳  +  𝒍 )  et 𝑨′  =  𝑳  ×  𝒍.
+
+Exercices :
+
+Exercice n°1 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  50
+
+1) Un parallélogramme EFGH a pour aire 120 𝑚2. Le côté [EF] a pour longueur 15 𝑚.
+
+Calcule la longueur de la hauteur relative à ce côté.
+
+2) Calcule le périmètre d'un parallélogramme dont les longueurs des côtés sont :
+10 𝑐𝑚 𝑒𝑡 15 𝑐𝑚.
+
+Exercice n°2 :
+
+1) Calcule l'aire d'un losange dont les longueurs des diagonales sont 4 𝑐𝑚 𝑒𝑡 7,5 𝑐𝑚.
+
+2) L'aire d'un losange est 25 𝑐𝑚2 et l'une de ses diagonales a pour longueur 8 𝑐𝑚.
+
+Calcule la longueur de l'autre diagonale.
+
+Exercice n°3 :
+
+1) Calcule le périmètre 𝑃1  et l'aire 𝐴 1 d'un carré dont la longueur de chaque côté est
+
+ 𝑐 = 5 𝑐𝑚.
+
+2) Un rectangle a pour aire 𝐴  =  20 𝑐𝑚2 et pour largeur  𝑙  =  4 𝑐𝑚.
+
+Calcule la longueur 𝐿 de ce rectangle puis détermine son périmètre 𝑃2.
+
+Séquence n° 7: Nombres entiers naturels.
+
+I.
+
+ Notion de nombres entiers naturels.
+
+  L’ensemble des nombres entiers est appelé l’ensemble des nombres entiers
+
+naturels. Il est noté ℕ.
+
+  ℕ∗ est l’ensemble des nombres entiers naturels privé de 0 (sauf le nombre 0).
+
+  ℕ∗ est une partie de  ℕ. Ainsi, on a : ℕ∗ ⊂  ℕ.
+
+  L’ensemble ℕ est infini.
+
+II.
+
+Ecriture d’un nombre entier naturel en chiffre et en lettre.
+
+                                                Règles :
+
+  Mille est invariable. Il ne prend jamais s.
+
+Maths faciles 6è : Cours et Exercices Pratiques  51
+
+   Vingt et cent prennent un s lorsqu'ils sont multipliés et qu'ils terminent l'écriture
+
+d'un nombre.
+
+  Million prend s à partir de 2 (lorsqu'il est multiplié).
+
+Exemples :
+
+  325 : trois cent vingt-cinq ;
+
+  7.200 : sept mille deux cents ;
+
+  380 : trois cent quatre-vingts ;
+
+  395 : trois cent quatre-vingt-quinze.
+
+III.
+
+Calcul de manière performante.
+
+                                                       Règles de priorité
+
+  Dans une écriture en ligne, une opération entre parenthèses est prioritaire.
+
+  En absence de parenthèses, la multiplication est prioritaire sur l'addition et la
+
+soustraction.
+
+       Exemples :
+
+      Calculons les nombres A et B suivants :
+
+  𝐴 = 3 × 5 + 7 × 2 − 5;
+
+        Alors  𝐴 = 15 + 14 − 5 ;
+
+        Donc 𝐴 = 29 − 5;
+
+        D’où 𝐴 = 24.
+
+  𝐵 = 3 × (7 − 2) + 4 ;
+Alors  𝐵 = 3 × 5 + 4 ;
+Donc  𝐵 = 15 + 4 ;
+
+           D’où 𝐵 = 19.
+
+IV.
+
+Prédécesseur, successeur d'un nombre entier naturel et nombres entiers
+
+naturels consécutifs.
+
+  Le prédécesseur d'un nombre entier naturel est le nombre entier naturel qui
+
+vient immédiatement avant lui.
+
+Maths faciles 6è : Cours et Exercices Pratiques  52
+
+  Le successeur d'un nombre entier naturel est le nombre entier naturel qui
+
+vient immédiatement après lui.
+
+  Des nombres entiers naturels sont dits consécutifs lorsqu'ils  se suivent
+
+immédiatement.
+
+Exemple :
+
+Le prédécesseur de 10 𝑒𝑠𝑡 9 ; son successeur est 11. Les nombres 9 ;  10 𝑒𝑡 11 sont
+
+consécutifs.
+
+V.
+
+Nombres pairs et nombres impairs.
+
+  Un nombre entier naturel est dit pair s'il s'agit des chiffres 0;  2;  4;  6 ;  8 ou se
+
+termine par l'un de ses chiffres.
+
+  Un entier naturel est dit impair s'il s'agit des chiffres 1;  3;  5;  7 ;  9 ou se termine
+
+par l'un de ces chiffres.
+
+Exemple : Les nombres 13 ;  15 ;  19 ;  27 𝑒𝑡 31 sont impairs alors que les nombres
+
+10 ;  22 ;  84  96 𝑒𝑡 108 sont pairs.
+
+VI.  Multiple d'un nombre entier naturel.
+
+  Un nombre entier naturel b est un multiple d'un nombre entier naturel a s'il est
+
+obtenu par multiplication de a par un nombre entier naturel c tel que : b = a × c.
+
+3)  On ne peut pas dresser la liste de tous les multiples d'un nombre entier naturel non
+
+nul.
+
+4)  Si a est un nombre entier naturel, on a :
+
+a × 1 = a et a × 0 = 0.
+
+Exemple : On a : 12 = 4 × 3. Alors 12 est un multiple de 3 et de 4.
+
+Propriétés
+
+  Chaque nombre entier naturel est multiple de lui-même et de 1.
+
+  0 est multiple de chaque nombre entier naturel.
+
+VII.
+
+ Diviseurs d'un nombre entier naturel.
+
+Maths faciles 6è : Cours et Exercices Pratiques  53
+
+  Un nombre entier naturel non nul a est dit diviseur d'un nombre entier naturel
+
+b s'il existe un nombre entier naturel c tel que: b = a × c.
+
+  1 et a sont respectivement le plus petit et le plus grand diviseur de a.
+
+  L'ensemble des diviseurs d'un nombre entier naturel est fini
+
+Exemple : Déterminons les diviseurs de 12.
+
+On a :
+
+       12 = 1 × 12 ;
+
+12 = 2 × 6;
+
+12 = 3 × 4;
+
+ 12 = 4 × 3.
+
+Les nombres 3 𝑒𝑡 4 se répètent alors on s’arrête là. Ainsi, les diviseurs de 12 𝑠𝑜𝑛𝑡 ∶
+
+1; 2; 3: 4; 6 𝑒𝑡 12.
+
+VIII.
+
+Caractères de divisibilité d'un nombre entier naturel par un autre entier naturel
+
+donné.
+
+A.  Caractères de divisibilité d'un nombre entier naturel par 2, 3 ou 4.
+
+a)  2:
+
+            Un nombre entier naturel est divisible par 2 lorsqu'il se termine par 0 ;  2;  4;  6 𝑜𝑢 8.
+
+Ce nombre doit être pair.
+
+b)  3:
+
+Un nombre entier naturel est divisible par 3 lorsque la somme de ses chiffres est un
+
+multiple de 3.
+
+c)  4:
+
+       Un nombre entier naturel est divisible par 4 lorsque les deux derniers chiffres dans
+
+l'ordre de l'écriture forment un nombre divisible par 4.
+
+ Exemples :
+
+  38 ;  14 𝑒𝑡 26 sont des multiples de 2 ;
+
+  15 : On a : 1 + 5 = 6 où 6 est un multiple de 3. Alors 15 est un multiple de 3.
+
+Maths faciles 6è : Cours et Exercices Pratiques  54
+
+  308 ;  416 𝑒𝑡 540 sont des multiples de 4 car 08 ;  16 𝑒𝑡 40 sont respectivement des
+
+multiples de 4.
+
+B.  Caractères de divisibilité d'un nombre entier naturel par 5; 9 ou 25.
+
+a)  5:
+
+   Un nombre entier naturel est divisible par 5 lorsqu'il se termine par 0 ou 5.
+
+b)  9:
+
+    Un nombre entier naturel est divisible par 9 lorsque la somme de ses chiffres est un
+
+multiple de 9.
+
+c)  25:
+
+     Un nombre entier naturel est divisible par 25 lorsqu'il se termine par 00;  25 ;  50 𝑜𝑢 75.
+
+Exemples :
+
+  105 𝑒𝑡 310 sont des multiples de 5.
+
+  180 : On a : 1 + 8 + 0 = 9 ; 9 est un multiple de lui-même. Alors 180 est un multiple
+
+de 9.
+
+  300 ;  1650 ;  375 𝑒𝑡 825 sont des multiples de 25.
+
+C.  Caractères de divisibilité d'un nombre entier naturel par 10 ; 100 ou 1000.
+
+a)  10
+
+Un nombre entier naturel est divisible par 10 lorsqu'il se termine par 0.
+
+b)   100
+
+Un nombre entier naturel est divisible par 100 lorsqu'il se termine par 00.
+
+c)   1000
+
+Un nombre entier naturel est divisible par 1000 lorsqu'il se termine par 000.
+
+Exemples :
+
+  1050 ; 370 ; 500 sont des multiples de 10 ;
+
+  300 ; 6800 et 34000 sont des multiples 100 ;
+
+  3.000 ; 50.000 et 900.000 sont des multiples de 1000.
+
+Maths faciles 6è : Cours et Exercices Pratiques  55
+
+Exercices :
+
+Exercice n°1 :
+
+Recopie  puis  complète  les  énoncés  ci-après  en  remplaçant  les  pointillés  par  l’un  des
+
+symboles : ∈, ∉, ⊂ ou ⊄
+
+3,5 … . . ℕ; 7 … … ℕ; 14,00 … … . . ℕ;
+
+16
+3
+
+… … ℕ;
+
+8
+2
+
+… … ℕ;  ℕ∗ … . ℕ  𝑒𝑡 ℕ … . . . ℕ∗
+
+Exercice n°2 :
+
+1) Écris en lettre les nombres suivants: 100.500 ; 980; 3.016; 2.000; 22.342 et 1.000.000
+
+2) Écris en chiffre chacun des nombres :
+
+a) cent soixante-seize ;
+
+b) mille cinq cent quarante-cinq ;
+
+c) seize millions deux cent vingt-neuf mille ;
+
+d) cent mille cinq cent douze ;
+
+e) trois millions quatre cent vingt-cinq mille deux cent deux.
+
+Exercice n°3 :
+
+1) Écris en lettre les nombres suivants : 10.080 ; 1.015.400; 1.981; 103.045 et 1.320.
+
+2) Écris en chiffre les nombres suivants:
+
+a) cent un mille sept cents;
+
+b) sept cent soixante-quinze;
+
+c) mille quatre-vingt-dix ;
+
+d) sept mille soixante;
+
+e) trois cent quinze mille quinze.
+
+Exercice n°4:
+
+Effectue les opérations suivantes de manière performante :
+
+a) 𝐴 =   (5 + 7) × (4 − 2) + 7;
+
+b) 𝐵 =  21 + 77 + 14 + 33;
+
+c) 𝐶 =  2 × 9 × 8 × 5;
+
+d) 𝐷 =  13 − (7 + 3);
+
+Maths faciles 6è : Cours et Exercices Pratiques  56
+
+e) 𝐸 =  98 × 24 − 9 × 185 + 120 × 4 + 13 × 100.
+
+Exercice n°5:
+
+1) Donne le prédécesseur du nombre 108 et son successeur.
+
+2) Cite trois nombres entiers naturels consécutifs sachant que:
+
+a) l'un d'eux est 82.
+
+b) le plus grand est 202.
+
+c) le plus petit est 28.
+
+Exercice n°6:
+
+Cite les nombres pairs et les nombres impairs de la liste suivante : 0; 15; 30; 47; 60;
+
+75; 98 et 101.
+
+Exercice n°7:
+
+1) Dans un tableau à 3 colonnes, précise le prédécesseur et le successeur de chacun des
+
+nombres ci-après : 300;  2.000;  599;  6.001 𝑒𝑡 10.000.
+
+2) Ecris quatre nombres entiers naturels consécutifs sachant que le dernier est 200.
+
+3) Ecris trois nombres entiers naturels consécutifs sachant que l'un d'eux est 250. (Tu
+
+donneras toutes les possibilités).
+
+4) Parmi les nombres suivants, cite ceux qui sont pairs et ceux qui sont impairs:
+
+100;  235;  12;  17;  69;  7 𝑒𝑡 80.
+
+Exercice n°8 :
+
+Trouve les diviseurs du nombre 50.
+
+Exercice n°9 :
+
+On considère les nombres suivants: 6 ;  12;  13;  18;  58;  103;  210;  540;  545 𝑒𝑡 2946.
+
+Cite parmi ces nombres, ceux qui sont divisibles par :
+
+             a) 2 ;
+
+              b) 3 ;
+
+Maths faciles 6è : Cours et Exercices Pratiques  57
+
+              c) 4.
+
+Exercice n°10 :
+
+On considère les nombres suivants : 325 ; 423 ; 927 ; 45 ; 75; 330 et 1400.
+
+Consigne :
+
+Parmi ces nombres , cite ceux qui sont des multiples de :
+
+1)  5 ;
+2)  9 ;
+3)  25
+
+Exercice n°11 :
+
+Cite parmi les nombres suivants, les multiples de 10 ;  100 𝑜𝑢 1000 :
+
+                   200;  50;  1500;  12000 𝑒𝑡 23000.
+
+Exercice n°12 :
+
+1)  Détermine les multiples de 7 compris entre 40 𝑒𝑡 65.
+
+2)  Justifie que 140 est un multiple de 7.
+
+Séquence n°8 : Nombres décimaux arithmétiques.
+
+I.  Partie entière et partie décimale d'un nombre décimal.
+
+  Tout nombre décimal admet une partie entière et une partie décimale.
+
+  Tout nombre entier naturel est un nombre décimal.
+
+  L'ensemble des nombres décimaux arithmétiques est noté  𝔇.    On a: ℕ ⊂  𝔇.
+
+  On entendra par nombre décimal, nombre décimal arithmétique.
+
+II.
+
+Ordre et comparaison des nombres décimaux arithmétiques
+
+Règles :
+
+  De deux nombres décimaux à parties entières différentes, le plus grand est celui qui a
+
+la plus grande partie entière.
+
+  De deux nombres décimaux à parties entières égales, le plus grand est celui qui a la
+
+plus grande partie décimale.
+
+Maths faciles 6è : Cours et Exercices Pratiques  58
+
+Exemples :
+
+  3,7 < 5,4 car ces deux nombres n’ont pas même partie entière et 3 < 5.
+
+  5,14 > 5,08 car ces deux nombres ont même partie entière 5 et on a :
+
+0,14 > 0,08 𝑎𝑣𝑒𝑐 0,14 la partie entière de 5,14 𝑒𝑡 0,08 celle de 5,08.
+
+III.
+
+Calcul de la somme, la différence ou le produit de deux ou plusieurs nombres
+
+décimaux.
+
+Informations (Rappels):
+
+  Dans  une  suite  d'opérations  sans  parenthèse,  la  multiplication  est  prioritaire  sur
+
+l'addition et la soustraction.
+
+  Pour calculer de manière performante un nombre, on peut déplacer certains termes
+
+(pour la somme) ou facteurs (pour le produit) intervenant dans l'opération.
+
+IV.
+
+Règles de priorité opératoire et quotient de nombres décimaux.
+
+Informations :
+
+  Dans une écriture en ligne, une opération entre parenthèses est prioritaire.
+
+  Pour multiplier une somme par un nombre, on peut multiplier chaque terme de cette
+
+somme par ce nombre et additionner les produits obtenus.
+
+  Pour multiplier une différence par un nombre, on peut multiplier chaque terme de la
+
+différence par ce nombre et calculer la différence entre les produits obtenus.
+
+  Diviser un nombre décimal a par un nombre décimal 𝑏, c'est rechercher les nombres
+
+décimaux 𝑞 𝑒𝑡 𝑟 tels que : 𝑎  =  𝑏  ×  𝑞  + 𝑟.
+
+𝑎, 𝑏, 𝑞 𝑒𝑡 𝑟 sont respectivement le dividende, le diviseur, le quotient et le reste de la
+
+division de 𝑎 par 𝑏.
+
+NB : Lorsque la réponse donnée est une valeur approchée, on utilisera le symbole ≈
+
+V.
+
+Encadrement d'un nombre décimal par deux nombres entiers naturels consécutifs.
+
+      Encadrer un nombre décimal par deux nombres entiers naturels consécutifs, c'est trouver
+
+les nombres entiers naturels qui se trouvent immédiatement avant et immédiatement après
+
+ce nombre.
+
+Maths faciles 6è : Cours et Exercices Pratiques  59
+
+Exemple : On a : 3 < 3,5 < 4.
+
+Alors 3,5 est encadré par les nombres entiers naturels consécutifs 3 𝑒𝑡 4
+
+Exercices :
+
+Exercice n°1 :
+
+Recopie  puis  complète  les  énoncés  ci-après  en  remplaçant  les  pointillés  par  l’un  des
+
+symboles : ∈, ∉, ⊂ ou ⊄
+
+3,5 … . . 𝔇; 7 … … 𝔇 ; 14,00 … … . . 𝔇;
+
+16
+3
+
+… … 𝔇;
+
+17
+2
+
+… … ℕ;  ℕ∗ … . 𝔇;  𝔇 … . ℕ 𝑒𝑡 ℕ … . . . 𝔇.
+
+Exercice n°2 :
+
+1) Détermine la partie entière et la partie décimale de chacun des nombres décimaux
+
+suivants:     0,15 ;  12,7 ;  12,3 ;  15,3 𝑒𝑡 20,33.
+
+2) Range ces nombres dans l'ordre croissant puis dans l'ordre décroissant.
+
+Exercice n°3 :
+
+On considère les nombres suivants :  𝑎  =  2,12  +  6,36  +  7,88  +  3,64;
+
+  𝑏  =  18,3  −  4,12  +  0,83  −  4,5 ;     𝑐  =  2,5  ×  1,45  ×  4  𝑒𝑡   𝑑  =  3,5  +  2,5  ×  8.
+
+Calcule de manière performante chacun de ces nombres.
+
+Exercice n°4 :
+
+1)  Effectue de deux manières différentes, chacune des opérations suivantes :
+
+𝐴  =  3  ×   (5  − 2) ;  𝐵  =   (3  + 7) ×  3 ;   𝐶  =   (4,3  +  5,7) ×  2 𝑒𝑡
+
+𝐷  =  2  ×   (8  + 7)   +  3  × 2.
+
+2) On donne : 𝐸  =  24  ÷  3 𝑒𝑡 𝐹  =  22  ÷  7.
+
+Calcule :
+
+a) le quotient entier de E.
+
+b) le quotient approché à l'unité près, au dixième près et au centième près de F.
+
+Exercice n°5 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  60
+
+1) Calcule de manière performante, chacun des nombres suivants :
+
+𝑎  =  2,3  +  5,14  +  7,7;  𝑏  =  86  +  24  +  14;  𝑐  =  4,9  +  7,2  +  0,1  +  2,8;
+
+𝑑  =  2,34  ×  2  ×  0,5; 𝑒  =  2  ×  3,47  ×  5; 𝑓  =  4  ×  0,1  ×  25  ×  10;
+
+𝑔  =  2,3578  ×  3,459  ×  0  ×  12,5 ;  ℎ  =  0,3  ×  37  +  0,3  ×  23;
+
+ 𝑖 =  17  ×  13,52  −  17  ×  3,52;  𝑗  =  3,95  ×  0,99  +  3,95  ×  0,01 𝑒𝑡
+
+ 𝑘  =  175002  ×  5  −  5  ×  175002.
+
+2) Détermine la valeur approchée par défaut de 𝐻  =  15  ÷  7 au centième près.
+
+3) Encadre H par deux nombres entiers naturels consécutifs.
+
+Exercice n°6 :
+
+        Carole souhaite acheter une robe de soirée. La robe qu'elle désire est affichée à 7500𝑓
+
+en magasin. Carole est habile de ses mains et décide de coudre la robe elle-même. Elle achète
+
+pour cela 2,5 𝑚  de tissu à 1500𝑓 le mètre, une douzaine de boutons à 75𝑓 la pièce, du fil
+
+pour 390𝑓 et 3,5𝑚 de ruban à 450𝑓 le mètre.
+
+1.  Calcule la dépense effectuée par Carole en réalisant elle-même sa robe.
+
+2.  Détermine la somme qu'elle a économisée.
+
+Séquence n° 9 : Fractions.
+
+I.
+
+ Fractions égales.
+
+Vocabulaire:
+
+  Le quotient d'un nombre entier naturel a par un nombre entier naturel b non nul est
+
+le nombre q tel que : a = b x q. On le note  𝑞  =
+
+𝑎
+
+𝑏
+
+.
+
+C'est une fraction dont a est le numérateur et b le dénominateur.
+
+  Le numérateur et le dénominateur sont les termes d'une fraction.
+
+Propriétés :
+
+  On obtient une fraction égale à une fraction donnée en multipliant ses deux
+
+termes par un même nombre entier naturel non nul.
+
+Maths faciles 6è : Cours et Exercices Pratiques  61
+
+   On obtient une fraction égale à une fraction donnée en divisant ses deux termes
+
+par un même diviseur commun.
+
+Dans ce cas, on dit qu'on a simplifié la fraction donnée.
+
+II.
+
+Fractions décimales.
+
+Définition :
+
+ Une fraction décimale est une fraction dont le dénominateur est 1;  10;  100;  1000 etc.
+
+Exemple :
+
+3
+
+10
+
+; 8 𝑒𝑡
+
+7
+
+100
+
+ sont des fractions décimales.
+
+III.
+
+Somme et différence de deux fractions de même dénominateur.
+
+Informations (Rappels) :
+
+  Règle n°1:
+
+Soient a et b deux nombres entiers naturels ; d un nombre entier naturel non nul.
+𝒃
+𝒅
+
+𝒂 + 𝒃
+𝒅
+
+𝒂
+𝒅
+
+=
+
++
+
+.
+
+  Règle n°2:
+
+Soient a et b deux nombres entiers naturels tels que a > b et d un nombre entier
+naturel non nul.
+
+𝒂
+𝒅
+
+−
+
+𝒃
+𝒅
+
+=
+
+𝒂 − 𝒃
+𝒅
+
+.
+
+IV.
+
+Produit d'une fraction par un nombre entier naturel.
+
+Information :
+
+Règle :
+
+Soient a et b deux nombres entiers naturels ; d un nombre entier naturel non nul.
+
+𝒂  ×   (
+
+)   =
+
+𝒃
+𝒅
+
+𝒂  ×  𝒃
+𝒅
+
+ .
+
+Exemple :  3 ×
+
+5
+
+4
+
+=
+
+3×5
+
+4
+
+=
+
+15
+
+4
+
+V.
+
+Valeurs approchées d'une fraction.
+
+  Une valeur approchée d’une fraction n’est pas sa vraie valeur mais une valeur très
+
+proche de sa vraie valeur.
+
+  La  valeur  approchée  par  défaut  d’une  fraction  à  un  ordre  donné  est  la  valeur
+
+immédiatement inférieure à cette fraction à cet ordre.
+
+Maths faciles 6è : Cours et Exercices Pratiques  62
+
+  La  valeur  approchée  par  excès  d’une  fraction  à  un  ordre  donné  est  la  valeur
+
+immédiatement supérieure à cette fraction à cet ordre.
+
+Exemple :
+
+On a :
+
+12
+
+7
+
+≈ 1,7142.  Alors au centième près, une valeur approchée de
+
+excès, on a : 1,72.
+
+Exercices :
+
+Exercice n°1 :
+
+12
+
+7
+
+ est 1,71 et par
+
+1) Simplifie les fractions suivantes :
+
+25
+14
+;
+;
+15
+
+6
+
+30
+
+12
+
+ et
+
+48
+
+10
+
+ .
+
+3
+ ;
+2) Donne deux autres écritures de chacune des fractions suivantes :
+7
+
+9
+
+5
+.
+ et
+7
+2
+
+Exercice n°2 :
+
+ Les fractions suivantes sont égales à des nombres décimaux :
+
+328
+
+1
+
+;
+
+13
+
+10
+
+;
+
+200
+
+1000
+
+;
+
+5
+
+100
+
+ 𝑒𝑡
+
+3
+
+10
+
+.
+
+Détermine ces nombres.
+
+Exercice n°3 :
+
+On considère les nombres A, B, C et D suivants :
+
+;
+
+  𝐴  =
+
+  𝐵  =
+
+  𝐶  =
+
+  𝐷 =
+
+30
+
+4
+3
+
+7
+30
+
++
+
+15
+
+4
+;
+17
+
+4
+.
+
++
+2
+
+7
+−
+2
+
+5
+
+4
+8
+−
+
+5
+
+Calcule ces nombres.
+
+Exercice n°4:
+
+Calcule les nombres suivants en simplifiant les résultats si possible.
+
+Maths faciles 6è : Cours et Exercices Pratiques  63
+
+17
+
+21
+123
+
+  𝑎  =  3  ×   (
+
+) ;
+
+) ;
+13
+
+  𝑏  =  5  ×   (
+
+125
+3
+   𝑐  =  3  ×   (
++
+5
+7
+
+   𝑑 =  7 ×   (
+
++
+
+11
+
+);
+
+).
+
+5
+3
+
+11
+
+Exercice n°5 :
+
+Calcule la valeur approchée à un dixième, centième et millième près de
+
+10
+
+7
+
+.
+
+a) par défaut.
+
+b) par excès.
+
+Exercice n°6 :
+
+Coffi a trois enfants : Amadou, Alima et Issa. Il a 40 𝑎𝑛𝑠. La somme des âges de ses
+
+enfants est égale à son âge. Amadou a les
+
+9
+
+20
+
+  de l'âge de son père; Alima les
+
+7
+
+.
+20
+
+1) Écris sous forme de fraction, la portion sur 20 que représente l'âge de Issa par rapport à
+
+celui de son père.
+
+2) Détermine l'âge de chaque enfant.
+
+Exercice n°7:
+
+Une classe de 6è a 60 élèves. Un élève sur 4 joue au football et deux élèves sur 5
+
+jouent au basket-ball.
+
+1) Détermine le nombre d'élèves jouant au football.
+
+2) Détermine le nombre d'élèves jouant au basket-ball.
+
+Séquence n° 10 : Calcul littéral.
+
+L’objectif de cette séquence est de calculer l’une des dimensions ou l’une des grandeurs
+
+d’une figure connaissant d’autres.
+
+    Dans les exercices ci-dessous,  nous serons amenés à appliquer les formules antérieures.
+
+Maths faciles 6è : Cours et Exercices Pratiques  64
+
+Exercices :
+
+Exercice n°1 :
+
+1) Les dimensions d'un rectangle en mètre sont : longueur 𝑥 et largeur 15. Son aire est
+
+𝐴  =  300 𝑚2 . Calcule  𝑥.
+
+2) Un carré a pour périmètre  𝑃  =  120 𝑚. Calcule la longueur 𝑦 de chaque côté de ce carré.
+
+Exercice n°2 :
+
+Soit r le rayon d'un disque et A1 son aire.
+
+a)  Exprime A1  en fonction de 𝑟 et 𝜋.
+
+        b) Calcule  A1  en fonction de 𝜋 pour :
+
+  𝑟  =  15 𝑚
+  𝑟  =  20 𝑚.
+
+Exercice n°3 :
+
+1) Un pavé droit a pour volume  𝑉  =  750 𝑚2    , longueur 𝐿  =  15 𝑚 et largeur   𝑙  =  10 𝑚.
+
+Détermine sa hauteur.
+
+2) Un cube a pour volume  𝑉′  =  64 𝑚3.
+
+Détermine la longueur 𝒂 de chaque arête de ce cube.
+
+Exercice n° 4 :
+
+Le tableau ci-dessous présente quatre (04) rectangles dont certaines informations
+
+sont effacées.
+
+Reproduis puis complète le tableau ci-dessous :
+
+La longueur de l'un des côtés
+
+21,5𝑚
+
+La longueur du second côté
+
+14𝑚
+
+17𝑚
+
+Le périmètre du rectangle
+
+L'aire du rectangle
+
+490 𝑚2
+
+6𝑚
+
+20𝑚
+
+16𝑚
+
+92𝑚
+
+Exercice n°5 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  65
+
+1) Un parallélogramme a pour aire 500 𝑚2. Sa hauteur a pour longueur 20 𝑚.
+
+Détermine la longueur du côté correspondant à cette hauteur.
+
+2) Un côté d'un parallélogramme a pour longueur 30 𝑚. La hauteur relative à ce côté a pour
+
+longueur 25 𝑚.
+
+Détermine l'aire de ce parallélogramme.
+
+3) Un triangle a pour aire 342 𝑚2. L'une de ses hauteurs a pour longueur 9 𝑚.
+
+Détermine la longueur du côté correspondant à cette hauteur.
+
+Maths faciles 6è : Cours et Exercices Pratiques  66
+
+SAN ° 3 : APPLICATIONS DU PLAN
+
+Maths faciles 6è : Cours et Exercices Pratiques  67
+
+Séquence n°1: Figures symétriques par rapport à une droite.
+
+I.
+
+Symétrique d’un point par rapport à une droite.
+
+A.  Définition :
+
+  Deux points A et B sont symétriques par rapport à une droite (D) signifie que (D) est la
+
+médiatrice du segment [AB].
+
+  Tout point M de la droite (D) est son propre symétrique par rapport à (D).
+
+Illustration :
+
+  Les points A et B sont symétriques l’un de l’autre par rapport à la droite (GH).
+
+  Les points C, G et H appartiennent à la droite (GH). Alors ces points sont leurs propres
+
+symétriques par rapport à la droite (BH).
+
+B.  Programme de construction du symétrique d’un point par rapport à une droite.
+
+Pour construire le symétrique d'un point M par rapport à une droite (D), on exécute le
+
+programme suivant :
+
+  On trace la perpendiculaire à (D) passant par M. Soit I le point d'intersection de ces
+
+deux droites.
+
+  On construit le point M' tel que I soit le milieu du segment [MM'].
+
+II.
+
+ Symétriques de points alignés, d'un segment et d'une droite par rapport à une
+
+droite.
+
+Maths faciles 6è : Cours et Exercices Pratiques  68
+
+Propriétés :
+
+Soit (D) une droite.
+
+a)  Lorsque des points sont alignés, leurs symétriques par rapport à la droite (D) sont aussi
+
+alignés.
+
+b)  Lorsque  les  points  A  et  B  ont  pour  symétriques  par  rapport  à  la  droite  (D)
+
+respectivement  les  points  A'  et  B',  les  droites  (AB)  et  (A'B')  sont  symétriques  par
+
+rapport à (D).
+
+c)  Lorsque  les  points  A  et  B  ont  pour  symétriques  par  rapport  à  la  droite  (D)
+
+respectivement  les points  A'  et  B',  les  segments  [AB]  et  [A'B']  sont  symétriques par
+
+rapport à (D).
+
+d)  Deux segments symétriques par rapport à une droite ont la même longueur.
+
+Illustrations :
+
+  Les points A, B et C ont pour symétriques respectivement par rapport à la droite (DE),
+
+les points G, H et I.
+
+  Les points D, F, K et E sont leurs propres symétriques par rapport à la droite (DE).
+
+  Les points A, B et C sont alignés, leurs symétriques respectifs G, H et I sont aussi
+
+alignés.
+
+  Les droites (BC) et (IH) sont symétriques par rapport à la droite (DE).
+
+Maths faciles 6è : Cours et Exercices Pratiques  69
+
+  Les segments [BC] et [HI] sont symétriques par rapport à la droite (DE) et 𝐵𝐶  =  𝐻𝐼.
+
+III.
+
+Symétrie de deux droites parallèles et celle d’un angle par rapport à une droite.
+
+Propriétés:
+
+  Lorsque deux droites sont parallèles, leurs symétriques par rapport à
+
+une droite sont aussi parallèles.
+
+  Deux angles symétriques par rapport à une droite ont la même mesure.
+
+Illustrations :
+
+  Les droites (AC) et (IG), de même que (NO) et (UV) sont symétriques par rapport à
+la droite (DE). De plus, les droites (AC) et (NO) sont  toutes perpendiculaires à la
+droite (OC). Alors (AC) et (NO) sont parallèles. D’où les droites (IG) et (UV) sont
+parallèles.
+
+  Les angles 𝑁𝑂𝐶 ̂  𝑒𝑡 𝐼𝑈𝑉̂  sont symétriques par rapport à la droite (DE). Alors ces
+
+angles ont la même mesure.
+
+IV.
+
+Axes de symétries d’une figure (à développer à la fin de la séquence n°2).
+
+Exercice :
+
+On  considère  les  figures  1  et  2  ci-dessous  où (𝐷) désigne  la  droite  (𝐷𝐻) 𝑒𝑡 (𝐷’)
+
+désigne la droite (𝐿𝑀).
+
+Maths faciles 6è : Cours et Exercices Pratiques  70
+
+Figure 1 :
+
+              Figure 2 :
+
+1-a) Reproduis la figure 1.
+
+b) Construis le triangle 𝐴′𝐵′𝐶′ symétrique de 𝐴𝐵𝐶 par rapport à (𝐷).
+
+𝐴′, 𝐵′ 𝑒𝑡 𝐶′ sont respectivement les symétriques de 𝐴, 𝐵 𝑒𝑡 𝐶 par rapport à (𝐷).
+
+c) Déduis alors une comparaison de 𝑚𝑒𝑠 𝐴𝐵𝐶 ̂ 𝑒𝑡 𝑚𝑒𝑠 𝐴′𝐵′𝐶′̂ .
+
+2-a) Reproduis la figure 2.
+
+b) Construis la droite (𝐸′𝐹′) symétrique de (𝐸𝐹) par rapport à (𝐷′). 𝐸′ 𝑒𝑡 𝐹′ sont
+
+respectivement les symétriques de 𝐸 𝑒𝑡 𝐹 par rapport à (𝐷′).
+
+c) Déduis alors une comparaison de 𝐸𝐹 𝑒𝑡 𝐸′𝐹′.
+
+Séquence n°2: Figures symétriques par rapport à un point.
+
+I.
+
+Deux points symétriques par rapport à un point.
+
+A.  Définition :
+
+Soit O un point.
+
+  Deux points A et B sont symétriques par rapport au point O signifie que O est le
+
+milieu du segment [AB].
+
+  Le point O est son propre symétrique par rapport à O.
+
+Illustration :
+
+Maths faciles 6è : Cours et Exercices Pratiques  71
+
+  Les points L et P sont symétriques par rapport au point K.
+
+  Le point K est son propre symétrique par rapport à lui-même.
+
+B.  Programme de construction du symétrique d’un point par rapport à un point.
+
+Pour construire le symétrique d'un point M par rapport à un point O, on exécute le
+
+programme suivant :
+
+  On trace la droite (OM) ;
+
+  On place sur la droite (OM), le point  M’ distinct de M tel que  𝑂𝑀  = 𝑂𝑀’.
+
+𝑀’ est le symétrique de 𝑀 par rapport au point 𝑂.
+
+II.
+
+Symétriques de points alignés,  d’une droite, d’un segment et d’un angle  par
+
+rapport à un point.
+
+Propriétés :
+
+Soit O un point :
+
+a)  Lorsque des points sont alignés, leurs symétriques par rapport au point O sont
+
+aussi alignés
+
+b)  Lorsque des points A et B ont pour symétriques par rapport au point O les points
+
+A’ et B’ :
+
+  les droites (AB) et (A’B’) sont symétriques par rapport au point O.
+
+  les segments [AB] et [A’B’] sont symétriques par rapport au point O.
+
+c)  Deux segments symétriques par rapport au point O ont la même longueur.
+
+d)  Deux droites symétriques par rapport à un point sont parallèles.
+
+e)   Deux angles symétriques par rapport à un point ont la même mesure.
+
+Illustrations :
+
+Maths faciles 6è : Cours et Exercices Pratiques  72
+
+  Les points B, C et D ont respectivement pour symétriques par rapport au point A, les
+
+points E, F et G.
+
+  Le point A est son propre symétrique par rapport à lui-même.
+
+  Les points B, C et D sont alignés, de même que les points E, F et G.
+
+  Les droites (BC) et (GE), de même que les segments [BC] et [FE] sont symétriques par
+
+rapport au point A et on a : 𝐵𝐶 = 𝐸𝐹.
+
+  Les droites (BC) et (EG) sont parallèles.
+
+  Les angles 𝐵𝐷𝐴̂  𝑒𝑡 𝐸𝐺𝐴̂ sont symétriques par rapport à A. Ils ont la même mesure.
+
+III.
+
+Axes de symétrie et centre de symétrie d’une figure.
+
+A.  Définitions
+
+a)  Axes de symétrie :
+
+    Une droite (D) est un axe de symétrie d'une figure (F) signifie que chaque point de (F) a
+
+pour symétrique par rapport à (D) un point de (F).
+
+b)  Centre de symétrie :
+
+Un point A est un centre de symétrie une figure lorsque tout point de cette figure a
+
+son symétrique par rapport à A qui est  aussi un point de la figure.
+
+B.  Lettres admettant d'axe(s) de symétrie et de centre de symétrie.
+
+Maths faciles 6è : Cours et Exercices Pratiques  73
+
+        Les droites tracées sont les axes de symétrie de ces lettres et les points placés sont leurs
+
+centres de symétrie.
+
+  Lettres admettant un axe de symétrie : A, B, C, D, E, K, M, N, S, T, U, V, W et Y
+
+  Lettres admettant deux axes de symétrie : H, I, O et X
+
+  Lettres n’admettant pas d’axe de symétrie : F, G, J, L, P, Q, R et Z.
+
+C.  Quelques figures admettant d'axe(s) de symétrie et de centre de symétrie.
+
+Les droites tracées sont les axes de symétrie de ces figures et les points placés sont
+
+leurs centres de symétrie.
+
+  Le centre de symétrie d’un cercle est le centre de ce cercle.
+
+  Le centre de symétrie d’un parallélogramme est le point d’intersection des supports
+
+de ses diagonales mais un parallélogramme n’admet pas d’axe de symétrie.
+
+Exercices :
+
+Exercice n°1 :
+
+On considère les figures suivantes :
+
+Maths faciles 6è : Cours et Exercices Pratiques  74
+
+Figure 1 :
+
+1-a) Reproduis la figure 1.
+
+Figure 2 :
+
+b) Construis les symétriques 𝐴’, 𝐵’ 𝑒𝑡 𝐶’  respectifs des points 𝐴, 𝐵 𝑒𝑡 𝐶 par rapport à 𝑂.
+
+c) Compare  𝑚𝑒𝑠 𝐴𝐶𝐵̂ 𝑒𝑡 𝑚𝑒𝑠 𝐴’𝐶’𝐵̂ ’.
+
+2-a) Reproduis la figure 2.
+
+b) Construis les symétriques 𝐸’ 𝑒𝑡 𝐹’ respectifs des points 𝐸 𝑒𝑡 𝐹 par rapport à 𝐼 puis la
+droite (𝐸’𝐹’).
+
+c) Compare  𝐸𝐹 𝑒𝑡 𝐸’𝐹’.
+
+d) Déduis la position relative des droites (𝐸𝐹) 𝑒𝑡 (𝐸’𝐹’).
+
+Exercice n°2 :
+
+On considère les figures suivantes :
+
+                         Figure 1 :
+
+                   Figure 2 :
+
+           Figure 3 :
+
+a)  Dis si les point O, E et N représentent respectivement  un centre de symétrie pour les
+
+figures 1, 2 et 3.
+
+b)  Cite les figures pour lesquelles la droite tracée représente un axe de symétrie.
+
+Maths faciles 6è : Cours et Exercices Pratiques  75
+
+Séquence n° 3 : Glissement
+
+A-  Définition
+
+         On appelle glissement, toute transformation géométrique qui déplace tous les points
+du plan suivant un sens, une direction et une longueur donnés.
+
+Illustration :
+
+        La flèche AB indique le glissement du volant 1 au volant 2. Sa direction est horizontale,
+son sens est celui de A vers B et sa longueur est la distance AB.
+
+Le point B est le correspondant du point A dans ce glissement.
+
+B-  Correspondant d’un point ou d’une figure dans un glissement donné.
+
+Soient E et F deux points distincts.  Pour construire le correspondant M’ d’un point M par un
+glissement de longueur l cm donnée, de sens E vers F et de direction la droite (EF), on peut
+procéder de la façon suivante :
+
+  on trace la droite (D) passant par M et parallèle à (EF).
+  on construit le point M’ tel que MM’ = l cm et la flèche soit orientée de E vers F.
+
+Illustration :
+
+On considère le glissement IL.
+
+Les points I,  A, K et D ont respectivement pour correspondants  L, B, N et C par ce glissement.
+
+Maths faciles 6è : Cours et Exercices Pratiques  76
+
+Exercices :
+
+Exercice 1 :
+
+On considère la figure ci-dessous :
+
+1)  Trace les flèches qui indiquent les glissements ‘’ du volant 3 au volant 4’’ puis ‘’ du
+
+volant 4 au volant 5’’.
+
+2)  Indique par quel glissement on peut passer du volant 4 au volant 6.
+
+Exercice 2 :
+
+Les figures ABCD et EFGH suivantes se correspondent dans un glissement.
+
+1)  Indique le nom, le sens, la longueur et la direction de ce glissement.
+2)  Détermine les sommets correspondants aux sommets A, B, C et D dans ce glissement.
+3)  On donne IJ = 6 cm.
+
+Donne la longueur du segment [AE].
+
+Maths faciles 6è : Cours et Exercices Pratiques  77
+
+SAN°4 : ORGANISATION DES DONNEES
+
+Maths faciles 6è : Cours et Exercices Pratiques  78
+
+Séquence n°1 : Proportionnalité
+
+A.  Tableau de proportionnalité
+
+Un tableau de proportionnalité  est un tableau dans lequel les nombres d’une ligne
+
+sont  obtenus  en  multipliant  les  nombres  correspondants  de  l’autre  ligne  par  un  même
+
+coefficient.
+
+Ce coefficient est appelé ‘’ un coefficient de proportionnalité ‘’.
+
+Exemple :  Le tableau ci-dessous est un tableau de proportionnalité.
+
+𝑥
+
+𝑦
+
+5
+
+10
+
+15
+
+30
+
+On  a  :
+
+5
+
+10
+
+= 0,5 𝑒𝑡
+
+15
+
+30
+
+= 0,5.  Alors
+
+5
+
+10
+
+=
+
+15
+
+30
+
+.  Donc  ce  tableau  est  un  tableau  de
+
+proportionnalité.
+
+B.  Détermination d’un coefficient de proportionnalité.
+
+         Un tableau de proportionnalité dont les deux valeurs proportionnelles d’une colonne
+
+sont 𝑥 et 𝑦 présente deux coefficients des proportionnalité qui sont  𝑎 =
+
+a : 𝑎′ =
+
+1
+
+𝑎
+
+.
+
+Exemple :
+
+  et 𝑎′ =
+
+𝑥
+
+𝑦
+
+𝑦
+
+𝑥
+
+. On
+
+Du tableau précédent, 0,5 est un coefficient de proportionnalité de ce tableau. Le
+
+second coefficient est
+
+10
+
+5
+
+= 2 c’est-à-dire
+
+1
+
+0,5.
+
+.
+
+C.  Dresser un tableau de proportionnalité.
+
+Il y a proportionnalité dans un tableau, lorsque les termes d’une ligne s’obtiennent en
+
+multipliant ou en divisant par un même nombre non nul ceux de l’autre ligne.
+
+Pour dresser un tableau de proportionnalité, il faut chercher à déterminer l’un des
+
+deux coefficients de proportionnalité de ce tableau ou même les deux selon le besoin.
+
+Exemple :
+
+Maths faciles 6è : Cours et Exercices Pratiques  79
+
+Consigne :
+
+Le tableau ci-dessous est un tableau de proportionnalité. Reproduis puis complète-le.
+
+𝑥
+
+𝑦
+
+2
+
+5
+
+10
+
+7
+
+18
+
+Reproduisons puis complétons ce tableau.
+
+Résolution :
+
+On a :
+
+5
+
+10
+
+= 0,5 𝑒𝑡
+
+10
+
+5
+
+= 2. Alors pour obtenir un nombre de la première ligne, il faut
+
+multiplier son correspondant de la seconde ligne par : 0,5. De même, pour obtenir un
+
+nombre de la seconde ligne, il faut multiplier son correspondant de la première ligne par : 2.
+
+Ainsi, on a :
+
+𝑥
+
+𝑦
+
+2
+
+𝟒
+
+5
+
+10
+
+7
+
+𝟏𝟒
+
+𝟗
+
+18
+
+D.  Détermination d’un pourcentage.
+
+Soit 𝑡 un nombre décimal. Pour calculer 𝑡% d’une quantité, on multiplie cette quantité par
+
+𝑡
+
+100
+
+.
+
+En effet, prendre 5% d’un nombre revient à le multiplier par
+
+5
+
+.
+
+100
+
+Exemple :
+
+On a : 97 ×
+
+5
+
+100
+
+= 4,85. Alors 4,85 représente les 5% 𝑑𝑒 97.
+
+E.  Détermination d’une échelle.
+
+On appelle échelle, la proportion de taille entre la représentation d’une chose et la
+
+chose représentée.
+
+On a :  é𝒄𝒉𝒆𝒍𝒍𝒆 =
+
+𝒅𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏 𝒓é𝒅𝒖𝒊𝒕𝒆
+.
+
+𝒅𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏 𝒓é𝒆𝒍𝒍𝒆
+
+Maths faciles 6è : Cours et Exercices Pratiques  80
+
+Exemple :
+
+Réaliser une carte rectangulaire de dimensions 3𝑚 𝑒𝑡 4𝑚 à l’échelle de 1/100 revient
+
+à représenter une carte de rectangulaire de dimensions  3𝑐𝑚 𝑒𝑡 4𝑐𝑚.
+
+Exercices :
+
+Exercice n°1 : Vérifie si les tableaux suivants sont des tableaux de proportionnalité.
+
+  Tableau 1 :
+
+3
+
+9
+
+  Tableau 2 :
+
+8
+
+24
+
+Exercice n°2 :
+
+10
+
+30
+
+7
+
+21
+
+2
+
+6
+
+10
+
+40
+
+12
+
+36
+
+25
+
+75
+
+1)  Reproduis puis complète le tableau suivant qui se rapporte à un véhicule qui roule à
+
+une vitesse constante de 60Km/h.
+
+Temps
+
+1h
+
+30min
+
+50min
+
+48min
+
+Distance
+
+15km
+
+75km
+
+2)  Reproduis  puis  complète  le  tableau  suivant  sachant  que  les  grandeurs  X  et  Y  sont
+
+directement proportionnelles.
+
+X
+
+Y
+
+18
+
+45
+
+7
+
+1
+
+10
+
+25
+
+1
+
+3
+
+19,2
+
+48
+
+Maths faciles 6è : Cours et Exercices Pratiques  81
+
+Exercice n°3 :
+
+1)   Une voiture consomme 7,3 𝐿 d’essence sur 100 𝐾𝑚.
+
+a)  Détermine sa consommation d’essence sur une distance de 884 𝐾𝑚.
+
+b)  Détermine la distance qu’elle peut parcourir avec 73 𝐿 d’essence.
+
+2)  Avec 5L de peinture, on peut peindre une surface de  20 𝑚2.
+
+a)  Détermine la quantité de peinture qu’il faut pour peindre 72 𝑚2 de surface.
+
+b)  Détermine l’aire de la surface qu’on peut peindre avec 17 𝐿 de peinture.
+
+Exercice n°4:
+
+1)  La distance entre deux villes est de 450 𝐾𝑚.
+
+Détermine la distance en cm sur une carte à l’échelle de 1/150.000.
+
+2)  Sur une carte à échelle 1/30.000, la distance entre deux villages est de 0,7 𝑑𝑚.
+
+Détermine la distance réelle entre ces deux villages en 𝐾𝑚.
+
+3)  Sur un plan à l’échelle 1/5.000 la longueur d’une maison est de 30 𝑐𝑚. Sur un autre
+
+plan à l’échelle 1/100 sa largeur est de 1 𝑑𝑚.
+
+Détermine les dimensions réelles de cette maison.
+
+4)  Sur une feuille, un segment de 40 𝑐𝑚 est représenté par un segment de 5 𝑐𝑚.
+
+Détermine l’échelle de réduction ayant servi à cette représentation.
+
+Exercice n°5:
+
+       Un  magasin  vend  des  paquets de  gâteaux.  Le  prix de  vente  normal d’un paquet est  de
+
+100 𝐹. Les trois derniers jours du mois, pour écouler son stock, les gâteaux sont exclusivement
+
+par lots de 4 paquets et un lot coûte 300 𝐹.
+
+Reproduis puis complète le tableau suivant :
+
+Nombre  de
+
+3
+
+4
+
+5
+
+8
+
+9
+
+10
+
+12
+
+paquets
+
+Prix normal
+
+Maths faciles 6è : Cours et Exercices Pratiques  82
+
+Prix
+
+promotionnel
+
+Exercice n°6 :
+
+1)  En  décembre  passé,  une  boutique  de  vente  de  téléphones  portables  était  en
+
+promotion. Un client a payé un portable de 10.000f à 8.000F.
+
+a)  Détermine le taux de réduction bénéficié par ce client.
+
+b)  Détermine le prix d’un téléphone de 16.000f lors de la promotion si le même taux
+
+de réduction est pratiqué.
+
+2)  Un objet se vend à 5.000F. Le client a bénéficié d’une remise de 15%.
+
+Détermine le nouveau prix d’achat de cet objet.
+
+Séquence n°2 : Statistiques.
+
+I.
+
+Quelques définitions :
+
+  Population  :  C’est  l’ensemble  des  êtres  (ou  choses)  sur  lequel  on  recueille  les
+
+données.
+
+
+
+ Caractère étudié : C’est le phénomène qu’on étudie dans la population. Il est soit
+
+quantitatif soit qualitatif.
+
+a)  Un caractère est dit quantitatif si les modalités sont des nombres.
+
+b)  Un caractère est dit qualitatif si les modalités ne sont pas des nombres.
+
+  Modalité : Les différentes valeurs prises par le caractère étudié d'une population
+
+donnée sont les modalités.
+
+  Effectif d’une modalité : C’est le nombre de fois que la modalité apparaît dans la
+
+série statistique.
+
+  Mode : Le mode d’une série statistique est la modalité qui a le plus grand effectif.
+
+  Moyenne : Pour un caractère quantitatif, la moyenne est le quotient de la somme
+
+des produits de chaque modalité par son effectif, le tout, sur l’effectif total.
+
+  Fréquence d’une modalité :
+
+  La fréquence d’une modalité est l’effectif de sa modalité sur l’effectif total.
+
+Maths faciles 6è : Cours et Exercices Pratiques  83
+
+      𝒇𝒓é𝒒𝒖𝒆𝒏𝒄𝒆  =
+
+𝒆𝒇𝒇𝒆𝒄𝒕𝒊𝒇 𝒅𝒆 𝒍𝒂 𝒎𝒐𝒅𝒂𝒍𝒊𝒕é
+
+𝒆𝒇𝒇𝒆𝒄𝒕𝒊𝒇 𝒕𝒐𝒕𝒂𝒍
+
+  En pourcentage, elle devient : l’effectif de la modalité multiplié par 100, le
+
+tout, sur l’effectif total.
+
+ On a :    𝒇𝒓é𝒒𝒖𝒆𝒏𝒄𝒆  =
+
+(𝒆𝒇𝒇𝒆𝒄𝒕𝒊𝒇 𝒅𝒆 𝒍𝒂 𝒎𝒐𝒅𝒂𝒍𝒊𝒕é)×𝟏𝟎𝟎
+
+𝒆𝒇𝒇𝒆𝒄𝒕𝒊𝒇 𝒕𝒐𝒕𝒂𝒍
+
+II.
+
+Diagramme en bâtons
+
+a)  Lecture :
+
+            Un diagramme en bâtons est une représentation graphique de données statistiques à
+l’aide de segments.
+
+            Les valeurs du caractère étudié sont représentées sur l’axe horizontal, les effectifs sur
+l’axe  vertical.  A  chaque  valeur  correspond  un  bâton.  Les  hauteurs  des  bâtons  sont
+proportionnelles aux effectifs représentés.
+
+Illustration :
+
+             Le diagramme suivant est un diagramme en bâtons présentant le nombre d’enfants de
+quelques familles d’une population donnée. Sur l’axe horizontal, on lit le nombre d’enfants et
+sur l’axe vertical, on lit le nombre de familles.
+
+Ce diagramme se présente (ou se lit) de la façon suivante :
+
+  10 familles ont chacune 0 enfant ;
+  20 familles ont chacune 1 enfant ;
+  25 familles ont chacune 2 enfants ;
+  15 familles ont chacune 3 enfants ;
+  5 familles ont chacune 4 enfants.
+
+b)  Construction d’un tableau statistique à partir d’un diagramme en bâtons.
+
+Maths faciles 6è : Cours et Exercices Pratiques  84
+
+Dressons le tableau des effectifs et fréquences correspondant au diagramme présenté ci-
+dessus.
+
+0
+
+1
+
+2
+
+3
+
+10
+
+20
+
+25
+
+15
+
+4
+
+5
+
+Total
+
+75
+
+Nombre
+d’enfants
+(modalités)
+
+Nombre de
+familles
+(effectifs)
+
+Fréquences
+en %
+
+(10x100)
+/75
+
+(20x100)/7
+5
+
+(25x100)/7
+5
+
+(15x100)/7
+5
+
+(5x100)/7
+5
+
+(75x100)/7
+5
+
+= 13,33
+
+= 26,67
+
+= 33,33
+
+= 20
+
+=6,67
+
+=100
+
+III.
+
+Diagrammes semi-circulaire et circulaire.
+
+a)  Lecture :
+
+     Un diagramme circulaire (ou semi-circulaire) est un diagramme qui admet pour support un
+disque  découpé  en  secteurs  dont  les  aires  sont  proportionnelles  aux  pourcentages  des
+différents constituants de la population statistique.
+
+    Dans  un  tel  diagramme,
+proportionnelles aux effectifs (ou aux fréquences) associé(e)s.
+
+les  mesures  des  angles  des  secteurs  angulaires  sont
+
+   Une fréquence de 100% correspond à un angle de 360° pour un diagramme circulaire  et à
+180° pour un diagramme semi-circulaire.
+
+Illustration :
+
+             Le diagramme suivant présente la répartition des apprenants d’une classe de 6ème selon
+leurs sexes.
+
+Ce diagramme se lit de la façon suivante :
+
+  40 % des apprenants de cette classe sont des filles ;
+  60 % des apprenants de cette classe sont des garçons.
+
+Maths faciles 6è : Cours et Exercices Pratiques  85
+
+b)  Construction  d’un  tableau  statistique  à  partir  d’un  diagramme  semi-
+
+circulaire.
+
+      Dressons le tableau des effectifs et des mesures d’angle correspondant au diagramme
+présenté ci-dessus sachant que cette classe comporte 60 élèves.
+
+Modalités
+
+Filles
+
+Garçons
+
+Total
+
+Effectifs
+
+(40 x 60)/100 = 24
+
+(60 x 60)/100 = 36
+
+60
+
+Mesures d’angle du
+secteur en degré.
+
+(24x180)/60 = 72
+
+(36x180)/60 = 108
+
+180
+
+Exercices :
+
+Exercice n°1 :
+
+             Une classe de 6è comporte 60 élèves dont 40 garçons et 20 filles.
+
+1)  Dresse le tableau des effectifs et des fréquences en pourcentage correspondant à
+
+cette série statistique. On notera 𝑮 : garçon et 𝑭 fille.
+
+2)  Justifie qu’on ne peut pas calculer la moyenne de cette série statistique.
+
+Exercice n°2 :
+
+On a relevé les notes sur 10 obtenues par chacun des élèves de deux classes de CM2
+
+lors d’une évaluation :
+
+4 – 8 – 2 – 9 – 10 – 9 – 4 – 5 – 2 – 5 – 6 – 10 – 8
+
+5 – 10 – 6 – 4 – 2 – 0 – 8 – 4 – 5 – 8 – 4 – 6 – 6
+
+7 – 5 – 4 – 9 – 4 – 10 – 8 – 9 – 5 – 1 – 2 – 6 – 4
+
+5 – 5 – 8 – 5 – 2 – 6 – 4 – 6 – 7 – 8 – 8 – 8 – 10.
+
+1) Dresse le tableau des effectifs de la série statistique.
+
+2) Donne le nombre d’élèves ayant obtenu exactement 8.
+
+3) Donne la note sur 10 n’ayant pas été attribuée.
+
+4) Donne le nombre d’élèves ayant la moyenne à cette évaluation( les notes supérieures ou
+
+égales à 5).
+
+Exercice n°3 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  86
+
+          On  considère  le  diagramme  en  bâtons  ci-dessous  présentant  les  notes  sur  d’une
+obtenues suite à une évaluation en mathématiques.
+
+          Dresse le tableau des effectifs et des fréquences en pourcentage correspondants à
+cette série statistique.
+
+Exercice n°4 :
+
+      On veut faire une photographie sur l’âge des employés d’une entreprise. Après
+
+recensement, on décide de classer les employés selon leurs âges. Il y a 20 employés ayant
+
+moins de 30 ans ; 90 employés ayant entre 30 et 45 ans et 40 employés de plus de 45 ans.
+
+1)  Construis un diagramme en bâtons représentant cette série statistique.
+
+2)  Détermine le nombre d’employés ayant :
+
+  au moins 30 ans ;
+
+  au plus 45 ans ;
+
+3)  Détermine le nombre total d’employés.
+
+Exercice n°5 :
+
+Le diagramme ci-après représente la répartition des adhérents à un club sportif.
+
+Maths faciles 6è : Cours et Exercices Pratiques  87
+
+Le club compte 240 adhérents.
+
+1)  Donne un nom à ce diagramme.
+2)  Détermine le nombre d’adhérents jouant au :
+
+football ;
+  handball ;
+  volleyball .
+
+Maths faciles 6è : Cours et Exercices Pratiques  88
+
+Evaluations formatives
+
+Maths faciles 6è : Cours et Exercices Pratiques  89
+
+Evaluation formative n°1 :
+
+Contexte : Le cadeau de Koffi.
+
+Koffi  est  élève  en  classe  de  6ème.  Pour  son  anniversaire  passé,  il  reçoit  de  son  père
+
+comme cadeau, un objet ayant la forme d’un pavé droit représenté  comme suit :
+
+Sa longueur est  𝐿 =  6𝑐𝑚, largeur 𝑙  =  4𝑐𝑚 et hauteur ℎ =  3𝑐𝑚. De sa mère, il reçoit
+
+un objet ayant la forme d’un cube. Son arête est 𝑎 =  7𝑐𝑚.
+
+Il décide d’identifier quelques faces et certaines arêtes puis déterminer les aires totales
+
+et volumes de ces objets. Bloqué, il a besoin de ton aide.
+
+Tâche : Aide Koffi en traitant la consigne ci-dessous.
+
+Consigne :
+
+1)  Dis le nombre de sommets et celui d’arêtes que contient le pavé droit.
+
+2)  a- Cite deux faces qui contiennent le point F.
+
+b- Cite deux faces qui contiennent le segment [BF].
+
+c- Dis ce que représente le segment [AE] pour ce pavé droit.
+
+3)  a-Calcule l’aire totale et le volume de ce pavé droit.
+
+b-Calcule l’aire totale et le volume du cube considéré.
+
+Evaluation formative n°2 :
+
+Contexte : Coordonnées géographiques de quelques villes.
+
+Maths faciles 6è : Cours et Exercices Pratiques  90
+
+         Elie,  élève  en  classe  de  6è  demande  à  son  professeur  de  mathématiques,  les
+
+coordonnées géographiques de quelques pays du monde. Ce dernier lui présente la figure ci-
+
+dessous pour que Elie le fasse lui-même.
+
+Quatre de ses pays sont représentées par les points O, P, R et S. Il décide de donner les
+
+coordonnées  géographiques  de  ses    pays  et  de  placer  quelques  points  sur  cette  figure
+
+matérialisant d’autres pays. Il éprouve de difficultés et sollicite ton aide.
+
+Tâche : Aide Elie en traitant la consigne suivante :
+
+Consigne :
+
+1)  Donne un nom à X, W et Z.
+
+2)  Reproduis puis complète le tableau suivant :
+
+représenté
+
+O
+
+P
+
+R
+
+S
+
+Pays
+
+par :
+
+Latitude
+
+Longitude
+
+3)  Place les points suivants matérialisant quelques pays sur la figure ci-dessus :
+
+Maths faciles 6è : Cours et Exercices Pratiques  91
+
+F (20° Nord ; 40° Ouest) ; G (20° Sud ; 20° Est) ; H (80° Nord ; 20° Est) ;  I (20° Sud ; 0°)
+
+et J (0° ; 60° Est).
+
+Evaluation formative n°3 :
+
+Contexte : De nouvelles voies construites.
+
+Nel  est un élève en classe de 6ème .  Dans son quartier, de nouvelles voies sont tracées.
+
+Quelques-unes ayant vraiment attiré son attention sont représentées par les deux figures ci-
+
+dessous.
+
+          Figure 1 :
+
+       Figure 2 :
+
+On  désigne  respectivement  par  (𝐷1), (𝐷2), (𝐷3), (𝐷4), (𝐷5), (𝐷6) 𝑒𝑡 (𝐷7),  les  droites
+
+(𝐴𝐶), (𝐴𝐵), (𝑂𝐻), (𝑃𝐺), (𝑄𝐾), (𝐻𝐾)  𝑒𝑡 (𝑂𝑃).
+
+ On donne : (𝐷4)// (𝐷5).
+
+Il désire connaître les positions relatives de quelques points, droites et demi-droites de
+
+ces figures mais éprouve de difficultés. Il sollicite ton aide.
+
+Tâche : Aide Nel en traitant la consigne ci-dessous.
+
+Consigne :
+
+1)  Donne un autre nom à la droite (D1) et un autre à (D2).
+
+Maths faciles 6è : Cours et Exercices Pratiques  92
+
+2)  Recopie  puis  complète  l’énoncé  ci-dessous  en  remplaçant  les  pointillés  par  les
+
+symboles : ∈, ∉, ⊂ ou ⊄
+
+a)  𝐴  … … . (𝐷𝐶) ;  𝑏) 𝐵 … … . [𝐴𝐸) ;  𝑐) 𝐶 … … . . [𝐷𝐴) ;  𝑑) 𝐶 … … . (𝐴𝐵) ;  𝑒) [𝐴𝐶) … … (𝐷𝐶);
+
+            𝑓) [𝐴𝐵) … … . . [𝐸𝐵);  𝑔) [𝐴𝐶) … … . . (𝐸𝐵).
+
+       3-a)  Donne  les  positions  relatives  des  droites  (D3),  (D6)  et  (D7)  par  rapport  à  (D4)  en
+
+justifiant ta réponse dans chaque cas.
+
+b)  Déduis alors les positions relatives de ces droites par rapport à (D5).
+
+Evaluation formative n°4 :
+
+Contexte : Une foire artisanale.
+
+Boni  est  un  collectionneur    d’objets  d’art.  Il  a  profité  de  la  fête  de  l’indépendance
+
+passée pour exposer ses articles. Les expositions  ont lieu dans un domaine délimité par un
+
+cercle  (C) de  centre  O  et de  périmètre  𝑝  =  2826 𝑚.  Pour  sécuriser  cette foire,  le  chef  de
+
+sécurité a placé des caméras aux points stratégiques comme l'indique la figure ci-dessous :
+
+Prendre 3,14 comme valeur approchée de π.
+
+Maths faciles 6è : Cours et Exercices Pratiques  93
+
+Bil un élève en classe de sixième, ayant été sur les lieux se propose d’étudier la figure
+
+ci-dessus mais éprouve de difficultés. Il sollicite ton aide.
+
+Tâche : Aide Bil en traitant la consigne suivante.
+
+Consigne :
+
+1) Cite toutes les caméras installées:
+
+a)  à l'extérieur du domaine d'exposition.
+
+b)  dans le domaine d'exposition.
+
+c)  sur les limites du lieu d'exposition.
+
+2) Dis ce que représentent les segments [𝐺𝐾] , [𝐺𝐹] 𝑒𝑡 [𝑂𝐸] pour le cercle (C).
+
+3) Calcule les longueurs 𝐺𝐹 𝑒𝑡 𝑂𝐸.
+
+4) Calcule l'aire du domaine  d'exposition.
+
+Evaluation formative n°5:
+
+Contexte : Raoul le curieux.
+
+Raoul  est  un  élève  en  classe  de  6ème.  Dans  un  exercice  de  mathématiques,  il  a  été
+
+sidéré par les figures ci-dessous qu’il décide d’étudier.
+
+Figure a :
+
+Figure b :
+
+On donne : 𝑚𝑒𝑠 𝐹𝐸𝐻̂ = 80°  𝑒𝑡 𝑚𝑒𝑠 𝐹𝐸𝐺̂ = 35° .
+
+Maths faciles 6è : Cours et Exercices Pratiques  94
+
+Il  désire  connaître  la  nature  des  angles  𝐹𝐸𝐺̂ 𝑒𝑡 𝐺𝐸𝐻̂ ,  la  mesure  de  l’angle  𝐺𝐸𝐻̂ ,  la
+
+nature  du  quadrilatère  ABCD  et  quelques-unes  de  ses  propriétés.  Il  est  confronté  à  des
+
+difficultés et sollicite ton aide.
+
+Tâche : Aide Raoul en traitant la consigne suivante :
+
+Consigne :
+
+1-a) Justifie que les angles 𝐹𝐸𝐺̂ 𝑒𝑡 𝐺𝐸𝐻̂  sont adjacents.
+
+b) Détermine 𝑚𝑒𝑠 𝐺𝐸𝐻̂ .
+
+2-a) Donne en justifiant ta réponse, la nature du quadrilatère ABCD.
+
+b) Compare les longueurs AB et DC.
+
+c) Justifie que (𝐴𝐷)//(BC).
+
+Maths faciles 6è : Cours et Exercices Pratiques  95
+
+Evaluations
+sommatives
+
+Maths faciles 6è : Cours et Exercices Pratiques  96
+
+Evaluation sommative n°1:
+
+Contexte : Un concours organisé par le Maire de BAN.
+
+Boni,  brillant  élève  en  classe  de  6ème  a  participé  à  un  concours  de  mathématiques
+
+organisé  par  le  Maire  de  sa  commune  BAN  pour  ses  élèves  de  6ème.  Sur  l’épreuve  sont
+
+dessinées les figures a, b, d et e qui sont des représentations de solides de l’espace. Le plan
+
+de quelques voies de la commune est représenté par la figure c .
+
+Figure a :
+
+   Figure b :
+
+Figure c :
+
+                     Figure d :
+
+      Figure e :
+
+Boni désire nommer les solides des figures a, b, d et e, déterminer quelques grandeurs
+
+des solides des figures a et b, déterminer les coordonnées géographiques des points placés
+
+sur la figure e et les positions relatives de quelques droites de la figure  c. Il  rencontre des
+
+difficultés et sollicite ton aide.
+
+Maths faciles 6è : Cours et Exercices Pratiques  97
+
+Tâche : Aide Boni en résolvant les trois problèmes ci-après.
+
+Problème 1 :
+
+1)  a- Donne en justifiant chaque réponse, la nature exacte des solides des figures a et b.
+
+b- Donne le nom de chacun des solides des figures d et e.
+
+2)  Annote le solide de la figure e en utilisant uniquement les chiffres.
+
+3)  Reproduis puis complète le tableau suivant :
+
+Points
+
+     I
+
+       J
+
+      K
+
+    M
+
+Latitude
+
+Longitude
+
+Problème 2 :
+
+Boni s’intéresse ensuite à la détermination de quelques aires et volumes des solides
+
+des figures  a  et b  et à  la  réalisation  du patron de  celui de  la figure  b. On  donne  L =  5  cm,
+
+l= 4 cm, h= 2 cm et a = 3 cm.
+
+4)  Détermine l’aire AT de la surface totale et le volume V du solide de la figure a.
+
+5)  Détermine l’aire A’T de la surface totale et le volume V’ du solide de la figure b.
+
+6)  Dessine le patron du solide de la figure b.
+
+Problème 3 :
+
+Enfin, Boni s’intéresse aux positions relatives de quelques droites de la figure c.
+
+7)  En justifiant chaque réponse, donne la position relative des droites :
+
+a-  (D1) et (D3) ;
+
+b-  (D2) et (D4).
+
+         8)   Démontre que (D1) // (D2).
+
+Evaluation sommative n° 2 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  98
+
+Contexte : Une distraction.
+
+Pour ses distractions pendant la Noël passée, Ali élève en classe de 6ème s’est rendu
+
+dans le centre de jeux et de loisirs de sa commune. Il a participé à trois différents jeux se jouant
+
+sur des domaines matérialisés par les figures suivantes :
+
+Figure 1 :
+
+Figure 2 :
+
+Figure 3 :
+
+On donne : 𝑚𝑒𝑠 𝐴𝐵𝐶̂ = 30° ;  𝑚𝑒𝑠 𝐴𝐵𝐷̂ = 70° (figure 1) ; 𝑀𝑁 = 𝑃𝑂 (figure 2) et le
+
+cercle de la figure 3 a pour nom (𝐶).
+
+Il désire connaître la mesure de l’angle  𝐶𝐵𝐷̂ , la nature du quadrilatère MNOP et de
+
+celle du triangle NKO. Aussi, il veut connaître les périmètres et aires du domaine de la figure
+
+3, du quadrilatère MNQP et du triangle NKO. Il éprouve de difficultés et sollicite ton aide.
+
+Tâche : Aide Ben en résolvant les problèmes ci-après.
+
+Problème 1 :
+
+  a)  Justifie que les angles  𝐴𝐵𝐶̂ et  𝐶𝐵𝐷̂ sont adjacents.
+
+b) Détermine la mesure de l’angle 𝐶𝐵𝐷̂  (𝑚𝑒𝑠 𝐶𝐵𝐷̂ ).
+
+  Donne la nature du quadrilatère MNOP.
+
+  Dis ce que représente le point I pour le segment [𝑁𝑃].
+
+Problème 2 :
+
+Maths faciles 6è : Cours et Exercices Pratiques  99
+
+Ali s’intéresse à la nature du triangle NKO et à celle du quadrilatère MNOP puis à la
+
+détermination    des  périmètres  de  MNOP  et  NKO  et  de  l’aire  du  triangle  NKO.  On  donne  :
+
+𝑀𝑁 = 6 𝑐𝑚; 𝑁𝑂 = 5 𝑐𝑚; 𝑁𝐾 = 4 𝑐𝑚 𝑒𝑡 𝐾𝑂 = 3 𝑐𝑚.
+
+  Calcule le périmètre P1 du parallélogramme MNOP.
+
+  a) Donne la nature du triangle NKO.
+
+               b) Calcule le périmètre P2 de ce triangle.
+
+               c) Calcule l’aire A2 de ce triangle.
+
+Problème 3 :
+
+Ali s’intéresse à la figure n°3, à la détermination du périmètre du cercle (C), de  l’aire
+
+du disque délimité par ce cercle et à la position relative de quelques points par rapport à (C).
+
+(C) a pour rayon r = 4 m. Prend pour valeur approchée de π, le nombre 3,14.
+
+6) Cite deux points de la figure n°3 situés :
+
+a) à l’intérieur du cercle (C).
+
+b) à l’extérieur du cercle (C).
+
+c) sur le cercle (C).
+
+7) Dis ce que représente pour ce cercle (C) :
+
+a)  le segment [VR] ;
+
+b)  le segment [SV] ;
+
+c)  le segment [UV].
+
+8-a) Détermine le périmètre P3 du cercle (C).
+
+b) Détermine l’aire A3 du disque délimité par (C).
+
+Evaluation sommative n°3:
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+0
+
+Contexte : Un tableau d'art.
+
+Ali est un élève en classe de 6è. Un jour, il a rendu visite à son oncle dessinateur dans son
+
+atelier. Sur l'un de ses tableaux d'art, les listes suivantes sont dressées:
+
+  Liste 1 : 3;  7,5 ;  4;  5;  12;  27;  0;  45;  3,7 𝑒𝑡 60.
+
+  Liste 2: 275;  380;  500;  292 𝑒𝑡 1215.
+
+  Liste 3: 𝐴  =   (2 + 7) − (4 × 2) + 3 ;  𝐵  =  4 +  2 × 3 − 1 × 4 𝑒𝑡
+
+𝐶 =  15 + 12 + 5 + 8.
+
+Le domaine sur lequel il s'est installé a la forme de la figure ci-dessous :
+
+On donne : 𝐴𝐵  = 5𝑐𝑚;  𝐴𝐶  = 8𝑐𝑚 𝑒𝑡 𝐵𝐷 =  6𝑐𝑚.
+
+Ali  désire  calculer  l'aire  de  ce  domaine  et  d'étudier  quelques  notions  relatives  aux
+
+nombres  entiers  naturels  à  partir  des  listes  présentées  ci-dessus.  Il  est  confronté  à  des
+
+difficultés et sollicite ton aide.
+
+Tâche : Aide Ali en traitant les problèmes ci-dessous.
+
+Problème 1:
+
+1-a) Donne la nature du quadrilatère ABCD.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+1
+
+b) Déduis la position relative des droites (AC) et (BD).
+
+2-a) Justifie que 𝐴𝐼𝐷 est un triangle rectangle en 𝐼.
+
+b) Calcule l'aire 𝐴 de ce triangle.
+
+3-a) Calcule le périmètre P1 du quadrilatère ABCD.
+
+b) Calcule son aire A1.
+
+Problème 2 :
+
+Ali se préoccupe d’abord de la liste 1.
+
+4-a) Cite trois nombres entiers naturels consécutifs de la liste 1.
+
+b) Donne le prédécesseur du nombre 12.
+
+5) Reproduis puis complète le tableau suivant en utilisant les nombres de la liste 1.
+
+Nombres pairs
+
+Nombres
+
+Multiples de 3  Multiples de 5  Multiples  de  3
+
+impairs
+
+et 5
+
+6-a) Justifie que 12 est un multiple de 6.
+
+b) Justifie que 45 n'est pas un multiple de 7.
+
+Problème 3:
+
+Ali se propose dans la suite  d'écrire les nombres de la liste 2 en lettre et de déterminer
+
+les valeurs des nombres de la liste 3.
+
+7) Écris en lettre les nombres de la liste 2.
+
+8) Calcule de manière performante les nombres A, B et C de la liste 3.
+
+Evaluation sommative n°4 :
+
+Contexte : Dossou le curieux.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+2
+
+       Dossou est un élève en classe de 6ème. Un jour, il a rendu à son oncle dessinateur. Surpris,
+
+il découvre sur l’un de ses tableaux artistiques, quelques expressions écrites sur trois listes :
+
+  Liste 1 : 𝐴 = 3,25  + 7,64  + 5,75 + 3,36 ;  𝐵 = 2 × 4,5 × 5 + 12 ;
+
+                             C =  2,5 ×7,3 ×4 +13,5×2;  D =
+
+22
+
+7
+
++
+
+15
+
+7
+
+–
+
+9
+
+7
+
+×  2 et  E =
+
+15
+
+7
+
+×  2  +
+
+3
+
+7
+
+ ;
+
+  Liste 2 :  3,7 ;  7,8 ;  14,6  ;  5,12 ;  7 ;  12 ;  5,2  ;  0,15  𝑒𝑡 0,5.
+
+  Liste 3 : 325; 105 ; 210; 32; 153 𝑒𝑡 100.
+
+Il désire connaître valeurs les exactes des nombres de la liste 1, réduire si possible les
+
+nombres D et E, ranger les nombres de la liste 2 dans un ordre décroissant puis reconnaître
+
+parmi les nombres de la liste 3, les multiples d’un nombre entier naturel donné. Il éprouve de
+
+difficultés et sollicite ton aide.
+
+Tâche : Aide Dossou en résolvant les problèmes ci-après.
+
+Problème 1 :
+
+1)  Calcule de manière performante, les nombres A, B et C  de la liste 1.
+
+2)  Détermine sous forme de fraction, les valeurs des nombres D et E de la liste 1.
+
+3)  a- Détermine la valeur approchée par défaut de D au dixième près.
+
+      b- Détermine la valeur approchée par excès de E au centième près.
+
+Problème 2 :
+
+Dossou désire ensuite ranger les nombres de la liste 2 dans un ordre décroissant.
+
+4)  Détermine la partie entière et la partie décimale de quelques nombres de la liste 2
+
+en reproduisant et en complétant  le tableau suivant :
+
+Nombres
+
+Partie entière
+
+Partie décimale
+
+5,12
+
+7
+
+5,2
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+3
+
+12
+
+5)  Compare les nombres suivants :
+
+  5,12 𝑒𝑡 5,2 ;
+
+  5,12 𝑒𝑡 7.
+
+6)  a- Range les nombres de la liste 2 dans l’ordre décroissant.
+
+        b- Encadre le nombre 5,12 par deux nombres entiers naturels consécutifs.
+
+c-  Parmi les nombres de la liste 3, cite les multiples de 5.
+
+Problème 3 :
+
+Le carrefour situé à côté de l’atelier du dessinateur se présente comme suit :
+
+7)  Reproduis puis complète le tableau suivant :
+
+E
+
+F
+
+D
+
+[DF]
+
+(EF)
+
+l’angle
+
+𝐷𝐹𝐵̂
+
+Symétrie
+
+par
+
+rapport à (DE).
+
+8)  Précise pour le quadrilatère EFDH :
+
+a)  le centre de symétrie.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+4
+
+b)  les axes de symétrie.
+
+Évaluation sommative n°5:
+
+Contexte : Une évaluation dans une classe de 6ème.
+
+Dans une classe de 6è, un professeur de mathématiques évalue ses 30 apprenants sur
+
+les figures symétriques par rapport à un point et la proportionnalité. Il obtient les notes sur
+
+20 ci-dessous :
+
+03;   07;   15;   20;   12;   12;   12;   03;   15;   07;   12;   15;   07;   03;   20;
+
+ 20;   03;   03;   03;   07;   12;   12;   12;   15;   15;    12;   12;   07;   07;   03.
+
+L'évaluation porte sur la figure et le tableau ci-dessous :
+
+Nombre  de  litre
+
+1
+
+2
+
+4
+
+d'essence
+
+Prix en FCFA
+
+400  800
+
+1600
+
+Figure :
+
+Tableau :
+
+            Ce tableau exprime le nombre de litres d'essence vendu par Coffi à trois de ses clients
+
+et leurs coûts respectifs. Ben, élève de cette classe a du mal à construire le symétrique par
+
+rapport  à  O  de  l'angle 𝐵𝐴𝐶̂  ,  justifier  que  le  tableau  présenté  est  un  tableau  de
+
+proportionnalité afin d'en déduire quelques résultats puis calculer la moyenne des notes de
+
+la série statistique. Il éprouve de difficultés et t'invite à l'aider.
+
+Tâche: Aide Ben en traitant les problèmes ci-après.
+
+Problème 1 :
+
+1-a-  Reproduis la figure sur ta copie.
+
+b-  Construis les symétriques A’, B’ et C’ respectifs des points A, B et C par rapport à O.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+5
+
+2-a- Compare AB et A’B’ (Tu justifieras ta réponse).
+
+b-  Déduis la position relative des droites (AB) et (A’B’).
+
+3-a-  Construis le symétrique de l’angle 𝐶𝐴𝐵̂ par rapport à O puis donne son nom.
+
+b- Compare 𝑚𝑒𝑠 𝐶𝐴𝐵̂ 𝑒𝑡 𝑚𝑒𝑠 𝐶′𝐴′𝐵′̂ .
+
+Problème 2 :
+
+Ben procède à l’étude du tableau afin d’en déduire quelques résultats.
+
+4) Justifie que ce tableau est un tableau de proportionnalité.
+
+5) Détermine le coefficient de proportionnalité permettant de passer :
+
+a) de la première ligne à la seconde ;
+
+b) de la seconde ligne à la première.
+
+6-a) Détermine le prix P en FCFA correspondant à 10 L d’essence.
+
+b) Détermine le nombre N de litres d’essence correspondant à 2400F.
+
+Problème 3 :
+
+     Ben s’intéresse à une étude statistique des notes présentées ci-dessus.
+
+7-a) Donne la nature du caractère étudié.
+
+b) Dresse le tableau des effectifs et des fréquences en  pourcentages correspondant à cette
+
+série statistique.
+
+8) Calcule la moyenne des notes de cette série statistique.
+
+Evaluation sommative n°6: (CEG AHOSSOUGBETA   2019-2020).
+
+Contexte : L’anniversaire de Fatou.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+6
+
+Invitée pour l’anniversaire de Fatou sa camarade de classe, Marie découvre que le
+
+salon qui abrite l’événement est entièrement carrelé et laisse observer une décoration qui
+
+attire l’attention de tous les invités et dont une partie est représentée par la figure ci-
+
+dessous.
+
+B
+
+30 °
+
+30 °
+
+A
+
+C
+
+  :
+
+F
+
+E
+
+G
+
+D
+
+(∆ ) )
+
+Données :
+
+𝐴𝐵  =  𝐵𝐶  =  𝐶𝐷  =  𝐷𝐴 =  9 𝑐𝑚 ; 𝑚𝑒𝑠 𝐵𝐴𝐶̂ = 60°; 𝐴𝐶 = 10 𝑐𝑚 𝑒𝑡 𝐵𝐷 = 15 𝑐𝑚.
+
+Marie est une élève en classe de 6ème. Elle décide d’étudier la position de certains
+
+points et droites  sur la figure.
+
+Tâche : Tu es invité (e) à aider Marie en résolvant les  trois problèmes suivants.
+
+Problème 1 :
+
+1)
+
+ Dis ce que représente :
+
+a-  la droite (∆) pour le segment [𝐴𝐸].
+
+b-   la droite (𝐵𝐷) pour l’angle 𝐵𝐴𝐶̂.
+
+2)  Donne :
+a-
+
+le symétrique du segment  [AC] par rapport à la droite (∆).
+
+        b-       le symétrique du point D par rapport à la droite (∆).
+
+3)  Certains compartiments de la figure peuvent se superposer. Détermine :
+
+le symétrique de l’angle 𝐴𝐵𝐶̂ par rapport à la droite (∆).
+
+le symétrique du quadrilatère ABCD par rapport à la droite (∆).
+
+a-
+
+b-
+
+Problème2 :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+7
+
+Marie veut connaître la forme géométrique du quadrilatère ABCD et son aire totale.
+
+4)  Donne la nature exacte du quadrilatère ABCD.
+
+5)  Calcule :
+
+a-
+
+b-
+
+le périmètre du quadrilatère ABCD.
+
+ l’aire de la surface totale du quadrilatère ABCD.
+
+6)  Parmi les nombres suivants   0,625 ;  1080 ;  43 ;  5,5 ;  2,5 ;  0 𝑒𝑡 13,  relève ceux qui sont
+
+des entiers naturels et ceux qui sont des nombres décimaux arithmétiques en complétant
+
+le tableau suivant :
+
+Nombres entiers naturels
+
+Nombres décimaux arithmétiques
+
+7)  Trouve deux fractions égales à
+
+2
+
+7
+
+ dont le dénominateur  est plus petit que 28.
+
+Problème 3
+
+8)  Sur ta feuille :
+
+
+
+reproduis l’angle  𝐴𝐵𝐶̂(sans reproduire toute la figure) tel que 𝑚𝑒𝑠 𝐴𝐵𝐶̂ = 60°
+
+puis trace la droite (∆).
+
+  ensuite, construis les points 𝐸, 𝐹 𝑒𝑡 𝐺 symétriques respectifs des points 𝐴, 𝐵 𝑒𝑡 𝐶
+
+par rapport à la droite (∆).
+
+9)    Donne la mesure de l’angle 𝐸𝐹𝐺̂.
+
+Evaluation sommative n°7: (CEG ATROKPOCODJI   2019-2020).
+
+Contexte : Un jeu concours.
+
+L’an passé Pibou avait aidé son oncle lors d’une exposition d’œuvres d’art au hall des
+
+arts et de la culture de Cotonou. Chaque exposant avait droit à un espace pour installer son
+
+stand. Voici le dessin de l’espace qui fut réservé à l’oncle de Pibou.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+8
+
+L’aire de cet espace est de 600𝑚2 mais l’oncle de Pibou souhaite mettre en location les 2/6
+
+de la superficie de son espace.
+
+Tâche : Tu vas résoudre les problèmes suivants :
+
+Problème1 :
+
+1)  Observe attentivement la figure.
+
+a)  Précise la nature du triangle CFA.
+
+b)  Donne la nature du triangle CAE.
+
+c)  Justifie que le quadrilatère ACDE est un losange.
+
+2)  a)  Calcule le périmètre du losange ACDE.
+
+b)  Détermine l’aire de l’espace mis en location.
+
+Problème 2 :
+
+Sur les documents en annexe de cette figure, Pibou découvre les nombres :
+
+2
+ ; 48.
+27 ;  156 ;  100 ;  12,05 ;
+5
+
+3)  a)  Complète par ∈ ou ∉ de façon convenable :
+
+12,05  … . ℕ ;
+
+2
+
+5
+
+… . ℕ ;       100 … . . ℕ ;
+
+b)  Ecris l’ensemble des diviseurs de 48.
+
+4)  On donne 27 ;  156 𝑒𝑡 100.
+
+a)  Cite parmi ces nombres ceux qui sont divisibles par 2.
+
+b)  Cite ceux qui sont divisibles par 3.
+
+c)  Cite ceux qui sont divisibles par 4.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+10
+9
+
+d)  Cite ceux qui sont divisibles par 5.
+
+5)  On donne 21
+
+Ecris un chiffre dans le carreau pour que le nombre formé soit à la fois divisible par
+
+9 et par 4.
+
+Problème 3 :
+
+6)   Compare les nombres décimaux 12,5 𝑒𝑡 12,05.
+
+7)  Effectue de manière performante les opérations suivantes :
+
+A  =  7,54  +  2,5  +  1,46  +  31  +  7,5 ;  B  =  25 x 1,994 x 4 ;
+
+C  =   (4,3  +  5,7) x 2  et  D  =
+
+2
+
+5
+
++
+
+3
+
+5
+
+.
+
+Evaluation sommative n°8: (CEG AGASSA-GODOMEY  2018-2019).
+
+Contexte : Sélection des joueurs d’une équipe de football.
+
+   Pour la mise en place de l’équipe de football, le professeur d’Education Physique et
+
+Sportive (EPS) de ta classe présélectionne 22 joueurs dont les tailles en mètres des onze (11)
+
+premiers  sont
+
+les  suivants
+
+:  1,89 –  1,78 –  1,897 –  1,9 –  2 –  2,001 –  1,607 –  1,8  –
+
+1,75 –  1,905 –  1,99.
+
+Le professeur d’EPS souhaiterait que les quatre (04) joueurs les plus élancés et ayant
+
+au moins un poids de 60 𝐾𝑔  jouent à la défense. Il voudrait aussi tenir compte de la capacité
+
+des joueurs à tenir pendant 90 𝑚𝑖𝑛𝑢𝑡𝑒𝑠 de jeux. Pour cela, le professeur désire connaître le
+
+périmètre et l’aire de la surface du terrain.
+
+Tâche : Aide le professeur à résoudre les problèmes suivants.
+
+Problème 1 :
+
+1)  Remplace les pointillés par les symboles ∈ ou ∉ et  ⊂ 𝑜𝑢 ⊄
+
+1,9 …. 𝔻 ;   2 …. ℕ ;  ℕ …. 𝔻 ;  1,75 …. 𝔻 ; 1,75 …. ℕ ; 2 …. 𝔻 ; 𝔻 ….…. ℕ.
+
+2)  a-  Donne  la  partie  entière  et  la  partie  décimale  de  chacun  des  nombres  suivants  :
+
+1,75 ;  1,905 ;  2,001 ;   1,607 𝑒𝑡 1,78.
+
+b-  Ecris  sous  forme  de  fractions  décimales  chacun  des  nombres  suivants  :
+
+1,75 ;  1,905 ;  2,001
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+0
+
+3)  a-  Compare  les  nombres  suivants  en  utilisant  les  symboles  ‘’<’’  ou  ‘’ >’’  :
+
+1,89 𝑒𝑡 1,78 ;  1,9 𝑒𝑡 1,897 ;  1,99 𝑒𝑡 1,905 ;  1,89 𝑒𝑡 1,78.
+
+b- Cite suivant leurs tailles les six (06) premiers joueurs présélectionnés pour jouer la
+
+défense.
+
+Problème 2 :
+
+Les poids en kilogramme (Kg) et les tailles des 06 joueurs présélectionnés pour jouer
+
+la défense sont présentés dans le tableau suivant :
+
+Numéros d’ordre
+
+1
+
+2
+
+3
+
+4
+
+Tailles (m)
+
+1,897
+
+1,9
+
+1,905
+
+1,99
+
+5
+
+2
+
+6
+
+2,001
+
+Poids (en kg)
+
+90
+
+67
+
+65
+
+60
+
+53
+
+75
+
+4)  a- Justifie que 60 est multiple de 6.
+
+            b- Cite tous les diviseurs de 75.
+
+5)   Effectue de manière performante les opérations suivantes :
+
+𝐴 =  75 + 53 + 65 + 67 ;  𝐵 =   (65 + 75) × 2 ;  𝐶 = 90 × 2  − 75 ;
+
+𝐷 = 754 + 60  × 5 ;  𝐸 =  6 × 5 + 90 × 2.
+
+6) a- Ecris en lettres les nombres suivants : 260 ;  280 𝑒𝑡 1054.
+
+   b- Ecris les nombres suivants en chiffres : huit-cent cinquante ; deux mille ; mille huit-cent
+
+quatre-vingt-cinq.
+
+Problème 3 :
+
+ Pour  choisir  enfin  les  quatre  (04)  défenseurs  parmi  les  six  (06)  présélectionnés,  le
+
+professeur  d’EPS  demande  à  ces  six  joueurs  de  courir  cinq  (05)  fois  autour  du  terrain
+
+rectangulaire. Les joueurs présélectionnée N°2 et N°5 n’ont pas terminé la course et ont fait
+
+respectivement les trois cinquième (3
+
+4
+) de tours du terrain. Ils sont
+) et quatre cinquième (
+5
+5
+
+donc disqualifiés. Le terrain a pour dimensions : longueur 𝐿 = 120𝑚 ; largeur 𝑙 =  90𝑐𝑚.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+1
+
+3
+ +
+    7) Effectue les calculs suivants :   F=
+5
+
+4
+
+5
+
+ ; G= 2×
+
+7
+.
+5
+
+     8) Calcule :
+
+a- le périmètre 𝑃 de ce terrain rectangulaire.
+
+b- l’aire 𝐴 de la surface du terrain rectangulaire.
+
+     9) A partir du tableau du problème 2 :
+
+a- Précise suivant leurs numéros les quatre (04) joueurs sélectionnés pour jouer à la
+
+défense.
+
+b- Range par ordre décroissant les tailles des quatre joueurs devant jouer à la défense.
+
+Evaluation sommative n°9: (CEG ALBARIKA  2018-2019).
+
+Situation d’évaluation :
+
+Monsieur  Dodo  veut  carreler  son  salon  pour  le  rendre  présentable.  Son    carreleur
+
+Dossou lui propose des modèles de motifs représentés par les dessins de 1 à 9 ci-dessous.
+
+Afin de faire un choix, Dodo fait appel à sa fille Nima élève en classe de 6ème pour l’aider à
+
+comprendre  les  concepts  mathématiques  contenus  dans  ces  motifs.  À  cet  effet,  Nima  se
+
+propose de faire des choix, illustrer ces choix par des figures et aussi calculer le nombre N de
+
+carreaux nécessaires.
+
+Tâche : Tu vas aider Nima en résolvant les trois problèmes ci-dessous.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+2
+
+Problème 1
+
+1)  Choisis parmi les dessins 1 et 2 celui qui est une symétrie par rapport à une droite.
+
+2)  Choisis parmi les dessins 3 et 4 celui qui est une symétrie par rapport à un point.
+
+3)  Parmi les dessins 5, 6, 7 et 8 un seul possède :
+
+a-  Un axe de symétrie. Dis lequel, en justifiant ton choix.
+
+b-  Un centre de symétrie. Dis lequel en justifiant ton choix
+
+Problème 2
+
+En réalité, le dessin 9 explique quelques concepts mathématiques de ces dessins.
+
+4)  Donne le symétrique de chacun des points E ; F ; O et K par rapport à la droite (D).
+
+5)  Donne le symétrique de chacun des points E et G et du segment [EG] par rapport au
+
+point O.
+
+6)  a – En reproduisant le dessin 1, marque les points A’ et B’ symétriques respectifs de A
+
+et B par rapport à la droite ().
+
+b – En reproduisant le dessin 4, trace la symétrique R’S’T’ du triangle RST par rapport
+
+au point O.
+
+Problème 3
+
+Après le choix, Dodo a acheté 300 carreaux. Le nombre de carreaux utilisés par le carreleur
+
+4
+ des carreaux achetés.
+représente les
+5
+
+7)  Détermine la fraction que représente le nombre de carreaux restant.
+
+8)  Calcule les opérations suivantes :
+
+3
+4
+ -
+5
+5
+
+3
+ ;
+ +
+5
+
+2
+
+5
+
+4
+ ; 2 ×
+.
+5
+
+9)  Calcule le nombre N de carreaux nécessaires.
+
+Evaluation sommative n°10: (CEG BANIKANNI PARAKOU  2018-2019).
+
+Contexte :
+
+  A l’occasion de la fête de Noël, les autorités ont organisé la cérémonie de remise de
+
+cadeaux  aux  meilleurs  élèves  de  Dunian.  A  cet effet,  la  ville  a été  aménagée  et  la  sécurité
+
+renforcée. Ainsi les lettres 𝐴, 𝐵, 𝐶, 𝐷, 𝐸, 𝐹, 𝐺 𝑒𝑡 𝐻 désignent l’emplacement des éléments de
+
+la  police  républicaine  sur  certains  axes  de  la  ville.  Les  droites  (D1),  (D2),  (D3)  et  (D4)
+
+représentent des axes dans le plan de quadrillage ci-dessous.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+3
+
+Les figures 1, 2 et 3 représentent l’emballage des cadeaux reçu par les différents élèves
+
+comme l’indique les schémas suivants :
+
+Kossi,  fils  du  commissaire  et  l’un  des  récipiendaires,  veulent  étudier  certaines
+
+propriétés du plan de quadrillage de la ville et calculer le périmètre puis l’aire de chacune des
+
+figures 1, 2 et 3. Confronté à d’énormes difficultés, Kossi sollicite ton aide.
+
+  Tâche : Après une lecture attentive du contexte, tu es invité(e) à aider Kossi en résolvant les
+
+problèmes suivants :
+
+Problème 1 :
+
+1- Exploite le plan de quadrillage puis,
+
+a) cite deux droites parallèles ;
+
+b) cite deux droites perpendiculaires ;
+
+c) cite deux droites non parallèles et non perpendiculaires.
+
+2- Recopie et remplace les pointillés par ∈ ou  ∉.
+
+A … … . (D1) ;    D  … . . [EC) ;    F  … . . (AB) ;   B … . [GC] ;   E … . (D4) ;   G … . . [BC]
+
+3- Reproduis puis complète le déductogramme suivant :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+4
+
+Problème 2 :
+
+4- Nomme les figures 1, 2 et 3.
+
+5- Dis ce que représentent :
+
+  a) [𝐼𝐾] 𝑒𝑡 [𝐽𝐿] pour la figure 1.
+
+  b) [𝑃𝑄] 𝑒𝑡 [𝑃𝑅] pour la figure 3.
+
+6- Reproduis les segments [𝑃𝑄] 𝑒𝑡 [𝑃𝑅] sur ta feuille puis donne la nature de l’angle QPR̂.
+
+( Tu prendras mes QPR̂ = 45° pour la construction )
+
+Problème 3 :
+
+7- Calcule l’aire de la figure 1.
+
+8- Calcule le périmètre et l’aire de la figure 2.
+
+9- Calcule le périmètre et l’aire de la figure 3.
+
+  Tu prendras π = 3,14
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+5
+
+Correction  des
+exercices
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+6
+
+SAN°1 : CONFIGURATIONS DE L’ESPACE.
+
+Séquence n°1 : Cube et Pavé droit.
+
+Exercice n°1 :
+
+1)  Le solide de cette figure est un cube.
+
+2)  a) Ce solide a 8 sommets qui sont les points 𝐴, 𝐵, 𝐶, 𝐷, 𝐸, 𝐹, 𝐺 𝑒𝑡 𝐻.
+
+              b) Ce solide a 6 faces qui sont : 𝐴𝐵𝐶𝐷, 𝐶𝐷𝐻𝐺, 𝐺𝐻𝐸𝐹, 𝐴𝐵𝐹𝐸, 𝐴𝐷𝐻𝐸 𝑒𝑡 𝐵𝐶𝐺𝐹.
+
+              c) Ce solide a 12 arêtes qui sont les segments :
+
+                [𝐴𝐵], [𝐵𝐹], [𝐸𝐹], [𝐴𝐸], [𝐶𝐷], [𝐶𝐺], [𝐺𝐻], [𝐷𝐻], [𝐴𝐷], [𝐵𝐶], [𝐺𝐹]𝑒𝑡 [𝐸𝐻].
+
+Exercice n° 2 :
+
+1)  Le solide de cette figure est un pavé droit.
+
+2)  a) Ce solide a 8 sommets qui sont les points 𝐴, 𝐵, 𝐶, 𝐷, 𝐸, 𝐹, 𝐺 𝑒𝑡 𝐻.
+
+              b) Ce solide a 6 faces qui sont : 𝐴𝐵𝐶𝐷, 𝐶𝐷𝐻𝐺, 𝐺𝐻𝐸𝐹, 𝐴𝐵𝐹𝐸, 𝐴𝐷𝐻𝐸 𝑒𝑡 𝐵𝐶𝐺𝐹.
+
+              c) Ce solide a 12 arêtes qui sont les segments :
+
+                [𝐴𝐵], [𝐵𝐹], [𝐸𝐹], [𝐴𝐸], [𝐶𝐷], [𝐶𝐺], [𝐺𝐻], [𝐷𝐻], [𝐴𝐷], [𝐵𝐶], [𝐺𝐹]𝑒𝑡 [𝐸𝐻].
+
+             d) Ce solide a quatre faces latérales qui sont : 𝐶𝐷𝐻𝐺, 𝐴𝐵𝐹𝐸, 𝐴𝐷𝐻𝐸 𝑒𝑡 𝐵𝐶𝐺𝐹.
+
+             e) Ce solide a deux bases qui sont : 𝐴𝐵𝐶𝐷 𝑒𝑡 𝐺𝐻𝐸𝐹.
+
+Exercice n°3 :
+
+           Parmi ces figures, la figure 1 est celle représentant le patron d’un cube et la figure 3
+
+représente le patron d’un pavé droit.
+
+Exercice n°4 :
+
+1)  Réalisons le patron d’un cube d’arête 2,5 cm.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+7
+
+                                     Patron d’un cube d’arête 2,5 cm.
+
+       Chaque côté mesure 2,5 cm.
+
+2)  Réalisons le patron d’un pavé droit de dimensions 4 cm, 3 cm et 2,5 cm.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+8
+
+                            Patron d’un pavé droit de dimensions 𝟒 𝒄𝒎, 𝟑 𝒄𝒎 𝒆𝒕 𝟐, 𝟓 𝒄𝒎.
+
+               Les côtés codés d’un trait, de deux traits et de trois traits mesurent respectivement
+
+2,5 𝑐𝑚 ;  3𝑐𝑚 𝑒𝑡 4 𝑐𝑚.
+
+Exercice n°5 :
+
+1)  Construisons un pavé droit ABCDEFGH (Voir figure 1 ci-dessous).
+
+2)  Construisons un cube EFGHIJKL (Voir figure 2 ci-dessous).
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+11
+9
+
+                   Figure 1 :
+
+Exercice n°6 :
+
+Reproduisons puis complétons ce tableau :
+
+Figure 2 :
+
+Longueur
+
+(en
+
+Largeur  (en
+
+Hauteur  (en
+
+Aire  de  la  base
+
+Volume
+
+(en
+
+cm)
+
+cm)
+
+cm)
+
+(en cm²)
+
+Pavé droit n°1
+
+22
+
+Pavé droit n°2
+
+18
+
+Pavé droit n°3
+
+15
+
+Pavé droit n°4
+
+20
+
+Pavé droit n°5
+
+14
+
+Exercice n°7 :
+
+14
+
+5
+
+11
+
+13
+
+12
+
+5
+
+6
+
+8
+
+8
+
+15
+
+308
+
+90
+
+165
+
+260
+
+168
+
+cm3)
+
+1540
+
+540
+
+1320
+
+2080
+
+2520
+
+Reproduisons puis complétons ce tableau.
+
+arête (en cm)   Aire de la base (en cm²)  Aire totale (en cm²)  Volume (en cm3)
+
+Cube n°1  15
+
+225
+
+1350
+
+3375
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+0
+
+Cube n°2  11
+
+Cube n°3  7
+
+Cube n°4  3
+
+121
+
+49
+
+9
+
+726
+
+294
+
+54
+
+1331
+
+343
+
+27
+
+Séquence n°2 : Cône de révolution
+
+Exercices :
+
+Exercice 1 :
+
+Parmi ces figures, la figure c correspond à une représentation d’un patron de cône.
+
+Exercice 2 :
+
+a)  Le solide de cette figure est un cône de révolution.
+b)  Annotons cette figure :
+
+a                                sommet ;
+b                                hauteur ;
+c                                génératrice ;
+d                                rayon du disque de base ;
+e                                disque de base ;
+
+Exercice 3 :
+
+a)  Le solide de cette figure est un patron ( ou développement ) de cône de révolution.
+b)  Annotons cette figure :
+
+a                                angle de développement de la surface latérale ;
+b                                génératrice ;
+c                                surface latérale ;
+d                               arc de développement de la surface latérale ;
+e                                rayon du disque de base ;
+f                                disque de base.
+
+Séquence n°3 : Sphère.
+
+Exercice :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+1
+
+1)  Donnons les coordonnées géographiques des points 𝐼, 𝐽, 𝐾, 𝐿, 𝑈, 𝑅 𝑒𝑡 𝑆.
+
+Points
+
+I
+
+J
+
+K
+
+L
+
+U
+
+R
+
+S
+
+Latitude
+
+20° Nord  60° Nord  90° Nord  20° Nord  60° Sud
+
+40° Sud
+
+20° Sud
+
+Longitude  180°
+
+40°
+
+0°
+
+20° Est
+
+20°
+
+80° Est
+
+0°
+
+Ouest
+
+Ouest
+
+Ouest
+
+2)   Plaçons les points E, F, G et H sur cette figure.
+
+Globe terrestre.
+
+SAN°2 : CONFIGURATIONS DU PLAN
+
+Séquence n°1 : Droites du plan.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+2
+
+Exercice n°1 :
+
+1)  Donnons tous les noms de :
+
+b.  la droite (𝐴𝐵) :
+
+(𝐴𝐵), (𝐴𝐶), (𝐴𝐷), (𝐵𝐶), (𝐵𝐷), (𝐶𝐷), (𝐵𝐴), (𝐶𝐴), (𝐷𝐴), (𝐶𝐵), (𝐷𝐵) 𝑒𝑡 (𝐷𝐶).
+
+c.  la demi-droite [𝐵𝐷): [𝐵𝐷) 𝑒𝑡 [𝐵𝐶).
+
+d.  la demi-droite [𝐶𝐴): [𝐶𝐴) 𝑒𝑡 [𝐶𝐵).
+
+2)  Recopions  puis  complétons  ces  expressions  en  remplaçant  les  pointillés  par  les
+
+symboles : ∈, ∉, ⊂ 𝑜𝑢  ⊄.
+
+𝐴 ∈ (𝐴𝐵);     𝐷 ∈ (𝐴𝐵);    𝐸 ∉ (𝐴𝐶);    𝐹 ∉ (𝐵𝐶); 𝐴 ∈ [𝐴𝐵);    𝐶 ∈ [𝐵𝐷);     𝐶 ∉ [𝐵𝐴);
+
+𝐸 ∉ [𝐶𝐷); [𝐵𝐸) ⊄ [𝐵𝐶);   [𝐵𝐴) ⊄ [𝐵𝐷); [𝐵𝐶) ⊂ [𝐵𝐷); (𝐶𝐷) ⊂ (𝐴𝐵) 𝑒𝑡 (𝐸𝐵) ⊄ (𝐶𝐷).
+
+Exercice n°2 :
+
+1)  Recopions puis complétons ces phrases en utilisant le vocabulaire adapté.
+
+  Les droites (𝑀𝑄) 𝑒𝑡 (𝑅𝑁) sont sécantes en 𝑉.
+
+  Les points 𝑆, 𝑅 𝑒𝑡 𝑃 sont alignés.
+
+  Les droites (𝑀𝑁) 𝑒𝑡 (𝑄𝑃) sont parallèles.
+
+  Les droites (𝑆𝐿) 𝑒𝑡 (𝑀𝑉) sont sécantes.
+
+  Les droites (𝑇𝑈) 𝑒𝑡 (𝑆𝐿) sont perpendiculaires.
+
+  Le point 𝑆 est l’ intersection des droites (𝑇𝐿) 𝑒𝑡 (𝑅𝑃).
+
+2)  Recopie puis complète les phrases suivantes  à l’aide des symboles // 𝑜𝑢  ⊥.
+
+ (𝐿𝑆) //  (𝑈𝑅) ; (𝑀𝑁)   ⊥   (𝑂𝑃) ; (𝑆𝑅)   ⊥   (𝑂𝑃) ; (𝑆𝑅) //  (𝑄𝑃).
+
+Exercice n°3 :
+
+Recopions puis complétons ces textes par les mots ou expressions qui conviennent :
+
+1)  « Les droites (𝐵𝐸) et (AB) sont perpendiculaires,  de même que les droites (DG) et
+
+(AB).  Or, si deux droites sont  perpendiculaires à une même droite, alors elles sont
+
+parallèles. Donc les droites (BE) et (DG) sont parallèles.»
+
+2)  «  Les  droites  (EC)  et  (DF)  sont  parallèles  et  les  droites  (EC)  et  (AG)  sont
+
+perpendiculaires. Or si deux droites sont parallèles et si une droite est perpendiculaire
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+3
+
+à  l’une,  alors  elle  est  perpendiculaire  à  l’autre.    Donc  les  droites  (DF)  et  (AG)  sont
+
+perpendiculaires. »
+
+Séquence n°2 : Segments de droites
+
+Exercice :
+
+La  droite  (𝑑)  est  la  médiatrice  du  segment  [𝐴𝐵]  si  elle  est  perpendiculaire  à  son
+
+support et passe par le milieu de ce segment.  Alors c’est la figure 2 qui indique que (𝑑) est la
+
+médiatrice de [𝐴𝐵].
+
+Séquence n°3 : Cercle.
+
+Exercice :
+
+1)  a) Calculons 𝑃.
+
+𝑂𝑛 𝑎: 𝑃 = 2 × 𝑟 × 𝜋;   𝐷𝑜𝑛𝑐 𝑃 = 2 × 7 𝑐𝑚  × 3,14.  𝐷′𝑜ù 𝑃 = 43,96 𝑐𝑚.
+
+b) Déterminons l’aire de ce disque.
+
+Soit 𝐴 cette aire.
+
+On a : 𝐴 = 𝑟 × 𝑟 × 𝜋.  𝐴𝑙𝑜𝑟𝑠 𝐴 = 7 𝑐𝑚  × 7 𝑐𝑚  × 3,14.  𝐷𝑜𝑛𝑐  𝐴 = 153,86 𝑐𝑚2.
+
+       2) a) Déterminons le périmètre de ce carrefour.
+
+Soit 𝑃′ ce périmètre.
+
+𝑂𝑛 𝑎: 𝑃′ = 𝑑𝑖𝑎𝑚è𝑡𝑟𝑒 × 𝜋;   𝐷𝑜𝑛𝑐 𝑃′ = 30 𝑚  × 3,14.  𝐷′𝑜ù 𝑃′ = 94,2 𝑚.
+
+b) Déterminons l’aire de ce disque.
+
+Soit 𝐴′ cette aire.
+
+On a : 𝐴′ = 𝑟 × 𝑟 × 𝜋  𝑎𝑣𝑒𝑐 𝑟  le rayon du disque.
+
+𝑟 =
+
+𝑑𝑖𝑎𝑚è𝑡𝑟𝑒
+
+2
+
+.  𝐷𝑜𝑛𝑐 𝑟 =
+
+30 𝑚
+
+2
+
+.  𝐷′𝑜ù 𝑟 = 15 𝑚.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+4
+
+𝐴𝑖𝑛𝑠𝑖 𝐴′ = 15 𝑚  × 15 𝑚  × 3,14. 𝑃𝑎𝑟 𝑠𝑢𝑖𝑡𝑒 𝐴′ = 706,5 𝑚2.
+
+Séquence n°4 : Angle.
+
+Exercice n°1 :
+
+1)  Construisons un angle 𝐵𝐴𝐶̂, 𝐻𝐺𝐻′̂ , 𝐿𝑀𝐾̂ , 𝑂𝑄𝑁̂  𝑒𝑡 𝑅𝑊𝑃̂   de mesures respectives 35° ;
+
+90° ; 100° ; 0° et 180°.
+
+2)  Donnons le nom de chaque angle obtenu.
+
+Mesure de l’angle   35°
+
+90°
+
+180°
+
+0°
+
+100°
+
+Nature de l’angle  Aigu
+
+Droit
+
+       plat
+
+nul
+
+      obtus
+
+Exercice n°2 :
+
+1)  Calculons 𝑚𝑒𝑠 𝐴𝐵𝐷̂ .
+
+Considérons la figure.
+
+        Les angles 𝐴𝐵𝐶̂ 𝑒𝑡 𝐶𝐵𝐷̂ étant adjacents, on a :
+
+         𝑚𝑒𝑠 𝐴𝐵𝐷̂ =  𝑚𝑒𝑠 𝐴𝐵𝐶̂ +  𝑚𝑒𝑠 𝐶𝐵𝐷̂ .
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+5
+
+         Or 𝑚𝑒𝑠 𝐴𝐵𝐶̂ = 20° et 𝑚𝑒𝑠 𝐶𝐵𝐷̂ = 60°.
+
+         Donc 𝑚𝑒𝑠 𝐴𝐵𝐷̂ = 20° + 60°.
+
+          D’où 𝑚𝑒𝑠 𝐴𝐵𝐷̂ = 80°.
+
+2)  Calculons 𝑚𝑒𝑠 𝐴𝐵𝐶̂.
+
+   Considérons la figure.
+
+           Les angles 𝐴𝐵𝐶̂ 𝑒𝑡 𝐶𝐵𝐷̂ étant adjacents, on a :
+
+            𝑚𝑒𝑠 𝐴𝐵𝐷̂ =  𝑚𝑒𝑠 𝐴𝐵𝐶̂ +  𝑚𝑒𝑠 𝐶𝐵𝐷̂ .
+
+            Alors 𝑚𝑒𝑠 𝐴𝐵𝐶̂ =  𝑚𝑒𝑠 𝐴𝐵𝐷̂ −  𝑚𝑒𝑠 𝐶𝐵𝐷̂ .
+
+            Or 𝑚𝑒𝑠 𝐴𝐵𝐷̂ = 60°  et 𝑚𝑒𝑠 𝐶𝐵𝐷̂ = 35°.
+
+            Donc 𝑚𝑒𝑠 𝐴𝐵𝐶̂ = 60° −  35°.
+
+            D’où 𝑚𝑒𝑠 𝐴𝐵𝐶̂ = 25°.
+
+Exercice n°3 :
+
+1-a) Construisons un angle 𝐵𝐴𝐶̂ de mesure 60°.
+
+     b) Construisons (𝐴𝑀) : Voir figure ci –dessus.
+
+2) Calculons 𝑚𝑒𝑠 𝐸𝐹𝑁̂ .
+
+(𝐹𝑁) étant la bissectrice de l’angle 𝐸𝐹𝐺̂ 𝑎𝑙𝑜𝑟𝑠 𝑚𝑒𝑠 𝐸𝐹𝑁̂ =
+
+𝑚𝑒𝑠 𝐸𝐹𝐺̂
+2
+
+.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+6
+
+80°
+
+2
+
+.  D’où 𝑚𝑒𝑠 𝐸𝐹𝑁̂ = 40°.
+
+Or 𝑚𝑒𝑠 𝐸𝐹𝐺̂ = 80°. Donc 𝑚𝑒𝑠 𝐸𝐹𝑁̂ =
+
+Séquence n°5 : Triangles.
+
+Exercice n°1 :
+
+1)  Construisons un triangle ABC dans chacun de ces cas :
+
+a)  𝐴𝐵  =  𝐴𝐶  =  𝐵𝐶 =  4 𝑐𝑚.
+
+b)  𝐴𝐵  =  3 𝑐𝑚, 𝐴𝐶  =  3 𝑐𝑚 et 𝑚𝑒𝑠 𝐵𝐴𝐶̂   =  30° ;
+
+c)  AB = 4 cm, mes 𝐵𝐴𝐶̂= 60° et mes 𝐴𝐵𝐶̂= 30°;
+
+d)  AB = 3 cm, AC = 6 cm et mes 𝐵𝐴𝐶 ̂ = 35°.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+7
+
+2) Donnons la nature du triangle ABC dans chaque cas.
+
+a) Le triangle ABC a ses côtés de même longueur. Alors ABC est un triangle équilatéral.
+
+b) Le triangle ABC a les côtés [AB] et [AC] de même longueur. Alors ABC est un triangle
+
+isocèle en A.
+
+c) Le triangle ABC a un angle droit en C. Alors ABC est un triangle rectangle en C.
+
+d) Le triangle ABC a  ses côtés de différentes longueurs alors ABC est un triangle quelconque.
+
+Exercice n°2 :
+
+1)  Construisons un triangle ABC isocèle en A tel que : 𝐴𝐵 = 6 𝑐𝑚 𝑒𝑡 𝐵𝐶 = 4 𝑐𝑚. (Voir
+
+figure 1 ci-dessous).
+
+ABC étant un triangle isocèle en A alors 𝐴𝐵  =  𝐴𝐶  =  6 𝑐𝑚.
+
+2)  Construisons  un  triangle  DEF  isocèle  en  E  tel  que  𝐸𝐹 =  6𝑐𝑚  et  𝑚𝑒𝑠 𝐷𝐸𝐹̂ = 130°.
+
+(Voir figure 2 ci-dessous).
+
+DEF étant un triangle isocèle en E alors 𝐸𝐹  =  𝐷𝐸  =  6 𝑐𝑚.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+8
+
+                      Figure 1 :
+
+Figure 2 :
+
+Séquence n°6 : Parallélogrammes.
+
+Exercice n°1 :
+
+1)  Calculons la hauteur relative à ce côté.
+
+Soit ℎ cette longueur et 𝐴 l’aire de ce parallélogramme.
+
+On a :  𝐴 = ℎ  × 𝐸𝐹.
+
+ 𝐴𝑙𝑜𝑟𝑠 ℎ =
+
+𝐴
+
+𝐸𝐹
+
+.
+
+𝐷𝑜𝑛𝑐 ℎ =
+
+120 𝑚2
+15 𝑚
+
+D’où ℎ = 8 𝑚.
+
+2)  Calculons le périmètre de ce parallélogramme.
+
+Soit 𝑃 ce périmètre. Posons 𝑎 = 10 𝑐𝑚 𝑒𝑡 𝑏 = 15 𝑐𝑚.
+
+On a : 𝑃 = 2 × (𝑎 + 𝑏).
+
+Alors 𝑃 = 2 × (10 𝑐𝑚 + 15 𝑐𝑚).
+
+Donc 𝑃 = 2 × 25 𝑐𝑚.
+
+ D’où 𝑃 = 50 𝑐𝑚.
+
+Exercice n°2 :
+
+1)  Calculons l’aire de ce losange.
+
+Soit 𝐴′ cette aire. Posons 𝑎 = 4 𝑐𝑚 𝑒𝑡 𝑏 = 7,5 𝑐𝑚.
+
+On a : 𝐴′ =
+
+𝑎 × 𝑏
+
+2
+
+.
+
+4 𝑐𝑚 × 7,5 𝑐𝑚
+
+ Donc  𝐴′ =
+
+2
+   D’où 𝐴′ = 15 𝑐𝑚2.
+
+.
+
+2)  Calculons la longueur 𝑑 de l’autre diagonale.
+
+          Posons 𝐵 = 25 𝑐𝑚2 𝑒𝑡 𝑒 = 8 𝑐𝑚.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+12
+9
+
+On a : 𝐵 =   𝑑 × 𝑒
+2 .
+
+Donc 𝐵  × 2 = 𝑑  × 𝑒.
+D’où 𝑑 =   𝐵 × 2
+𝑒
+25 𝑐𝑚2 × 2
+8 𝑐𝑚
+
+ Ainsi  𝑑 =
+
+.
+
+ Par suite  𝑑  = 6,25 𝑐𝑚..
+
+Exercice n°3 :
+
+1)  Calculons 𝑃1 𝑒𝑡 𝐴1.
+
+Considérons le carré 𝐴𝐵𝐶𝐷.
+
+ On a : 𝑃1 = 4 × 𝑐  𝑒𝑡 𝐴1 = 𝑐 × 𝑐 𝑎𝑣𝑒𝑐 𝑐 = 5 𝑐𝑚.
+
+Donc 𝑃1 = 4 × 5 𝑐𝑚 𝑒𝑡 𝐴1 = 5 𝑐𝑚  × 5 𝑐𝑚.
+
+D’où 𝑃1 = 20 𝑐𝑚 𝑒𝑡 𝐴1 = 25 𝑐𝑚2.
+
+2)  Calculons 𝐿 𝑒𝑡 𝑃2.
+
+Considérons ce rectangle.
+
+On a : 𝐴 = 𝐿  × 𝑙  𝑒𝑡 𝑃2 = 2 × (𝐿 + 𝑙).
+
+  𝐿.
+
+ 𝐴 = 𝐿  × 𝑙 alors 𝐿 =
+
+𝐴
+
+𝑙
+
+.
+
+ Or 𝐴 = 20 𝑐𝑚2 𝑒𝑡 𝑙 = 4 𝑐𝑚.
+
+Donc  𝐿 =
+
+20𝑐𝑚2
+4 𝑐𝑚
+
+.
+
+ D’où 𝐿 = 5 𝑐𝑚.
+
+  𝑃2.
+
+𝑃2 = 2 × (𝐿 + 𝑙) alors 𝑃2 = 2 × (5 𝑐𝑚 + 4 𝑐𝑚).
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+0
+
+Donc 𝑃2 = 2 × 9 𝑐𝑚.
+
+D’où 𝑃2 = 18 𝑐𝑚.
+
+Séquence n°7 : Nombres entiers naturels.
+
+Exercices :
+
+Exercice n°1 :
+
+Recopions  puis  complétons  ces  énoncés  en  remplaçant  les  pointillés  par  l’un  des
+
+symboles : ∈, ∉, ⊂ ou ⊄
+
+3,5 ∉ ℕ; 7 ∈ ℕ; 14,00 ∈ ℕ;
+
+16
+3
+
+∉ ℕ;
+
+8
+2
+
+∈ ℕ;  ℕ∗ ⊂  ℕ  𝑒𝑡 ℕ ⊄   ℕ∗
+
+Exercice n°2 :
+
+1)  Écrivons en lettre les nombres suivants:
+
+100.500 ;  980;  3.016;  2.000;  22.342 𝑒𝑡 1.000.000
+
+  100.500 : cent mille cinq cents.
+
+  980 : neuf cent quatre-vingts.
+
+  3.016 : trois mille seize.
+
+  2.000 : deux mille.
+
+  22.342 : vingt-deux mille trois cent quarante-deux.
+
+  1.000.000 : un million.
+
+2) Écrivons en chiffre chacun des nombres :
+
+a) cent soixante-seize : 176.
+
+b) mille cinq cent quarante-cinq :1545.
+
+c) seize millions deux cent vingt-neuf mille : 16.229.000.
+
+d) cent mille cinq cent douze : 100.512.
+
+e) trois millions quatre cent vingt-cinq mille deux cent deux : 3.425.202.
+
+Exercice n°3 :
+
+1)  Écrivons en lettre les nombres suivants :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+1
+
+10.080 ;  1.015.400;  1.981;  103.045 𝑒𝑡 1.320.
+
+  10.080 : dix mille quatre-vingts.
+
+  1.015.400 : un million quinze mille quatre cents.
+
+  1.981 : mille neuf cent quatre-vingt-et-un.
+
+  103.045 : cent trois mille quarante-cinq.
+
+  1.320 : mille trois cent vingt.
+
+2) Écrivons en chiffre les nombres suivants:
+
+a) cent un mille sept cents : 101.700.
+
+b) sept cent soixante-quinze : 775.
+
+c) mille quatre-vingt-dix : 1.090.
+
+d) sept mille soixante : 7.060.
+
+e) trois cent quinze mille quinze : 315.015.
+
+Exercice n°4:
+
+Effectuons ces opérations de manière performante :
+
+e)  𝐴 =   (5 + 7) × (4 − 2) + 7.
+
+Alors 𝐴 = 12  × 2 + 7.
+
+Donc 𝐴 = 24 + 7.
+
+D’où 𝐴 = 31.
+
+f)  𝐵 =  21 + 77 + 14 + 33.
+
+Alors 𝐵 = 21 + 14 + 77 + 33.
+
+Donc 𝐵 = 35 + 110.
+
+D’où 𝐵 = 145.
+
+g)  𝐶 =  2 × 9 × 8 × 5.
+
+Alors 𝐶 = 2 × 5 × 9 × 8.
+
+Donc 𝐶 = 10 × 72.
+
+D’où 𝐶 = 720.
+
+h)  𝐷 =  13 − (7 + 3).
+
+Alors 𝐷 = 13 − 10.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+2
+
+D’où 𝐷 = 3.
+
+i)  𝐸 =  98 × 24 − 9 × 185 + 120 × 4 + 13 × 100.
+
+Alors 𝐸 = 2352 − 1665 + 480 + 1300.
+
+Donc 𝐸 = 687 + 1780.
+
+D’où 𝐸 = 2467.
+
+Exercice n°5:
+
+1) Le prédécesseur du nombre 108 𝑒𝑠𝑡 107. Son successeur est 109.
+
+2) Citons trois nombres entiers naturels consécutifs sachant que:
+
+a) l'un d'eux est 82 :
+
+ 80 − 81 − 82 (ou on peut aussi avoir : 81 − 82 − 83 𝑜𝑢 82 − 83 − 84).
+
+b) le plus grand est 202 : 200 − 201 − 202.
+
+c) le plus petit est 28 : 28 − 29 − 30.
+
+Exercice n°6 :
+
+Citons les nombres pairs et les nombres impairs de la liste :
+
+  Nombres pairs : 0; 30; 60 𝑒𝑡 98.
+
+  Nombres impairs : 15; 47; 75 𝑒𝑡 101.
+
+Exercice n°7:
+
+1)  Dans un tableau à 3 colonnes, précisons le prédécesseur et le successeur de chacun
+
+des nombres ci-après : 300;  2.000;  599;  6.001 𝑒𝑡 10.000.
+
+Nombres
+
+Prédécesseur
+
+Successeur
+
+300
+
+2.000
+
+599
+
+6.001
+
+299
+
+1999
+
+598
+
+6.000
+
+301
+
+2.001
+
+600
+
+6.002
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+3
+
+10.000
+
+9.999
+
+10.001
+
+2) Ecrivons quatre nombres entiers naturels consécutifs sachant que le dernier est 200 :
+
+197 − 198 − 199 − 200.
+
+3) Ecrivons trois nombres entiers naturels consécutifs sachant que l'un d'eux est 250.
+
+248 − 249 − 250   𝑜𝑢    249 − 250 − 251    𝑜𝑢    250 − 251 − 252.
+
+4) Parmi ces nombres, citons ceux qui sont pairs et ceux qui sont impairs:
+
+  nombres pairs : 100;  12 𝑒𝑡 80.
+
+  nombres impairs : 235;  17;  69 𝑒𝑡  7.
+
+Exercice n°8 :
+
+Trouvons les diviseurs du nombre 50.
+
+On a : 50 = 1 × 50;   50 = 2 × 25;    50 = 5 × 10   𝑒𝑡   50 = 10 × 5. Alors les diviseurs
+
+de 50 sont :  1; 2; 5; 10; 25 𝑒𝑡 50.
+
+Exercice n°9 :
+
+Citons parmi ces nombres, ceux qui sont divisibles par :
+
+             a) 2 :  6; 12; 18; 58; 210; 540  𝑒𝑡 2946.
+
+              b) 3 : 12 ;  18 ;  210 ;  540 𝑒𝑡 2946.
+
+              c) 4 : 12 𝑒𝑡 540.
+
+Exercice n°10 :
+
+Parmi ces nombres , citons ceux qui sont des multiples de :
+
+1)  5: 325;  45;  75;  330 𝑒𝑡 1400.
+
+2)  9: 423;  927 𝑒𝑡 45.
+
+3)  25: 325;  75 𝑒𝑡 1400.
+
+Exercice n°11 :
+
+Citons parmi les nombres suivants, les multiples de :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+4
+
+  10 : 200; 50; 1500; 12000 𝑒𝑡 23000.
+
+
+
+ 100 ∶ 200; 1500; 12.000 𝑒𝑡 23.000.
+
+  1.000 : 12.000 𝑒𝑡 23.000.
+
+Exercice n°12 :
+
+1)  Déterminons les multiples de 7 compris entre 40 𝑒𝑡 65 :
+
+On a : 7 × 5 = 35;   7 × 6 = 42;   7 × 7 = 49;   7 × 8 = 56;   7 × 9 = 63; 7 × 10 = 70
+
+avec 35 < 40  𝑒𝑡 70 > 65. Alors les multiples de 7 compris entre 40  𝑒𝑡  65 𝑠𝑜𝑛𝑡 ∶
+
+42; 49; 56 𝑒𝑡 63.
+
+2)  Justifions que 140 est un multiple de 7.
+
+On a : 140 = 7 × 20 𝑎𝑣𝑒𝑐 20 ∈  ℕ. Alors 140 est un multiple de 7.
+
+Séquence n°8 : Nombres décimaux arithmétiques.
+
+Exercice n°1 :
+
+Recopions  puis  complétons  ces  énoncés  en  remplaçant  les  pointillés  par  l’un  des
+
+symboles : ∈, ∉, ⊂ ou ⊄
+
+3,5 ∈ 𝔇; 7 ∈ 𝔇 ; 14,00 ∈ 𝔇;
+
+16
+3
+
+∉ 𝔇;
+
+17
+2
+
+∉ ℕ;  ℕ∗ ⊂  𝔇;  𝔇 ⊄ ℕ 𝑒𝑡 ℕ ⊂  𝔇.
+
+Exercice n°2 :
+
+1) Déterminons la partie entière et la partie décimale de chacun des nombres décimaux
+
+suivants:     0,15 ;  12,7 ;  12,3 ;  15,3 𝑒𝑡 20,33.
+
+Nombres
+
+Partie entière
+
+Partie décimale
+
+0,15
+
+12,7
+
+12,3
+
+15,3
+
+0
+
+12
+
+12
+
+15
+
+0,15
+
+0,7
+
+0,3
+
+0,3
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+5
+
+20,33
+
+20
+
+0,33
+
+2) Rangeons ces nombres dans l'ordre croissant puis dans l'ordre décroissant.
+
+On a : 0,15 < 12,3 < 12,7 < 15,3 < 20,33.
+
+ Alors dans l’ordre croissant on a : 0,15 − 12,3 − 12,7 − 15,3 𝑒𝑡 20,33 puis dans l’ordre
+
+décroissant, on a : 20,33 − 15,3 − 12,7 − 12,3 𝑒𝑡 0,15.
+
+Exercice n°3 :
+
+Calculons de manière performante chacun de ces nombres :
+
+  𝑎  =  2,12  +  6,36  +  7,88  +  3,64;
+
+On a : 𝑎  =  2,12  +  6,36  +  7,88  +  3,64;
+
+Alors  𝑎 = 2,12 + 7,88 + 6,36 + 3,64.
+
+Donc 𝑎 = 10 + 10.
+
+D’où 𝑎 = 20.
+
+  𝑏  =  18,3  −  4,12  +  0,83  −  4,5 ;
+
+On a : 𝑏  =  18,3  −  4,12  +  0,83  −  4,5 ;
+
+Alors 𝑏 = 18,3 − 4,5 − 4,12 + 0,83
+
+Donc 𝑏 = 13,8 − 4,12 + 0,83.
+
+D’où 𝑏 = 9,68 + 0,83.
+
+Ainsi 𝑏 = 10,51.
+
+  𝑐  =  2,5  ×  1,45  ×  4
+
+On a : 𝑐  =  2,5  ×  1,45  ×  4.
+
+Alors 𝑐 = 2,5 × 4 × 1,45.
+
+Donc 𝑐 = 10 × 1,45.
+
+D’où 𝑐 =  14,5.
+
+  𝑑  =  3,5  +  2,5  ×  8.
+
+On a : 𝑑  =  3,5  +  2,5  ×  8.
+
+Alors 𝑑 = 3,5 + 20.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+6
+
+Donc 𝑑 = 23,5.
+
+Exercice n°4 :
+
+1)  Effectuons de deux manières différentes, chacune de ces opérations :
+
+Première manière.
+
+  𝐴  =  3  ×   (5  − 2) ;
+
+𝐴 = 3 × (5 − 2).  Alors 𝐴 = 3 × 3. Donc 𝐴 = 9.
+
+  𝐵  =   (3  + 7) ×  3 ;
+
+𝐵 = (3 + 7) × 3.  Alors 𝐵 = 10 × 3. Donc  𝐵 = 30.
+
+  𝐶  =   (4,3  +  5,7) ×  2;
+
+𝐶 = (4,3 + 5,7) × 2. Alors 𝐶 = 10 × 2. Donc 𝐶 = 20.
+
+  𝐷  =  2  ×   (8  + 7)   +  3  × 2.
+
+𝐷  =  2  ×   (8  + 7) +  3  × 2. 𝐴𝑙𝑜𝑟𝑠 𝐷 = 2 × 15 + 3 × 2. Donc 𝐷 = 30 + 6. D’où
+𝐷 = 36.
+
+  𝐴  =  3  ×   (5  − 2) ;
+
+𝐴 = 3 × (5 − 2).  Alors 𝐴 = 3 × 5 − 3 × 2. Donc 𝐴 = 15 − 6. D’où 𝐴 = 9.
+
+Deuxième manière.
+
+  𝐵  =   (3  + 7) ×  3 ;
+
+𝐵 = (3 + 7) × 3.  Alors 𝐵 = 3 × 3 + 7 × 3. Donc 𝐵 = 9 + 21. D’où 𝐵 = 30.
+
+  𝐶  =   (4,3  +  5,7) ×  2;
+
+𝐶 = (4,3 + 5,7) × 2. Alors 𝐶 = 4,3 × 2 + 5,7 × 2. Donc 𝐶 = 8,6 + 11,4.           D’où
+𝐶 = 20.
+
+  𝐷  =  2  ×   (8  + 7)   +  3  × 2.
+
+𝐷  =  2  ×   (8  + 7) +  3  × 2.  𝐴𝑙𝑜𝑟𝑠 𝐷 = 2 × 8 + 2 × 7. Donc 𝐷 = 16 + 14. D’où
+𝐷 = 30.
+
+2) Calculons :
+
+a)  le quotient entier de E.
+
+On a : 24 ÷ 3 = 8. Alors le quotient entier de E est 8.
+
+b)  le quotient approché à l'unité près, au dixième près et au centième près de F.
+
+On a : 22 ÷ 7 ≈ 3,14. Alors le quotient entier de F est 3.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+7
+
+Exercice n°5 :
+
+1) Calculons de manière performante, chacun de ces nombres :
+
+  𝑎  =  2,3  +  5,14  +  7,7;
+
+On a: 𝑎  =  2,3  +  5,14  +  7,7.
+
+Alors 𝑎 = 2,3 + 7,7 + 5,14.
+
+Donc 𝑎 = 10 + 5,14.
+
+D’où 𝑎 = 15,14.
+
+  𝑏  =  86  +  24  +  14;
+
+On a : 𝑏  =  86  +  24  +  14.
+
+Alors 𝑏 = 86 + 14 + 24.
+
+Donc 𝑏 = 100 + 24.
+
+D’où 𝑏 = 124.
+
+
+
+ 𝑐  =  4,9  +  7,2  +  0,1  +  2,8;
+
+              On a : 𝑐 = 4,9 + 0,1 + 7,2 + 2,8.
+
+Alors 𝑐 = 5 + 10.
+
+Donc 𝑐 = 15.
+
+  𝑑  =  2,34  ×  2  ×  0,5;
+
+On a : 𝑑  =  2,34  ×  2  ×  0,5;
+
+Alors  𝑑 = 2,34 × 1.
+
+Donc 𝑑 = 2,34.
+
+  𝑒  =  2  ×  3,47  ×  5;
+
+On a : 𝑒  =  2  ×  3,47  ×  5;
+
+Donc 𝑒 = 2 × 5 × 3,47.
+
+D’où 𝑒 = 10 × 3,47.
+
+Ainsi 𝑒 = 34,7.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+8
+
+  𝑓  =  4  ×  0,1  ×  25  ×  10;
+
+On a : 𝑓 = 4 × 0,1 × 25 × 10.
+
+Alors 𝑓 = 4 × 25 × 0,1 × 10.
+
+Donc 𝑓 = 100 × 1.
+
+D’où 𝑓 = 100.
+
+  𝑔  =  2,3578  ×  3,459  ×  0  ×  12,5 ;
+
+On a: 𝑔 = 2,3578 × 3,459 × 0 × 12,5.
+
+Alors 𝑔 = 2,3578 × 3,459 × 0.
+
+Donc 𝑔 = 2,3578 × 0.
+
+D’où 𝑔 = 0.
+
+
+
+ ℎ  =  0,3  ×  37  +  0,3  ×  23;
+
+On a: ℎ  =  0,3  ×  37  +  0,3  ×  23.
+
+Alors ℎ = 0,3  × (37 + 23).
+
+Donc ℎ = 0,3 × 60.
+
+D’où ℎ = 18.
+
+
+
+𝑖 =  17  ×  13,52  −  17  ×  3,52;
+
+On a: 𝑖 = 17 × 13,52 − 17 × 3,52.
+
+Alors 𝑖 = 17 × (13,52 − 3,52).
+
+Donc 𝑖 = 17 × 10.
+
+D’où 𝑖 = 170.
+
+
+
+𝑗  =  3,95  ×  0,99  +  3,95  ×  0,01
+
+On a: 𝑗  =  3,95  ×  0,99  +  3,95  ×  0,01.
+
+Alors 𝑗 = 3,95 × (0,99 + 0,01).
+
+Donc 𝑗 = 3,95 × 1.
+
+D’où 𝑗 = 3,95.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+13
+9
+
+  𝑘  =  175002  ×  5  −  5  ×  175002.
+
+On a: 𝑘 =  175002  ×  5 –  5  ×  175002.
+
+      Alors 𝑘 = 175002 × (5 − 5).
+
+      Donc 𝑘 = 175002 × 0.
+
+       D’où 𝑘 = 0.
+
+2)  Déterminons la valeur approchée par défaut de 𝐻  =  15  ÷  7 au centième près.
+
+On a : 15 ÷ 7 ≈ 2,142.  Alors la valeur approchée par défaut de 𝐻 au  centième près est
+
+2,14.
+
+3)  Encadrons 𝐻 par deux nombres entiers naturels consécutifs.
+
+On a : 𝐻 ≈ 2,142. Alors 2 < 𝐻 < 3.
+
+Exercice n°6 :
+
+1)  Calculons la dépense 𝐷 effectuée par Carole.
+
+                 Carole  achète  2,5 𝑚  de  tissu  à  1500 𝑓  le  mètre,  une  douzaine  de  boutons
+
+à 75𝑓 𝑙𝑎 pièce, du fil pour 390𝑓 et 3,5𝑚 de ruban à 450𝑓 le mètre.
+
+       Alors, on a : 𝐷 = 2,5 × 1500𝑓 + 12 × 75𝑓 + 390𝑓 + 3,5 × 450𝑓.
+
+      Donc : 𝐷 =  3750𝑓 + 900𝑓 + 390𝑓 + 1575𝑓.
+
+       D’où 𝐷 = 6615𝑓.
+
+2)  Déterminons la somme 𝑆 qu'elle a économisée.
+
+Carole dispose de 7500 𝑓 et a dépensé 5865 𝑓.
+
+Alors 𝑆 = 7500 𝑓 − 6615 𝑓.
+
+D’où 𝑆 = 885 𝑓.
+
+Séquence n° 9 : Fractions.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+0
+
+Exercice n°1 :
+
+Simplifions ces fractions :
+
+  14
+6
+On a :
+
+14
+
+6
+
+=
+
+  25
+15
+
+On a :
+
+25
+
+15
+
+=
+
+  30
+12
+
+On a :
+
+30
+
+12
+
+=
+
+  48
+10
+
+On a :
+
+48
+
+10
+
+=
+
+7×2
+
+3×2
+
+. Alors
+
+14
+
+6
+
+5×5
+
+5×3
+
+. Alors
+
+25
+
+15
+
+5×6
+
+2×6
+
+. Alors
+
+30
+
+12
+
+=
+
+7
+
+3
+
+.
+
+=
+
+5
+
+3
+
+.
+
+=
+
+5
+
+2
+
+.
+
+2×24
+
+2×5
+
+. Alors
+
+48
+
+10
+
+=
+
+24
+
+5
+
+.
+
+2) Donnons deux autres écritures de chacune de ces fractions :
+
+  3
+7
+3
+On a :
+7
+
+=
+
+3×2
+
+7×2
+
+ 𝑒𝑡
+
+3
+
+7
+
+=
+
+3×5
+.
+7×5
+
+6
+
+14
+
+𝟔
+
+𝟏𝟒
+
+ 𝑒𝑡
+
+3
+
+7
+
+=
+
+15
+
+35
+
+.
+
+=
+
+𝟏𝟓
+
+𝟑𝟓
+
+.
+
+3
+Alors
+7
+
+=
+
+=
+
+𝟑
+Donc
+𝟕
+  5
+2
+5
+On a :
+2
+
+=
+
+5×2
+
+2×2
+
+ 𝑒𝑡
+
+5
+
+2
+
+=
+
+5×6
+.
+2×6
+
+5
+Alors
+2
+
+=
+
+10
+
+4
+
+ 𝑒𝑡
+
+5
+
+2
+
+=
+
+30
+
+12
+
+.
+
+𝟓
+Donc
+𝟐
+
+=
+
+𝟏𝟎
+
+𝟒
+
+=
+
+𝟑𝟎
+
+𝟏𝟐
+
+9
+
+
+7
+9
+=
+On a :
+7
+
+9×3
+
+7×3
+
+ 𝑒𝑡
+
+9
+
+7
+
+=
+
+9×5
+
+.
+7×5
+
+9
+
+Alors
+7
+
+=
+
+27
+
+21
+
+ 𝑒𝑡
+
+9
+
+7
+
+=
+
+45
+
+35
+
+.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+1
+
+𝟗
+Donc
+𝟕
+
+=
+
+𝟐𝟕
+
+𝟐𝟏
+
+=
+
+𝟒𝟓
+
+𝟑𝟓
+
+.
+
+Exercice n°2 :
+
+Déterminons ces nombres.
+
+On a :
+
+328
+
+1
+
+= 328;
+
+13
+
+10
+
+= 1,3;
+
+200
+
+1000
+
+= 0,2;
+
+5
+
+100
+
+= 0,05 𝑒𝑡
+
+3
+
+10
+
+= 0,3.
+
+Exercice n°3 :
+
+Calculons ces nombres :
+
+30
+
+4
+
+30
+
+4
+
++
+
++
+
++
+
+2
+
+7
+
+15
+
+4
+
+15
+
+4
+
+;
+
+  𝐴  =
+
+On a : 𝐴  =
+
+  𝐵  =
+
+On a : 𝐵 =
+
+  𝐶  =
+
+On a : 𝐶 =
+
+3
+
+7
+
+3
+
+7
+
+30
+
+4
+
+30
+
+4
+
+8
+
+;
+
+. 𝐴𝑙𝑜𝑟𝑠 𝐴 =
+
+30+15
+
+4
+
+. 𝐷𝑜𝑛𝑐 𝐴 =
+
+45
+
+4
+
+.
+
++
+
+2
+
+7
+
+. 𝐴𝑙𝑜𝑟𝑠 𝐵 =
+
+3+2
+
+7
+
+. 𝐷𝑜𝑛𝑐 𝐵 =
+
+5
+.
+7
+
+−
+
+17
+
+4
+
+ ;
+
+−
+
+17
+
+4
+
+. 𝐴𝑙𝑜𝑟𝑠 𝐶 =
+
+30−17
+
+4
+
+. 𝐷𝑜𝑛𝑐 𝐶 =
+
+13
+.
+
+4
+
+  𝐷 =
+
+On a : 𝐷 =
+
+8
+5
+
+−
+
+5
+− 2
+5
+
+2
+
+.
+
+5
+. 𝐴𝑙𝑜𝑟𝑠 𝐷 =   8−2
+5
+
+. 𝐷𝑜𝑛𝑐 𝐷 = 6
+5
+
+.
+
+Exercice n°4:
+
+Calculons ces nombres en simplifiant les résultats si possible.
+
+  𝑎  =  3  ×   (
+
+17
+
+21
+
+) ;
+
+On a : 𝑎 =  3  ×   (
+
+17
+
+21
+
+) . 𝐴𝑙𝑜𝑟𝑠 𝑎 =
+
+3×17
+
+21
+
+. 𝐷𝑜𝑛𝑐 𝑎 =
+
+3×17
+
+3×7
+
+. 𝐷′𝑜ù 𝑎 =
+
+17
+.
+
+7
+
+  𝑏  =  5  ×   (
+
+123
+
+125
+
+) ;
+
+On a : 𝑏 =  5  ×   (
+
+123
+
+125
+
+) . 𝐴𝑙𝑜𝑟𝑠 𝑏 =
+
+5×123
+
+125
+
+. 𝐷𝑜𝑛𝑐 𝑏 =
+
+5×123
+
+5×25
+
+. 𝐷′𝑜ù 𝑏 =
+
+123
+
+25
+
+.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+2
+
+3
+   𝑐  =  3  ×   (
+5
+
++
+
+13
+
+5
+
+);
+
+3
+On a : 𝑐 =  5  ×   (
+5
+
++
+
+13
+
+5
+
+) . 𝐴𝑙𝑜𝑟𝑠 𝑐 = 5 × (
+
+3+13
+
+5
+
+) . 𝐷𝑜𝑛𝑐 𝑐 =  5 ×
+
+16
+
+5
+
+.
+
+ 𝐷′𝑜ù 𝑐 =
+
+5 × 16
+5
+
+.  𝐴𝑖𝑛𝑠𝑖 𝑐 = 16.
+
+   𝑑 =  7 ×   (
+
+7
+
+11
+
++
+
+3
+
+11
+
+).
+
+On a : 𝑑 =  7  ×   (
+
+7
+
+11
+
++
+
+3
+
+11
+
+) . 𝐴𝑙𝑜𝑟𝑠 𝑑 = 7 × (
+
+7+3
+
+11
+
+) . 𝐷𝑜𝑛𝑐 𝑑 =  7 ×
+
+10
+
+11
+
+.
+
+ 𝐷′𝑜ù 𝑑 =
+
+7 × 10
+11
+
+.  𝐴𝑖𝑛𝑠𝑖 𝑑 =
+
+70
+11
+
+.
+
+Exercice n°5 :
+
+Calculons la valeur approchée à un dixième, centième et millième près de
+
+10
+.
+
+7
+
+a)  par défaut.
+
+On a :
+
+10
+
+7
+
+≈ 1,428571. Alors au dixième près, on a : 1,4 ; au centième près : 1,42 et
+
+au millième près : 1,428.
+
+       b) par excès.
+
+On a :
+
+10
+
+7
+
+≈ 1,428571. Alors au dixième près, on a : 1,5 ; au centième près : 1,43 et
+
+au millième près : 1,429.
+
+Exercice n°6 :
+
+1)  Écrivons sous forme de fraction, la portion sur 20 que représente l'âge de Issa par
+
+rapport à celui de son père.
+
+Soit d cette portion.
+
+La portion qui revient au père est
+
+20
+.
+20
+
+On a : 𝑑 +
+
+9
+20  +
+
+7
+
+20
+
+=
+
+20
+
+20
+
+.
+
+Alors  𝑑 =
+
+Donc  𝑑 =
+
+20
+
+20
+
+20
+
+20
+
+− (
+
+9
+20
+
+  +
+
+−
+
+16
+.
+20
+
+7
+
+20
+
+).
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+3
+
+D’où   𝑑 =   4
+20.
+
+2)  Déterminons l'âge de chaque enfant.
+
+Soient 𝐴1; 𝐴2 𝑒𝑡 𝐴3 les âges respectifs de Amadou, Alima et Coffi.
+
+On a : 𝐴1  =
+
+9
+
+20
+
+  × 40 𝑎𝑛𝑠 ; 𝐴2  =
+
+7
+
+20
+
+  × 40 𝑎𝑛𝑠 𝑒𝑡 𝐴  =
+
+4
+
+20
+
+  × 40 𝑎𝑛𝑠 ;
+
+Alors 𝐴1  =
+
+9 ×40
+
+20
+
+ 𝑎𝑛𝑠 ; 𝐴2  =
+
+7 ×40
+
+20
+
+ 𝑎𝑛𝑠 𝑒𝑡 𝐴3  =
+
+4 ×40
+
+20
+
+ 𝑎𝑛𝑠 ;
+
+Donc 𝐴1  =  18 𝑎𝑛𝑠; 𝐴2 = 14 𝑎𝑛𝑠 𝑒𝑡 𝐴3  =   8 𝑎𝑛𝑠.
+
+Exercice n°7:
+
+1)  Déterminons le nombre  𝑁1 d'élèves jouant au football.
+
+On a : 𝑁1  =
+
+1
+
+4
+
+  × 60. Alors 𝑁1  =
+
+Ainsi, 15 élèves jouent au football.
+
+1×60
+
+4
+
+. Donc 𝑁1  = 15.
+
+     2) Déterminons le nombre d'élèves 𝑁2  jouant au basket-ball.
+
+On a : 𝑁2  =
+
+2
+
+5
+
+  × 60. Alors 𝑁2  =
+
+2×60
+
+5
+
+. Donc 𝑁2  = 24.
+
+Ainsi, 24 élèves jouent au football.
+
+Séquence n°10 : Calcul littéral.
+
+Exercice n°1 :
+
+1)  Calculons 𝑥.
+
+On a : 𝐴 = 𝑙𝑎𝑟𝑔𝑒𝑢𝑟 × 𝑥. Alors 𝑥 =
+
+𝐴
+
+𝑙𝑎𝑟𝑔𝑒𝑢𝑟
+
+. 𝐷𝑜𝑛𝑐 𝑥 =   300
+
+15
+
+𝑚. 𝐷′𝑜ù 𝑥 = 20 𝑚.
+
+2)  Calculons 𝑦.
+
+        On a : 𝑃 = 4 × 𝑦.  𝐴𝑙𝑜𝑟𝑠  𝑦  =
+
+𝑃
+
+4
+
+. 𝐷𝑜𝑛𝑐 𝑦  =
+
+120
+
+4
+
+𝑚. 𝐷′𝑜ù 𝑦 = 30 𝑚.
+
+Exercice n°2 :
+
+a)  Exprimons 𝐴1 en fonction de 𝑟 et 𝜋.
+
+On a : 𝐴1 = 𝑟 × 𝑟 × 𝜋.
+
+b)  Calculons 𝐴1 en fonction de 𝜋 pour :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+4
+
+  𝑟 = 15 𝑚.
+
+On a : 𝐴1 = 15 𝑚 × 15 𝑚 × 𝜋.
+
+Donc 𝐴1 = 225𝜋 𝑚2.
+
+  𝑟 = 20 𝑚.
+
+On a : 𝐴1 = 20 𝑚 × 20 𝑚 × 𝜋.
+
+Donc 𝐴1 = 400𝜋 𝑚2.
+
+Exercice n°3 :
+
+1)  Déterminons la hauteur ℎ de ce pavé droit.
+
+On a : 𝑉 = 𝐿 × 𝑙 × ℎ.
+
+𝐴𝑙𝑜𝑟𝑠 ℎ =
+
+Donc ℎ =
+
+𝑉
+𝐿 × 𝑙
+
+750
+
+15×10
+
+𝑚.
+
+D’où ℎ = 5 𝑚.
+
+2)  Déterminons 𝑎.
+
+On a : 𝑉′ = 𝑎 × 𝑎 × 𝑎.
+
+De plus, 𝑉′ = 64 𝑚3 . Donc 𝑉′ = 4 𝑚 × 4 𝑚 × 4 𝑚.
+
+D’où 𝑎 = 4 𝑚.
+
+Exercice n°4 :
+
+Reproduisons puis complétons ce tableau :
+
+La longueur de l'un des côtés
+
+La longueur du second côté
+
+Le périmètre du rectangle
+
+35 𝑚
+
+14𝑚
+
+98 𝑚.
+
+21,5𝑚
+
+30 𝑚
+
+17𝑚
+
+77 𝑚
+
+16𝑚
+
+92𝑚
+
+6𝑚
+
+ 4 𝑚
+
+20𝑚
+
+L'aire du rectangle
+
+490 𝑚2
+
+365,5 𝑚2
+
+480 𝑚2
+
+24 𝑚2
+
+Exercice n°5 :
+
+1)  Déterminons la longueur  du côté correspondant à cette hauteur.
+
+Soit 𝐿 cette longueur. Posons 𝐴 𝑒𝑡 ℎ respectivement l’aire et la hauteur de ce
+parallélogramme.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+5
+
+On a : 𝐴 = 𝐿 × ℎ.  𝐴𝑙𝑜𝑟𝑠 ℎ =
+
+𝐴
+
+𝐿
+
+. 𝐷𝑜𝑛𝑐 ℎ =
+
+500
+
+20
+
+𝑚. 𝐷′𝑜ù ℎ = 25 𝑚.
+
+2)  Déterminons l’aire 𝐴′ de ce parallélogramme.
+
+Posons a = 25 m et b =30 m.
+
+On a : 𝐴′ = 𝑎 × 𝑏. 𝐴𝑙𝑜𝑟𝑠 𝐴′ = 25 𝑚 × 30 𝑚. 𝐷𝑜𝑛𝑐 𝐴′ =  750 𝑚2.
+
+3)  Déterminons la longueur  du côté correspondant à cette hauteur.
+
+Soit k cette longueur. Posons 𝐴′′ = 342 𝑚2 𝑒𝑡 𝑙 = 9 𝑚.
+
+On a : 𝐴′′ =
+
+𝑘×𝑙
+
+2
+
+D’où 𝑘 =
+
+2×342
+
+9
+
+. 𝐴𝑙𝑜𝑟𝑠 𝑘  × 𝑙 = 2 × 𝐴′′. 𝐷𝑜𝑛𝑐  𝑘 =
+
+2×𝐴′′
+
+𝑙
+
+.
+
+𝑚.  𝐴𝑖𝑛𝑠𝑖 𝑘 = 76 𝑚.
+
+SAN°3 : APPLICATIONS DU PLAN
+
+Séquence n°1 : Figures symétriques par rapport à une droite.
+
+Exercice :
+
+1-a) Reproduisons la figure 1.
+
+b)  Construction : Voir figure ci-dessus.
+
+c)  Comparaison :
+
+Les angles 𝐴𝐵𝐶̂ 𝑒𝑡 𝐴′𝐵′𝐶′̂  sont symétriques par rapport à (D). Alors  𝑚𝑒𝑠 𝐴𝐵𝐶̂ = 𝑚𝑒𝑠 𝐴′𝐵′𝐶′̂ .
+
+2-a) Figure :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+6
+
+b) Construction : Voir figure ci-dessus.
+
+c) Comparaison :
+
+Les segments [EF] et [E’F’] sont symétriques par rapport à la droite (LM). Alors 𝐸𝐹 =
+
+𝐸′𝐹′.
+
+Séquence n°2 : Figures symétriques par rapport à un point.
+
+Exercice n°1 :
+
+1-a) Reproduisons la figure 1.
+
+b)  Construction : Voir figure ci-dessus.
+
+c)  Comparaison :
+
+Les angles 𝐴𝐶𝐵̂ 𝑒𝑡 𝐴′𝐶′𝐵′̂  sont symétriques par rapport à O. Alors 𝑚𝑒𝑠 𝐴𝐶𝐵̂ = 𝑚𝑒𝑠 𝐴′𝐶′𝐵′̂ .
+
+2-a) Figure :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+7
+
+b) Construction : Voir figure ci-dessus.
+
+c) Comparaison :
+
+Les segments [EF] et [E’F’] sont symétriques par rapport à I. Alors 𝐸𝐹 = 𝐸′𝐹′.
+
+d)  Les droites (EF) et (E’F’) sont symétriques par rapport à I. Alors (EF)//(E’F’).
+
+Exercice n°2 :
+
+a)  Seuls les points O et E représentent un centre de symétrie respectivement
+
+pour les figures 1 et 2.
+
+b)  La droite tracée est un axe de symétrie pour la figure 1 seule.
+
+Séquence n° 3 : Glissement.
+
+Exercice 1 :
+
+1)  Traçons les flèches qui indiquent les glissements ‘’ du volant 3 au volant 4’’ puis ‘’ du
+
+volant 4 au volant 5’’.
+
+2)  Indiquons par quel glissement on peut passer du volant 4 au volant 6.
+
+        Ce  glissement  est  celui  correspondant  à  la  flèche  tracée  ci-dessus  liant  le  volant  6  au
+volant 4.
+
+Exercice 2 :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+8
+
+1)  Indiquons le nom, le sens, la longueur et la direction de ce glissement :
+
+Nom : Glissement IJ ;
+Sens : celui de I vers J ;
+Longueur : IJ ;
+Direction : celle de la droite (IJ)
+
+2)  Les sommets correspondants aux sommets A, B, C et D dans ce glissement sont
+
+respectivement E, F, G et H.
+
+3)  Donnons la longueur du segment [AE].
+
+Le point E est le correspondant du point A dans le glissement IJ. Alors AE = 6 cm.
+
+SAN°4 : ORGANISATION DES DONNEES.
+
+Séquence n°1 : Proportionnalité.
+
+Exercice n°1 :
+
+Vérifions si ces tableaux sont des tableaux de proportionnalité.
+
+  Tableau 1 :
+
+9
+
+On a :
+3
+
+= 3;
+
+30
+
+10
+
+= 3;
+
+6
+
+2
+
+= 3 𝑒𝑡
+
+36
+
+12
+
+= 3. 𝐴𝑙𝑜𝑟𝑠
+
+9
+
+3
+
+=
+
+30
+
+10
+
+=
+
+6
+
+2
+
+=
+
+36
+
+12
+
+= 3.
+
+Donc ce tableau est un tableau de proportionnalité.
+
+  Tableau 2 :
+
+On a :
+
+24
+
+8
+
+= 3;
+
+21
+
+7
+
+= 3;
+
+40
+
+10
+
+= 4 𝑒𝑡
+
+75
+
+25
+
+= 3 𝑎𝑣𝑒𝑐 3 ≠ 4. Donc ce tableau n’est
+
+pas un tableau de proportionnalité.
+
+Exercice n°2 :
+
+1)  Reproduisons puis complétons ce tableau.
+
+Temps
+
+1 h
+
+30 min
+
+50 min
+
+15 min
+
+1h15min
+
+48 min
+
+Distance
+
+60 km
+
+30 km
+
+50 km
+
+15 km
+
+75 km
+
+48 km
+
+En effet,
+
+60𝑘𝑚
+
+ℎ
+
+=
+
+60𝑘𝑚
+
+60𝑚𝑖𝑛
+
+=
+
+1𝑘𝑚
+
+𝑚𝑖𝑛
+
+. Donc à 1 min et 1km se correspondent.
+
+2)  Reproduisons puis complétons ce tableau.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+14
+9
+
+X
+
+Y
+
+18
+
+45
+
+2,8
+
+0,4
+
+7
+
+1
+
+10
+
+25
+
+1
+
+3
+
+19,2
+
+2,5
+
+7,5
+
+48
+
+      De  ce  tableau  de  proportionnalité,  on  a  :
+
+10
+
+25
+
+= 0,4 𝑒𝑡
+
+25
+
+10
+
+= 2,5.    Ainsi  pour  obtenir  un
+
+nombre de la première ligne, il faut multiplier son correspondant par 0,4 et pour obtenir un
+
+nombre de la seconde ligne, il faut multiplier son correspondant par 2,5.
+
+Exercice n°3 :
+
+        1-a) Détermine sa  consommation d’essence C sur une distance de 884 𝐾𝑚.
+
+On a : 7,3 𝐿 → 100 𝐾𝑚
+
+                  𝐶 → 884 𝐾𝑚.
+
+Alors 𝐶 =
+
+7,3 𝐿 × 884 𝐾𝑚
+
+100 𝐾𝑚
+
+.  𝐷𝑜𝑛𝑐 𝐶 = 64,532 𝐿.
+
+b) Déterminons la distance d qu’elle peut parcourir avec 75 𝐿 d’essence.
+
+On a : 7,3 𝐿 → 100 𝐾𝑚
+
+             73 𝐿 → 𝑑.
+
+Alors 𝑑 =
+
+73 𝐿 × 100 𝐾𝑚
+
+7,3 𝐾𝑚
+
+.  𝐷𝑜𝑛𝑐 𝑑 = 1.000 𝐿.
+
+          2-a) Déterminons la quantité Q de peinture qu’il faut pour peindre 72 𝑚2 de surface.
+
+On a : 5 𝐿 → 20 𝑚2
+
+             𝑄 → 72 𝑚2 .
+
+Alors 𝑄 =
+
+5 𝐿 × 72 𝑚2
+20 𝑚2
+
+. 𝐷𝑜𝑛𝑐 𝑄 = 18 𝐿.
+
+b) Détermine l’aire de la surface A qu’on peut peindre avec 17 𝐿 de peinture.
+
+On a : 5 𝐿 → 20 𝑚2
+
+             17 𝐿 → 𝐴.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+0
+
+Alors 𝐴 =
+
+17 𝐿 × 20 𝑚2
+
+5 𝐿
+
+. 𝐷𝑜𝑛𝑐 𝐴 = 68  𝑚2.
+
+Exercice n°4 :
+
+1)  Déterminons
+
+la  distance  en  cm  sur  une  carte  à
+
+l’échelle  de  1/150.000.
+
+Soit d cette distance.
+
+On a : 450 Km = 450.000.000 cm.
+
+Alors 𝑑 =
+
+450.000.000×1
+
+150.000
+
+. 𝐴𝑙𝑜𝑟𝑠 𝑑 = 3000 𝑐𝑚.
+
+2)  Déterminons la distance réelle entre ces deux villages en 𝐾𝑚.
+
+Soit D cette distance.
+
+On a : 𝐷 = 0,7 𝑑𝑚  × 30.000; 𝐷 = 21.000 𝑑𝑚 𝑠𝑜𝑖𝑡 𝐷 = 2,1 𝐾𝑚.
+
+3)  Déterminons les dimensions réelles de cette maison.
+
+Soit 𝐿 𝑒𝑡 𝑙 respectivement la longueur et la largeur réelle de ce terrain.
+
+  Sur un plan à l’échelle 1/5.000 la longueur de maison est de 30 𝑐𝑚.
+
+Alors 𝐿 = 30 𝑐𝑚  × 500. 𝐷𝑜𝑛𝑐 𝐿 = 15.000 𝑐𝑚 𝑠𝑜𝑖𝑡 𝐿 = 15 𝑚.
+
+  Sur un  plan à l’échelle 1/100 sa largeur est de 1 𝑑𝑚.
+
+Alors 𝑙 = 1 𝑑𝑚  × 100. 𝐴𝑙𝑜𝑟𝑠 𝑙 = 100 𝑑𝑚 𝑠𝑜𝑖𝑡 𝑙 = 10𝑚.
+
+4)  Déterminons l’échelle de réduction ayant servi à cette représentation.
+
+Soit 𝑒 cette échelle.
+
+On a : 𝑒 =
+
+5 𝑐𝑚
+
+40 𝑐𝑚
+
+. 𝐴𝑙𝑜𝑟𝑠 𝑒 =
+
+1
+
+8
+
+.
+
+Exercice n°5:
+
+Reproduisons puis complétons ce tableau.
+
+Nombre  de
+
+3
+
+4
+
+5
+
+8
+
+9
+
+10
+
+12
+
+paquets
+
+Prix normal
+
+300F
+
+400F
+
+500F
+
+800F
+
+900F
+
+1.000F
+
+1.200F
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+1
+
+Prix
+
+225F
+
+300F
+
+375F
+
+600F
+
+675F
+
+750F
+
+900F
+
+promotionnel
+
+En promotion, un lot de 4 paquets coûte 300F. Alors 1 paquet coûte 75F.
+
+Exercice n°6 :
+
+1-a) Déterminons le taux de réduction T bénéficié par ce client.
+
+La réduction R bénéficiée par ce client est 𝑅 = 10.000𝐹 − 8.000𝐹.
+
+Alors 𝑅 = 2.000𝐹.
+
+Donc 𝑇 =
+
+2.000𝐹×100
+
+10.000𝐹
+
+. D’où 𝑇 = 20%.
+
+b) Déterminons le prix P de ce téléphone.
+
+La réduction sur ce téléphone est 𝑅′ =
+
+16.000×20
+
+100
+
+ ; 𝑅′ = 3.200𝐹.
+
+Donc 𝑃 = 16.000𝐹 − 3.200𝐹. D’où 𝑃 = 12.800𝐹.
+
+2) Déterminons le nouveau prix d’achat D de cet objet.
+
+5.000𝐹×15
+
+100
+
+. Donc 𝑟 = 750𝐹
+
+La remise faite au client est 𝑟 =
+
+Ainsi, 𝐷 = 5.000𝐹 − 750𝐹.
+
+Par suite 𝐷 = 4.250𝐹.
+
+Séquence n°2 : Statistiques.
+
+Exercice n°1 :
+
+1)  Tableau :
+
+Modalités
+
+Effectifs
+
+Fréquences en %.
+
+G
+
+40
+
+F
+
+20
+
+Total
+
+60
+
+40 × 100
+60
+
+= 66,67
+
+20 × 100
+60
+
+= 33,33
+
+60 × 100
+60
+
+= 100
+
+2)  On ne peut pas calculer la moyenne de cette série statistique car le caractère étudié
+
+(le sexe) est qualitatif.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+2
+
+Exercice n°2 :
+
+1)  Tableau :
+
+Notes
+
+0
+
+Effectifs  1
+
+1
+
+1
+
+2
+
+5
+
+4
+
+9
+
+5
+
+9
+
+6
+
+7
+
+7
+
+2
+
+8
+
+9
+
+9
+
+4
+
+10
+
+5
+
+Total
+
+52
+
+2)  Le nombre d’élèves ayant obtenu exactement 8 est : 9.
+
+3)  La note sur 10 n’ayant pas été attribuée est : 3.
+
+4)  Déterminons le nombre N d’élève ayant obtenu la moyenne à cette évaluation.
+
+N est le nombre d’élève ayant obtenu une note supérieure ou égale à 5.
+
+Alors 𝑁 =  9 + 7 + 2 + 9 + 4 + 5. 𝐷𝑜𝑛𝑐 𝑁 = 36.
+
+Exercice n° 3 :
+
+      Dressons  le tableau des effectifs et des fréquences en pourcentage correspondants à
+cette série statistique.
+
+Notes
+
+Effectifs
+
+2
+
+1
+
+4
+
+2
+
+5
+
+1
+
+6
+
+1
+
+7
+
+3
+
+8
+
+4
+
+Fréquences
+en %.
+
+(1×100)
+/33
+= 3,03
+
+(2×100)/3
+3
+= 6,06
+
+(1×100)/3
+3
+= 3,03
+
+(1×100)/3
+3
+= 3,03
+
+(3×100)/3
+3
+= 9,09
+
+(4×100)/
+33
+= 12,12
+
+9
+
+5
+
+10
+
+6
+
+11
+
+2
+
+12
+
+4
+
+14
+
+3
+
+17
+
+1
+
+Total
+
+33
+
+(5×100)/3
+3
+= 15,15
+
+(6×100)/3
+3
+= 18,19
+
+(2×100)/3
+3
+= 6,06
+
+(4×100)/3
+3
+= 12,12
+
+(3×100)/3
+3
+= 9,09
+
+(1×100)/3
+3
+= 3,03
+
+(33×100
+)/33
+= 100
+
+Exercice n°4 :
+
+1)  Construisons un diagramme en bâtons représentant cette série statistique
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+3
+
+2) Déterminons le nombre d’employés ayant :
+
+  au moins 30 ans.
+
+Soit N1 ce nombre.
+
+N1  = 90 + 40. Donc N1  = 130.
+
+  au plus 45 ans ;
+
+Soit N2 ce nombre.
+
+N2  = 20+90. Donc N1  = 110.
+
+3) Déterminons le nombre total d’employés
+
+Soit N ce nombre.
+
+N  = 20+ 90 + 40. Donc N1  = 150.
+
+Exercice n°5 :
+
+2)  Ce diagramme est un diagramme circulaire.
+3)  Déterminons le nombre d’adhérents jouant au :
+
+
+
+football ;
+
+Soit N1 ce nombre.
+
+N1  = (65 x 240)/100. Donc N1  = 156.
+
+  handball ;
+
+Soit N2 ce nombre.
+
+N2  = (10 x 240)/100. Donc N2  = 24.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+4
+
+  volleyball ;
+
+Soit N3 ce nombre.
+
+N3  = (25 x 240)/100. Donc N3  = 60.
+
+Correction  des évaluations
+
+formatives
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+5
+
+Evaluation formative n°1 :
+
+1)  Ce pavé droit a 8 sommets et 12 arêtes.
+
+2)  a- Citons deux faces qui contiennent le point F : ABFE et EFGH.
+
+b- Citons deux faces qui contiennent le segment [BF] : ABFE et BFGC.
+
+c-  Le segment [AE] représente une hauteur de ce pavé droit.
+
+3)  a- Calculons l’aire totale AT et le volume V de ce pavé droit.
+
+  AT
+
+Soient Pb, Al et Ab respectivement le périmètre d’une base, l’aire de la surface latérale et l’aire
+
+d’une base de ce pavé droit.
+
+On a : 𝐴𝑇 =   𝐴𝐿 + (2 × 𝐴𝑏) 𝑎𝑣𝑒𝑐 𝐴𝐿 = 𝑃𝑏   × ℎ 𝑒𝑡 𝐴𝑏 = 𝐿 × 𝑙.
+
+𝑃𝑏 = 2 × (𝐿 + 𝑙); 𝑃𝑏 = 2 × (6 𝑐𝑚 + 4 𝑐𝑚); 𝑃𝑏 = 2 × 10 𝑐𝑚. 𝐷𝑜𝑛𝑐  𝑃𝑏 = 20 𝑐𝑚.
+
+𝐴𝐿 = 20 𝑐𝑚  × 3 𝑐𝑚 𝑒𝑡 𝐴𝑏 = 6 𝑐𝑚 × 4 𝑐𝑚.  𝐴𝑙𝑜𝑟𝑠 𝐴𝐿 = 60 𝑐𝑚2  𝑒𝑡 𝐴𝑏 = 24 𝑐𝑚2 .
+
+D’où 𝐴𝑇 =  60 𝑐𝑚2   + (2 × 24 𝑐𝑚2 );  𝐴𝑇 =  60 𝑐𝑚2 +  48 𝑐𝑚2.  𝐴𝑖𝑛𝑠𝑖 𝐴𝑇 =  108 𝑐𝑚2.
+
+  V
+
+On a : 𝑉 = 𝐿 × 𝑙 × ℎ.  𝐴𝑙𝑜𝑟𝑠 𝑉 = 6 𝑐𝑚  × 4 𝑐𝑚 × 3 𝑐𝑚. 𝐷𝑜𝑛𝑐 𝑉 = 72 𝑐𝑚3.
+
+b- Calculons l’aire totale  𝐴′𝑇 et le volume V’ de ce cube.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+6
+
+  𝐴′𝑇
+
+On a : 𝐴′𝑇 = 6 × 𝑎 × 𝑎.  𝐴𝑙𝑜𝑟𝑠 𝐴′𝑇 = 6 × 7 𝑐𝑚 × 7 𝑐𝑚. 𝐷𝑜𝑛𝑐  𝐴′𝑇 =  294 𝑐𝑚2.
+
+  𝑉′
+
+On a : 𝑉′ = 𝑎 × 𝑎 × 𝑎. 𝐴𝑙𝑜𝑟𝑠 𝑉′ = 7 𝑐𝑚 × 7 𝑐𝑚 × 7 𝑐𝑚.  𝐷𝑜𝑛𝑐 𝑉′ = 343 𝑐𝑚3.
+
+Evaluation formative n°2 :
+
+1)  Donnons un nom à 𝑋, 𝑊 𝑒𝑡 𝑍.
+
+𝑋 : parallèle ;
+
+𝑊 : équateur ;
+
+ 𝑍 : méridien de Greenwich.
+
+2)  Reproduisons puis complétons ce tableau.
+
+représenté
+
+O
+
+P
+
+R
+
+S
+
+Pays
+
+par :
+
+Latitude
+
+20° Nord  40° Nord
+
+20° Sud
+
+20° Sud
+
+Longitude
+
+80°
+
+100° Est
+
+60° Est
+
+40°
+
+Ouest
+
+Ouest
+
+3)  Plaçons ces points sur la figure.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+7
+
+Globe terrestre
+
+Evaluation formative n°3 :
+
+Résolution :
+
+1)  Donnons un autre nom à :
+
+  (𝐷1) : (𝐴𝐶) car les points A et C appartiennent à la droite (𝐷1);
+
+  (𝐷2) : (𝐸𝐵) car les points E et B appartiennent à la droite (𝐷2)
+
+2)  Recopions  puis  complétons  l’énoncé  ci-dessous  en  remplaçant  les  pointillés  par  les
+
+symboles : ∈, ∉, ⊂ ou ⊄.
+
+     𝑎) 𝐴  ∈ (𝐷𝐶) ;  𝑏) 𝐵 ∉ [𝐴𝐸) ;  𝑐) 𝐶 ∈ [𝐷𝐴) ;  𝑑) 𝐶 ∉ (𝐴𝐵) ;  𝑒) [𝐴𝐶) ⊂ (𝐷𝐶);
+
+𝑓)    [𝐴𝐵) ⊂ [𝐸𝐵);  𝑔) [𝐴𝐶) ⊄ (𝐸𝐵).
+
+       3-a) Positions relatives des droites (𝐷3), (𝐷6) et (𝐷7) par rapport à (𝐷4)
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+8
+
+  (𝐷3) 𝑒𝑡 (𝐷4).
+
+Les droites (𝐷3) 𝑒𝑡 (𝐷4) sont toutes perpendiculaires à la droite (𝐷7). Alors (𝐷3)// (𝐷4).
+
+  (𝐷6) 𝑒𝑡 (𝐷4).
+
+Les droites (𝐷6) 𝑒𝑡 (𝐷4) se coupent en G. Alors elles sont sécantes en G.
+
+  (𝐷7) 𝑒𝑡 (𝐷4).
+
+Les  droites  (𝐷7) 𝑒𝑡 (𝐷4)  se  coupent  en  P  en  formant  un  angle  droit.  Alors  elles  sont
+
+perpendiculaires en P.
+
+b) Positions relatives des droites (𝐷3), (𝐷6) et (𝐷7) par rapport à (𝐷5).
+
+Les  droites  (𝐷4)  et  (𝐷5)  sont  parallèles.  Alors  les  positions    relatives  des  droites
+
+(𝐷3), (𝐷6) et (𝐷7) par rapport à (𝐷5) sont celles de ces droites par rapport à (𝐷4). Donc les
+
+droites  (𝐷3), (𝐷6) et (𝐷7) sont respectivement parallèle,  sécante et  perpendiculaire à (𝐷5).
+
+Evaluation formative n°4 :
+
+1)  Citons toutes les caméras installées :
+
+a)  à l’extérieur du domaine d’exposition : A et C.
+
+b)  dans le domaine d’exposition : O, D, H et I.
+
+c)   les limites du lieu d’exposition : K, G, E, B et F.
+
+2)  – Le segment [GK] a ses extrémités sur le cercle. Alors il est une corde du cercle (C).
+
+-
+
+-
+
+Le segment [GF] a ses extrémités sur le cercle (C) et passe par son centre O. Alors
+
+ce segment est un diamètre du cercle (C).
+
+Le segment [OE] a son extrémité O comme centre de (C) et son extrémité E est un
+
+point de (C). Alors ce segment est un rayon de (C).
+
+3)  Calculons les longueurs GF et OE.
+
+  GF
+
+On a : 𝑝 = 𝐺𝐹  × 𝜋.  𝐴𝑙𝑜𝑟𝑠 𝐺𝐹 =
+
+𝑝
+
+𝜋
+
+.  𝐷𝑜𝑛𝑐 𝐺𝐹 =
+
+2826𝑚
+
+3,14
+
+. 𝐷′𝑜ù 𝐺𝐹 =  900 𝑚.
+
+  OE.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+15
+9
+
+On a: 𝐺𝐹 = 𝑂𝐸  × 2.  𝐴𝑙𝑜𝑟𝑠 𝑂𝐸 =
+
+𝐺𝐹
+
+2
+
+.  𝐷𝑜𝑛𝑐 𝑂𝐸 =
+
+900𝑚
+
+2
+
+.  𝐷′𝑜ù 𝑂𝐸 = 450 𝑚.
+
+4)  Calculons l’aire 𝑆 du domaine d’exposition.
+
+On a : 𝑆 = 𝑂𝐸 × 𝑂𝐸 × 𝜋.  𝐷𝑜𝑛𝑐 𝑆 = 450 𝑚 × 450 𝑚  × 3,14.  𝐷′𝑜ù 𝑆 = 635.850 𝑚2.
+
+Evaluation formative n°5 :
+
+1-a) Justifions que les angles 𝐹𝐸𝐺̂ 𝑒𝑡 𝐺𝐸𝐻̂  sont adjacents.
+
+Les angles 𝐹𝐸𝐺̂ 𝑒𝑡 𝐺𝐸𝐻̂  ont même sommet E, le côté [EG) en commun et sont situés de part
+
+et d’autre de ce côté. Alors les angles 𝐹𝐸𝐺̂ 𝑒𝑡 𝐺𝐸𝐻̂  sont adjacents.
+
+b) Déterminons 𝑚𝑒𝑠 𝐺𝐸𝐻̂ .
+
+Les angles 𝐹𝐸𝐺̂ 𝑒𝑡 𝐺𝐸𝐻̂  sont adjacents.
+
+Alors 𝑚𝑒𝑠 𝐹𝐸𝐻̂ = 𝑚𝑒𝑠 𝐸𝐹𝐺̂ + 𝑚𝑒𝑠 𝐺𝐸𝐻̂ .  𝐷𝑜𝑛𝑐  𝑚𝑒𝑠 𝐺𝐸𝐻̂ =  𝑚𝑒𝑠 𝐹𝐸𝐻̂ − 𝑚𝑒𝑠 𝐸𝐹𝐺̂.
+
+𝐷′𝑜ù  𝑚𝑒𝑠 𝐺𝐸𝐻̂ =  80° − 35°.  𝐴𝑖𝑛𝑠𝑖 𝑚𝑒𝑠 𝐺𝐸𝐻̂ =  45° .
+
+2-a) Donnons la nature du quadrilatère ABCD.
+
+Considérons la figure b. Le quadrilatère ABCD a ses diagonales qui se coupent en leur milieu J.
+
+Ainsi ABCD est un parallélogramme.
+
+b) Comparons les longueurs AB et DC.
+
+ABCD est un parallélogramme dont les côtés [AB] et [DC] sont opposés. Alors 𝐴𝐵 = 𝐷𝐶.
+
+c) Justifions que (𝐴𝐷)//(BC).
+
+ABCD est un parallélogramme dont les côtés [AD] et [BC] sont opposés. Alors (𝐴𝐷)//(BC).
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+0
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+1
+
+Correction  des évaluations
+
+sommatives
+
+Évaluation sommative n°1:
+
+Problème 1:
+
+   1-a) Nature exacte des solides des figures a et b :
+
+  Figure a:
+
+Le solide de la figure a a 6 faces rectangulaires, deux à deux superposables, 8 sommets et
+
+12 arêtes. Alors il est un pavé droit.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+2
+
+  Figure b:
+
+Le solide de la figure b a 6 faces carrées toutes superposables, 8 sommets et 12 arêtes.
+
+Alors il est un cube.
+
+b) Noms :
+
+figure d : cône de révolution       ;        figure e : globe terrestre.
+
+2) Annotons le solide de cette figure.
+
+1 : sommet ;    2 : génératrice ;     3 : hauteur ;        4 : rayon ;       5 : disque de base.
+
+ 3) Tableau:
+
+Points
+
+I
+
+J
+
+K
+
+M
+
+Latitude
+
+40° Nord
+
+80° Sud
+
+60° Nord
+
+20° Sud
+
+Longitude
+
+60° Ouest
+
+40° Ouest
+
+60° Est
+
+80° Est
+
+Problème 2 :
+
+3) Déterminons le volume V du solide de la figure a.
+
+Le solide de la figure a est un cube d’arête a = 3 cm.
+
+𝐴𝑙𝑜𝑟𝑠  𝑉  =  𝐿 ×  𝑙  ×  ℎ.
+
+𝐷𝑜𝑛𝑐   𝑉    =  5 𝑐𝑚 × 4 𝑐𝑚  ×  2 𝑐𝑚.
+
+𝐷’𝑜ù  𝑉  =  40 𝑐𝑚3.
+
+3)  Déterminons l’aire 𝐴’𝑇 de la surface totale du solide de la figure b et son volume 𝑉’.
+
+  𝐴’𝑇
+
+𝑂𝑛 𝑎:   𝐴’𝑇 = 6  × 𝑎 × 𝑎 ;
+
+𝐷𝑜𝑛𝑐   𝐴’𝑇 =  6 × 3 𝑐𝑚  ×  3 𝑐𝑚 ;
+ 𝐷’𝑜ù 𝐴’𝑇 = 54 𝑐𝑚2
+
+  𝑉’
+
+𝐴𝑙𝑜𝑟𝑠  𝑉′ =  𝑎 × 𝑎  ×  𝑎.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+3
+
+𝐷𝑜𝑛𝑐     𝑉    =  3 𝑐𝑚 × 3 𝑐𝑚  ×  3 𝑐𝑚.
+
+𝐷′𝑜ù  𝑉  =  27 𝑐𝑚3.
+
+4)  Patron de la figure b.
+
+                                       Patron du solide de la figure 2 :
+
+Problème 3 :
+
+5)  Position relative des droites :
+
+Considérons la figure d.
+
+a) (D1) et (D3).
+
+            Les droites (D1) et (D3) se coupent en un seul point en formant un angle droit. Alors
+
+(D1) Ʇ (D3).
+
+b) (𝐷2) 𝑒𝑡 (𝐷4)
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+4
+
+Les droites (D2) et (D4) se coupent en un seul point (le point A). Alors (D2) et (D4) sont
+
+sécantes.
+
+6)  Démontrons que (D1)//(D2).
+
+Considérons la figure d.
+
+On a : (D1)Ʇ (D3)et (D2)Ʇ (D3).  Alors (D1) // (D2).
+
+Évaluation sommative n°2:
+
+Problème 1:
+
+1)   Justifions que les angles 𝐴𝐵𝐶̂ et 𝐶𝐵𝐷̂  sont adjacents.
+
+Considérons la figure n°1.
+
+Les  angles 𝐴𝐵𝐶̂ et 𝐶𝐵𝐷̂  ont même sommet B, le côté [BC) en commun et sont situés
+
+de part et d’autre de ce côté. Alors les angles 𝐴𝐵𝐶̂ et 𝐶𝐵𝐷̂  sont adjacents.
+
+b) Déterminons 𝑚𝑒𝑠 𝐶𝐵𝐷̂ .
+
+Considérons la figure n°1.
+
+Les angles 𝐴𝐵𝐶̂ et 𝐶𝐵𝐷̂  étant adjacents, alors :
+
+𝑚𝑒𝑠 𝐴𝐵𝐷̂ =  𝑚𝑒𝑠 𝐴𝐵𝐶̂ +  𝑚𝑒𝑠 𝐶𝐵𝐷̂ .
+
+Donc  𝑚𝑒𝑠 𝐶𝐵𝐷̂ =  𝑚𝑒𝑠 𝐴𝐵𝐷̂ −  𝑚𝑒𝑠 𝐴𝐵𝐶̂ .
+
+𝐷′𝑜ù 𝑚𝑒𝑠 𝐶𝐵𝐷̂ = 70° − 30°
+
+             𝐴𝑖𝑛𝑠𝑖 𝑚𝑒𝑠 𝐶𝐵𝐷̂ = 40°.
+
+2)  Donnons la nature du quadrilatère MNOP.
+
+Considérons le quadrilatère MNOP.
+
+Les  côtés  [MN]  et  [PO],  de  même  que  [MP]  et  [NO]  sont  des  côtés  opposés  de  ce
+
+quadrilatère. De plus, MN = PO et MP = NO. Alors MNOP est un parallélogramme.
+
+3)  Disons ce que représente le point I pour le segment [NP].
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+5
+
+MNOP est un parallélogramme. Les segments [NP] et [OM] sont les diagonales de ce
+
+parallélogramme qui se coupent en I. Alors I est le milieu de [NP].
+
+Problème 2:
+
+4)  Calculons P1.
+
+P1 est le périmètre du parallélogramme MNOP. Alors P1= MN + NO + PO + MP
+
+Or MN = PO et MP = NO . Donc P1= MN + NO +MN + NO ; P1 = 6m + 5m + 6m +5m ;
+
+D'où P1 = 22m.
+
+5-a) Donnons la nature du triangle NKO.
+
+NKO est un triangle tel que les droites (NK) et (KO) sont perpendiculaires en K. Alors
+
+NKO est un triangle rectangle en K.
+
+b) Calculons P2.
+
+P2 est le périmètre du triangle NKO.
+
+Alors P2= NK + KO + NO; P2 = 4m + 3m+ 5m; Donc P2 =12m.
+
+c) Calculons A2.
+
+A2 est l'aire du triangle NKO rectangle en K.
+
+Alors A2 = (NK × KO)/2 ; A2= (4m × 3m)/2. D'où A2= 6m2.
+
+Problème 3:
+
+6) Citons deux points de la figure n°3 situés:
+
+a)  à l'intérieur de (C): T et U.
+
+b)  à l'extérieur de (C): L et Q.
+
+c)  sur le cercle (C): S et V.
+
+7-a) Le segment [VR] représente une corde du cercle (C).
+
+   b) Le segment [SV] représente un diamètre de (C).
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+6
+
+   c) Le segment [UV] représente un rayon de (C).
+
+8-a) Déterminons P3.
+
+  P3 est le périmètre de (C).
+
+    Alors P3 = 2 × r × π; P3 = 2× 4m × 3,14 ; P3 = 25, 12 m.
+
+b) Déterminons A3.
+
+A3 est l'aire du disque délimité par (C).
+
+A3 = r × r × π ; A3= 4m × 4m × 3,14 ; A3 = 50,24 m2.
+
+Evaluation sommative n°3:
+
+Problème 1:
+
+1-a) Nature du quadrilatère ABCD.
+
+ABCD est un quadrilatère qui a ses côtés de même longueur. Alors ABCD est un losange.
+
+b) Déduisons la position relative des droites (AC) et (BD).
+
+ABCD est un losange et les segments [AC] et [BD] ses diagonales, alors les droites (AC) et (BD)
+
+sont perpendiculaires.
+
+2-a) Justifions que AID est un triangle rectangle en I.
+
+Considérons le triangle AID.
+
+De la question 1-b), les droites (AI) et (ID) sont perpendiculaires en I. Alors AID est un triangle
+
+rectangle en I.
+
+b) Calculons l'aire A de ce triangle.
+
+AID est un triangle rectangle en I. Alors
+
+𝐴  =
+
+𝐴𝐼  ×  𝐼𝐷
+2
+
+.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+7
+
+I est le milieu de [AC] et de [BD]. Alors AI = AC/2 et ID = BD/2 ; AI = 8 cm/2 et ID = 6cm/2 ; AI =
+
+4cm et ID= 3cm. D'où A = (4cm × 3cm)/2. Ainsi, A= 6 cm2.
+
+3-a) Calculons le périmètre P1 de ABCD.
+
+On a: P1= 4 × AB ; P1= 4 × 5 cm. Donc P1= 20 cm.
+
+b) Calculons son aire A1.
+
+On a: A1 = (AC ×BD)/2 ; A1 = (8 cm ×6 cm)/2. D'où A1 = 24 cm2.
+
+Problème 2:
+
+4-a) Citons trois nombres entiers naturels consécutifs de la liste 1.
+
+On a: 3; 4 et 5.
+
+b) Le prédécesseur du nombre 12 est : 11.
+
+5) Tableau :
+
+Nombres pairs  Nombres
+
+Multiples de 3
+
+Multiples de 5  Multiples de 3
+
+impairs
+
+et 5
+
+4;  12;  0 𝑒𝑡 60
+
+3;  5;  27;  45
+
+3;  12;  27;  0;  45;  60
+
+5;  0;  45;  60
+
+0;  45;  60
+
+6-a) Justifions que 12 est un multiple de 6.
+
+On a: 12 = 6×2  où 2 est un nombre entier naturel. Alors 12 est un multiple de 6.
+
+b) Justifions que 45 n'est pas un multiple de 7.
+
+On a : 7×6 =42 et 7×7= 49 avec 42<45<49. Alors 42 et 49 sont deux multiples consécutifs de 7
+
+et 45 n'est pas un multiple de 7.
+
+Problème 3 :
+
+7) Écrivons en lettre les nombres de la liste 2.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+8
+
+  275 : deux cent soixante quinze ;
+
+  380 : trois cent quatre-vingts ;
+
+  500 : cinq cents;
+
+  292 : deux cent quatre-vingt-douze;
+
+  1215 : mille deux cent quinze.
+
+8) Calculons les nombres A, B et C de manière performante.
+
+  A
+
+𝐴 =   (2 + 7) − (4 × 2) + 3;
+
+ 𝐴 =  9 − 8 + 3;
+
+  𝐴 = 1 + 3;
+
+  𝐴 = 4.
+
+  B
+
+𝐵 = 4 + 2 × 3 − 1 × 4;
+
+ 𝐵  =  4 + 6 − 4;
+
+ 𝐵  =  10 − 4;
+
+ 𝐵  = 6.
+
+On peut aussi avoir:
+
+𝐵 = 4 + 2 × 3 − 1 × 4;
+
+𝐵  =  4 + 6 − 4;
+
+ 𝐵  =  6 + 4 − 4;
+
+ 𝐵  = 6 + 0 ;
+
+ 𝐵 = 6.
+
+  C
+
+𝐶 = 15 + 12 + 5 + 8;
+
+ 𝐶 = 15 + 5 + 12 + 8;
+
+ 𝐶 = 20 + 20;
+
+ 𝐶 = 40.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+16
+9
+
+Evaluation sommative n°4:
+
+Problème 1:
+
+1) Calculons de manière performante, les nombres A, B et C de la liste 1.
+
+  A
+
+𝐴  =  3,25 + 7,64 + 5,75 + 3,36 ;
+
+𝐴 =  3,25 + 5,75 + 7,64 + 3,36;
+
+𝐴  =  9 + 11;  𝐴 = 20.
+
+  𝐵
+
+𝐵  =  2 ×  4,5 × 5 + 12;
+
+𝐵  =  2 × 5 × 4,5 + 12;
+
+𝐵  =  10 × 4,5  + 12 ;
+
+𝐵 =  45 + 12;
+
+𝐵 = 57.
+
+  C
+
+𝐶  =  2,5 × 7,3 × 4 + 13,5 × 2;
+
+𝐶  =  2,5 × 4 × 7,3 + 13,5 × 2;
+
+𝐶 =  10 × 7,3  +  13,5 × 2;
+
+𝐶  =  73 + 27;
+
+𝐶  = 100.
+
+2) Déterminons les nombres D et E de la liste 1 sous forme de fraction.
+
+  𝐷
+
+𝐷 =
+
+ 𝐷 =
+
+𝐷 =
+
+22
+7
+22
+7
+22
+7
+
++
+
++
+
++
+
+15
+7
+15
+7
+15
+7
+
+− (
+
+) × 2;
+
+9
+7
+9 × 2
+7
+
+− (
+
+)
+
+−
+
+18
+7
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+0
+
+𝐷 =
+
+22 + 15 − 18
+7
+
+𝐷 =
+
+19
+7
+
+  𝐸
+
+On a: 𝐸 =
+
+15
+
+7
+
+× 2 +
+
+3
+.
+7
+
+𝐴𝑙𝑜𝑟𝑠 𝐸 =
+
+15 × 2
+7
+
++
+
+3
+7
+
+.
+
+𝐷𝑜𝑛𝑐 𝐸 =
+
+30
+
+7
+
++
+
+3
+
+7
+
+.
+
+D’où 𝐸 =
+
+30+3
+
+.
+
+7
+
+Ainsi 𝐸 =
+
+33
+
+7
+
+.
+
+3-a) Déterminons la valeur approchée par défaut de D au dixième près.
+
+On a : 𝐷  =
+
+19
+
+7
+
+près.
+
+. Alors 𝐷 ≈ 2,714. Ainsi 2,7 est la valeur approchée par défaut de D au dixième
+
+b) Déterminons la valeur approchée par excès de E au centième près.
+
+33
+
+7
+
+. Alors 𝐸 ≈ 4,714. Ainsi 4,72 est la valeur approchée par excès de 𝐸 au centième
+
+On a : 𝐸  =
+
+près.
+
+Problème 2:
+
+4)  Reproduisons et complétons ce tableau.
+
+Nombres
+
+Partie entière
+
+Partie décimale
+
+5,12
+
+7
+
+5
+
+7
+
+0,12
+
+0
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+1
+
+5,2
+
+12
+
+5
+
+12
+
+0,2
+
+0
+
+5) Comparons les nombres suivants :
+
+  5,12 𝑒𝑡 5,2.
+
+Les nombres 5,12 𝑒𝑡 5,2 ont même partie entière et 0,12 < 0,2. Alors 5,12 < 5,2.
+
+  5,12 𝑒𝑡 7.
+
+Les nombres 5,12 et 7 n'ont pas même partie entière et 5 < 7. Alors 5,12 < 7.
+
+6-a) Rangeons dans l'ordre décroissant les nombres de la liste 2.
+
+     On  a∶  0,15 < 0,5 < 3,7 < 5,12 < 5,2 < 7 < 7,8 < 12 < 14,6.  Alors  dans
+
+l'ordre
+
+décroissant,on a: 14,6 ;  12;  7,8;  7;  5,2;  5,12;  3,7;  0,5 𝑒𝑡 0,15.
+
+b) Encadrons le nombre 5,12 par deux nombres entiers naturels consécutifs.
+
+On a: 5 < 5,12 < 6.
+
+c) Citons les multiples du nombre 5 en utilisant les nombres de la liste 3.
+
+On a: 325 ;  105 ;  210 𝑒𝑡 100.
+
+Problème 3:
+
+7) Reproduisons puis  complétons ce tableau.
+
+𝐸
+
+𝐸
+
+𝐹
+
+𝐻
+
+𝐷
+
+𝐷
+
+[𝐷𝐹]
+
+(𝐸𝐹)
+
+l'angle 𝐷𝐹𝐵̂
+
+[𝐷𝐻]
+
+(𝐸𝐻)
+
+l'angle 𝐷𝐻𝐵̂
+
+Symétrie  par  rapport  à
+
+(𝐷𝐸).
+
+8) Précisons pour le quadrilatère 𝐸𝐹𝐷𝐻:
+
+a) le centre de symétrie.
+
+𝐵 est le centre de symétrie de ce quadrilatère.
+
+b) les axes de symétrie.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+2
+
+Les axes de symétrie de ce quadrilatère sont les droites (𝐷𝐸) 𝑒𝑡 (𝐹𝐻).
+
+Evaluation sommative n°5 :
+
+Problème 1 :
+
+1)  a) Reproduisons la figure
+
+b) Construction (Voir figure).
+
+2-a) Comparons AB et A’B’.
+
+Les segments [AB] et [A’B’] sont symétriques par rapport au point O. Alors 𝐴𝐵 = 𝐴′𝐵′.
+
+b) Déduction :
+
+Les droites (AB) et (A’B’) sont symétriques par rapport au point O. Alors (AB) //(A’B’).
+
+3-a) Construction (Voir figure)
+
+Le symétrique de l’angle 𝐶𝐴𝐵̂ par rapport au point O est l’angle 𝐶′𝐴′𝐵̂ ′.
+
+b)  Comparaison :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+3
+
+Les angles 𝐶𝐴𝐵̂ et 𝐶′𝐴′𝐵̂ ′ sont symétriques par rapport au point O.
+
+D’où 𝑚𝑒𝑠 𝐶𝐴𝐵̂ = 𝑚𝑒𝑠 𝐶′𝐴′𝐵̂ ′.
+
+Problème 2 :
+
+5)  Justifions que ce tableau est un tableau de proportionnalité.
+
+On  a  :
+
+400
+
+1
+
+= 400;
+
+800
+
+2
+
+= 400 𝑒𝑡
+
+1600
+
+4
+
+= 400. 𝐴𝑙𝑜𝑟𝑠
+
+400
+
+1
+
+=
+
+800
+
+2
+
+=
+
+1600
+
+4
+
+.  Donc    ce
+
+tableau est un tableau de proportionnalité.
+
+6)   Le coefficient de proportionnalité permettant de passer :
+
+a)  de la première ligne à la seconde est :
+
+b)  de la seconde ligne à la première est :
+
+400
+
+1
+
+1
+
+400
+
+= 400.
+
+= 0,0025.
+
+7)  a) Déterminons le prix P en FCFA correspondant à 10 L d’essence.
+
+On a : 𝑃 = 10  × 400 𝐹𝐶𝐹𝐴.   𝐴𝑙𝑜𝑟𝑠 𝑃 = 4.000 𝐹𝐶𝐹𝐴.
+
+b) Déterminons le nombre N de litres d’essence correspondant à 2400F.
+
+On a : 𝑁 = 2400 × 0,0025 𝐿. Alors 𝑁  = 6.
+
+Problème 3 :
+
+7-a) Le caractère étudié est quantitatif car l’étude statistique porte sur des nombres
+
+(notes).
+
+b) Tableau :
+
+Notes
+
+03
+
+Effectifs
+
+7
+
+07
+
+6
+
+12
+
+9
+
+15
+
+5
+
+20
+
+3
+
+Total
+
+30
+
+Fréquences
+
+en %.
+
+7 × 100
+30
+= 23,33
+
+6 × 100
+30
+= 20
+
+9 × 100
+30
+= 30
+
+5 × 100
+30
+= 16,67
+
+3 × 100
+30
+= 10
+
+30 × 100
+30
+= 100
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+4
+
+8) Calculons la moyenne 𝑀 des notes de cette série statistique.
+
+On a : 𝑀 =   3×7 + 7×6 + 12×9 + 15×5 + 20×3
+
+30
+
+. Donc 𝑀 =
+
+21+42+108 + 75 + 60
+
+30
+
+.
+
+D’où 𝑀 = 10, 2.
+
+Evaluation sommative n°6 :( CEG AHOSSOUGBETA   2019-2020).
+
+Problème 1 :
+
+1-a) La droite (∆) passe par le milieu du segment [AE] est perpendiculaire à son support. Alors
+
+(∆) est la médiatrice du segment [AE].
+
+b) La droite (BD) passe par le sommet B de l’angle 𝐵𝐴𝐶̂ et le partage en deux angles adjacents
+
+𝐵𝐴𝐷̂  𝑒𝑡 𝐷𝐴𝐶̂  de même mesure (30°). Alors (BD) est la bissectrice de l’angle 𝐵𝐴𝐶̂.
+
+2-a) Les points E et G sont les symétriques respectifs des points A et C par rapport à la droite
+
+(∆). Alors le symétrique du segment [AC] par rapport à la droite (∆) est le segment [EG].
+
+b) On a : 𝐷  ∈ (∆). Alors le symétrique de D par rapport à (∆) est D.
+
+3) Les symétriques respectifs des points A, B, C et D par rapport à la droite (∆) sont E, F, G et
+
+D. Alors le symétrique par rapport à la droite (∆):
+
+a) de l’angle 𝐴𝐵𝐶̂ 𝑒𝑠𝑡 𝐸𝐹𝐺̂.
+
+b) du quadrilatère ABCD est le quadrilatère EFGD.
+
+Problème 2 :
+
+3)  Donnons la nature exacte du quadrilatère ABCD.
+
+ABCD est un quadrilatère tel que 𝐴𝐵 = 𝐵𝐶 = 𝐶𝐷 = 𝐷𝐴. Alors ABCD est un losange.
+
+5-a) Calculons le périmètre P du quadrilatère ABCD.
+
+ABCD étant un losange, alors on a : 𝑃 = 4 × 𝐴𝐵 𝑎𝑣𝑒𝑐 𝐴𝐵 = 9 𝑐𝑚.  𝐷𝑜𝑛𝑐 𝑃 = 4 × 9 𝑐𝑚.
+
+D’où 𝑃 = 36 𝑐𝑚.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+5
+
+b) Calculons l’aire S de la surface totale ABCD.
+
+Considérons le losange ABCD. On a : 𝑆 =
+
+𝐴𝐶 ×𝐵𝐷
+
+2
+
+ avec 𝐴𝐶 = 10 𝑐𝑚 𝑒𝑡 𝐵𝐷 = 15 𝑐𝑚.
+
+Alors  𝑆 =   10 𝑐𝑚 × 15 𝑐𝑚
+
+2
+
+. Donc 𝑆 = 75 𝑐𝑚2.
+
+6) Complétons ce tableau.
+
+Nombres entiers naturels
+
+Nombres décimaux arithmétiques
+
+1080;    43  ; 0 𝑒𝑡 13.
+
+0,625  ;   1080;   43  ;    5,5 ;    2,5;   0 𝑒𝑡 13.
+
+8)  Trouvons deux fractions égales à
+
+2
+  dont le dénominateur est plus petit que 28.
+7
+
+2
+On a :
+7
+
+=   2×2
+
+7×2
+
+ 𝑒𝑡
+
+2
+
+7
+
+=   2×3
+
+7×3
+
+  . 𝐴𝑙𝑜𝑟𝑠
+
+2
+
+7
+
+=   4
+
+14
+
+  𝑒𝑡
+
+2
+
+7
+
+=   6
+
+21
+
+  𝑎𝑣𝑒𝑐 7 < 28 𝑒𝑡 21 < 28.
+
+ sont deux fractions égales à
+
+2
+ dont le dénominateur est plus petit que 28.
+7
+
+Donc   4
+
+14
+
+  𝑒𝑡
+
+6
+
+21
+
+Problème 3 :
+
+9)  Constructions :
+
+  Reproduisons l’angle𝐵𝐴𝐶̂ 𝑝𝑢𝑖𝑠 𝑙𝑎 𝑑𝑟𝑜𝑖𝑡𝑒 (∆).
+
+  Construisons 𝐸, 𝐹 𝑒𝑡 𝐺 : Voir figure ci-dessus.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+6
+
+10) Donnons la mesure de l’angle 𝐸𝐹𝐺̂.
+
+Les  angles  𝐴𝐵𝐶̂  et  𝐸𝐹𝐺̂  sont  symétriques  par  rapport  à  (∆).    Alors  𝑚𝑒𝑠 𝐸𝐹𝐺̂ =
+
+𝑚𝑒𝑠 𝐴𝐵𝐶̂. 𝑂𝑟 𝑚𝑒𝑠 𝐴𝐵𝐶̂ = 60°.  𝐷′𝑜ù 𝑚𝑒𝑠 𝐸𝐹𝐺̂ = 60°.
+
+Evaluation sommative n°7: (CEG ATROKPOCODJI   2019-2020).
+
+Problème 1 :
+
+1-a) Donnons la nature du triangle CFA.
+
+Considérons le triangle CFA. On a : (𝐶𝐹) ⊥ (𝐹𝐴). Alors CFA est un triangle rectangle en F.
+
+a)  Donnons la nature du triangle ACE.
+
+Considérons le triangle ACE. On a : 𝐴𝐶 = 𝐴𝐸. Alors ACE est un triangle isocèle en A.
+
+b)  Justifions que ACDE est un losange.
+
+     Considérons le quadrilatère ACDE. On a : 𝐴𝐶 = 𝐶𝐷 = 𝐷𝐸 = 𝐸𝐴. Alors ACDE est un losange.
+
+2-a) Calculons le périmètre du losange ACDE.
+
+Soit P ce périmètre.
+
+On a : 𝑃 = 4 × 𝐴𝐸;   𝑃 = 4 × 12 𝑚;   𝑃 = 48 𝑚.
+
+b) Déterminons l’aire de l’espace mis en location.
+
+Soit 𝐴 cette aire.
+
+On a : 𝐴 =
+
+2
+
+6
+
+× 600 𝑚2. Alors 𝐴 =
+
+2×600
+
+6
+
+𝑚2. D’où 𝐴 = 200 𝑚2.
+
+Problème 2 :
+
+3-a) Complétons par ∈ ou ∉ de façon convenable :
+
+12,05  ∉    ℕ ;
+
+2
+
+5
+
+∉  ℕ ;       100 ∈  ℕ ;
+
+c)  Ecrivons l’ensemble des diviseurs de 48.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+7
+
+On a : 48 = 1 × 48 ; 48 = 2 × 24 ; 48 = 3 × 16 ; 48 = 4 × 12 ; 48 = 6 × 8 𝑒𝑡
+
+48 = 8 × 6. Alors les diviseurs de 48 sont : 1; 2; 3; 4; 6; 8; 12; 16; 24 𝑒𝑡 48.
+
+4-a) Citons parmi ces nombres ceux qui sont divisibles par 2 :  156 𝑒𝑡 100.
+
+    b) Cite ceux qui sont divisibles par 3: 27 𝑒𝑡 156
+
+c) Cite ceux qui sont divisibles par 4: 156 𝑒𝑡 100.
+
+d)  Cite ceux qui sont divisibles par 5 ∶  100.
+
+e)  Ecrivons un chiffre dans le carreau pour que le nombre formé soit à la fois divisible par 9
+
+et par 4 : 21   6
+
+Problème 3 :
+
+5)  Comparons 12,5 𝑒𝑡 12,05.
+
+Ces deux nombres ont même parie entière. De plus, 0,5 > 0,05.   𝐴𝑙𝑜𝑟𝑠 12,5 > 12,05.
+
+6)   Effectuons de manière performante ces opérations.
+
+  A  =  7,54  +  2,5  +  1,46  +  31  +  7,5
+
+On a : A = 7,54 + 1,46 + 2,5 + 7,5 + 31;
+
+Alors  A = 9 + 10 + 31;
+
+Donc
+
+A = 9 + 31 + 10 ;
+
+D’où
+
+A = 40 + 10 ;
+
+Ainsi
+
+A = 50 ;
+
+  B  =  25 x 1,994 x 4
+
+On a : B = 25 × 4 × 1,994.
+
+Alors 𝐵 = 100 × 1,994
+
+Donc B = 199,4.
+
+  C  =   (4,3  +  5,7)x 2
+
+On a : C = 10 × 2
+
+Alors C = 20 ;
+
+  D  =
+
++
+
+2
+
+3
+
+5
+5
+On a : D =
+
+2+3
+
+5
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+8
+
+5
+
+Alors D =
+
+5
+Donc D = 1.
+
+Evaluation sommative n°8: (CEG AGASSA-GODOMEY  2018-2019).
+
+Problème 1 :
+
+1)  Remplaçons les pointillés par les symboles ∈ ou ∉ et  ⊂ 𝑜𝑢 ⊄
+
+1,9 ∈ 𝔻 ;   2 ∈  ℕ ;  ℕ ⊂  𝔻 ;  1,75 ∈ 𝔻 ; 1,75 ∉  ℕ ; 2 ∈  𝔻 ; 𝔻  ⊄ ℕ.
+
+        2) a- Tableau :
+
+Nombres
+
+Partie entière
+
+Partie décimale
+
+1,75
+
+1,905
+
+2,001
+
+1,607
+
+1,78
+
+1
+
+1
+
+2
+
+1
+
+1
+
+0,75
+
+0,905
+
+0,001
+
+0,607
+
+0,78
+
+b) Écrivons ces nombres sous forme de fractions décimales.
+
+On a : 1,75  =
+
+175
+
+100
+
+;  1,905 =
+
+1905
+
+1000
+
+ 𝑒𝑡 2,001 =
+
+2001
+
+1000
+
+.
+
+3-a) Comparaisons:
+
+On a : 1,89 >  1,78;  1,9 >  1,897;  1,99 > 1,905 𝑒𝑡 1,89 > 1,78.
+
+b) Citons les 6 premiers joueurs présélectionnés pour jouer la défense.
+
+On a: 2,001 > 2 > 1,99 > 1,905 > 1,9 > 1,897 > 1,89 > 1,8 > 1,78 > 1,75 > 1,607.
+Alors les tailles des 6 joueurs présélectionnés pour jouer la défense sont :
+
+ 2,001 −  2 −  1,99 −  1,905 −  1,9 𝑒𝑡 1,897.
+
+Problème 2:
+
+4-a) Justifions que 60 est un multiple de 6.
+
+On a: 60 =  6 × 10 𝑎𝑣𝑒𝑐 10 ∈  ℕ. Alors 60 est un multiple de 6.
+
+b) Citons tous les diviseurs de 75.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+17
+9
+
+On a: 75 = 1 × 75 ;  75 = 3 × 25;  75 = 5 × 15;  75 = 15 × 5. Alors les diviseurs de
+75 sont :  1;  3;  5;  15 ;  25 𝑒𝑡 75.
+
+5) Effectuons de manière performante ces opérations.
+
+  𝐴
+𝐴  =  75 + 53 + 65 + 67;
+
+  𝐴 =  75 + 65 + 53 + 67;
+
+ 𝐴 = 140 + 120.
+
+ 𝐷𝑜𝑛𝑐 𝐴 = 260.
+
+  𝐵
+
+𝐵 =   (65 + 75) × 2;
+
+ 𝐵 =  140 × 2.
+
+𝐷𝑜𝑛𝑐 𝐵 = 280.
+
+  𝐶
+
+𝐶 =  90 × 2 − 75 ;
+
+𝐶 =  180 − 75.
+
+ 𝐷𝑜𝑛𝑐 𝐶 = 105.
+
+  𝐷
+
+𝐷 = 754 + 60 × 5;
+
+                                  𝐷 =  754 + 300.
+
+                                   𝐷𝑜𝑛𝑐 𝐷 =  1054.
+
+  𝐸
+
+𝐸 =  6 × 5 + 90 × 2;
+
+                                   𝐸 = 30 + 180.
+
+                                  𝐷𝑜𝑛𝑐 𝐸 =  210.
+
+6-a) Écrivons ces nombres en lettres.
+
+  260 ∶ Deux cent soixante.
+
+  280 ∶ Deux cent quatre-vingts.
+
+  1054 ∶ Mille cinquante-quatre.
+
+b) Écrivons ces nombres en chiffre:
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+0
+
+  huit cent cinquante : 850;
+
+  deux mille : 2.000;
+
+  mille huit-cent quatre-vingt-cinq : 1885.
+
+Problème 3:
+
+7) Effectuons ces calculs :
+
+  𝐹
+
+On a: 𝐹 =
+
+3
+
+5
+
++
+
+4
+
+5
+
+;
+
+𝐴𝑙𝑜𝑟𝑠 𝐹 =
+
+𝐷𝑜𝑛𝑐 𝐹 =
+
+3 + 4
+5
+
+7
+5
+
+  𝐺
+
+On a: 𝐺 = 2 ×
+
+7
+
+5
+
+𝐴𝑙𝑜𝑟𝑠 𝐺 =
+
+𝐷𝑜𝑛𝑐 𝐺 =
+
+2 × 7
+5
+
+14
+5
+
+8-a) Calculons  𝑃.
+
+On a: 𝑃  =  2 ×   (𝐿 + 𝑙).
+
+ 𝐷𝑜𝑛𝑐 𝑃 =  2 ×   (120 𝑚 + 90 𝑚).
+
+ 𝐷′𝑜ù 𝑃 =  2 × 210 𝑚.
+
+𝐴𝑖𝑛𝑠𝑖 𝑃 =  420 𝑚.
+
+b) Calculons A.
+
+On a: 𝐴 =  𝐿 × 𝑙.
+
+ 𝐴𝑙𝑜𝑟𝑠 𝐴 =  120 𝑚  ×  90 𝑚.
+
+ 𝐷𝑜𝑛𝑐 𝐴  =  10.800 𝑚2.
+
+9-a)  Précisons les numéros des 04 joueurs.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+1
+
+Parmi les six joueurs présélectionnés, seulement le joueur de 2𝑚 a un poids inférieur
+
+à 60𝑘𝑔.  Alors d'après la question 3-b) les quatre joueurs sélectionnés portent les numéros :
+
+2;  3;  4 𝑒𝑡 6.
+
+b) Rangeons les tailles des 4 joueurs par ordre décroissant.
+
+On a: 2,001 > 1,99 > 1,905 > 1,9. Alors par ordre décroissant, on a en mètre:
+2,001 ;  1,99 ;  1,905 𝑒𝑡 1,9.
+
+Evaluation sommative n°9: (CEG ALBARIKA  2018-2019).
+
+Problème 1:
+
+1) Parmi ces deux dessins, c'est le dessin 1 qui est une symétrie par rapport à une droite.
+
+2) Parmi ces deux dessins, c'est le dessin 3 qui est une symétrie par rapport à un point.
+
+3-a) Le dessin 6 possède un axe de symétrie car le symétrique de chaque point de ce dessin
+par rapport à (D) est un point du dessin.
+
+b) Le dessin 7 possède un centre de symétrie car le symétrique de chaque point de ce dessin
+par rapport à O est un point du dessin.
+
+Problème 2:
+
+4) Les symétriques des points E, F, O et K par rapport à la droite (D) sont respectivement les
+points J, I, O et G.
+
+5) Les symétriques de E, G et [EG] par rapport à O sont respectivement K, J et [JK].
+
+6) a- Construction :
+
+b- Construction :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+2
+
+Problème 3 :
+
+7) Déterminons la fraction que représente le nombre de carreaux restant.
+
+On a :
+
+5
+
+5
+
+−
+
+4
+
+5
+
+=
+
+1
+1
+. Alors
+ est la fraction cherchée.
+5
+5
+
+7)  Calculons ces opérations.
+
+
+
+3
+4
+ -
+5
+5
+
+ ;
+
+3
+4
+ -
+5
+5
+
+=
+
+4−3
+
+5
+
+3
+4
+.  Donc
+ -
+5
+5
+
+=
+
+1
+
+5
+
+
+
+3
+ +
+5
+
+2
+
+5
+
+ ;
+
+3
+ +
+5
+
+2
+
+5
+
+=
+
+3+2
+
+5
+
+. 𝐷𝑜𝑛𝑐
+
+3
+
+5
+
+2
+ +
+5
+
+=
+
+5
+
+5
+
+. 𝐷′𝑜ù
+
+2
+3
+ +
+5
+5
+
+= 1.
+
+  2 ×
+
+4
+.
+5
+
+2 × 4
+
+5
+
+= 2×4
+5
+
+. 𝐷𝑜𝑛𝑐   2 ×
+
+4
+
+5
+
+=
+
+8
+
+5.
+
+8)  Calcule le nombre N de carreaux nécessaires.
+
+On a : 𝑁 = 300 ×
+
+4
+
+5
+
+.  𝐴𝑙𝑜𝑟𝑠 𝑁 =
+
+300×4
+
+5
+
+.  𝐷𝑜𝑛𝑐 𝑁 = 240.
+
+Evaluation sommative n°10: (CEG BANIKANNI PARAKOU  2018-2019)
+
+Problème 1:
+
+1-a) Citons deux droites parallèles : (𝐴𝐵)  𝑒𝑡  (𝐷𝐶).
+
+  b) Citons deux droites perpendiculaires : (𝐴𝐵)  𝑒𝑡  (𝐷𝐴).
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+3
+
+  c) Citons deux droites non parallèles et non sécantes : (𝐴𝐵)  𝑒𝑡  (𝐵𝐺).
+
+2)  Recopions et remplaçons les pointillés par ∈ ou  ∉.
+
+A ∈ (D1) ;    D  ∉   [EC) ;    F  ∈ (AB) ;   B ∉ [GC] ;   E ∉ (D4) ;   G ∈ [BC].
+
+2)  Reproduisons puis complétons ce déductogramme.
+
+Problème 2 :
+
+4- Nommons les figures 1, 2 et 3.
+
+Figure 1 : Parallélogramme ;
+
+Figure 2 : Losange ;
+
+Figure 3 : Cercle.
+
+5- a) Les segments [𝐼𝐾] 𝑒𝑡 [𝐽𝐿] représentent les diagonales de la figure 1.
+
+   b) Les segments [𝑃𝑄] 𝑒𝑡 [𝑃𝑅] représentent des cordes de la figure 3.
+
+6- Reproduisons  les segments [𝑃𝑄] 𝑒𝑡 [𝑃𝑅] sur notre feuille :
+
+-  Donnons la nature de l’angle QPR̂.
+
+QPR̂ est un angle dont la mesure est inférieure à 90°. Alors il est un angle aigu.
+
+Problème 3 :
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+4
+
+7- Calculons l’aire de la figure 1.
+
+Soit 𝐴1 𝑐𝑒𝑡𝑡𝑒 𝑎𝑖𝑟𝑒.
+
+On a : 𝐴1 = 𝐼𝑀  × 𝐿𝐾.
+
+𝑂𝑟 𝐿𝐾 = 𝐼𝐽.
+
+𝐴𝑙𝑜𝑟𝑠 𝐴1 = 𝐼𝑀  × 𝐼𝐽.
+
+𝐷𝑜𝑛𝑐   𝐴1 = 6 𝑐𝑚  × 9 𝑐𝑚.
+D’où 𝐴1 = 54 𝑐𝑚2.
+
+8- Calculons le périmètre et l’aire de la figure 2.
+
+Soient 𝑃2 𝑒𝑡 𝐴2  respectivement le périmètre et l’aire de cette figure.
+
+On a : 𝑃2 = 4 × 𝑆𝑇 𝑒𝑡 𝐴2 =
+
+𝑆𝑈 ×𝑉𝑇
+
+2
+
+.
+
+Alors  𝑃2 = 4 × 5 𝑐𝑚 𝑒𝑡 𝐴2 =
+
+8 𝑐𝑚  × 4 𝑐𝑚
+
+2
+
+.
+
+Donc 𝑃2 = 20 𝑐𝑚 𝑒𝑡 𝐴2 = 16 𝑐𝑚2.
+
+9- Calculons le périmètre et l’aire de la figure 3.
+
+      Soient 𝑃3 𝑒𝑡 𝐴3  respectivement le périmètre et l’aire de cette figure.
+
+On a : 𝑃3 = 2 × 𝑋𝑄 × 𝜋 𝑒𝑡 𝐴2 = 𝑋𝑄 × 𝑋𝑄 × 𝜋.
+
+𝐷𝑜𝑛𝑐   𝑃3 = 2 × 2 𝑐𝑚 × 3,14 𝑒𝑡 𝐴2 = 2 𝑐𝑚 × 2 𝑐𝑚 × 3,14.
+D’où 𝑃3 = 12,56 𝑐𝑚 𝑒𝑡 𝐴2 =  12,56 𝑐𝑚2.
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+5
+
+Table des matières :
+
+      Pages
+
+Programme de mathématiques de la classe de 6ème selon l’APC au Bénin………………………………..3
+
+SAN°1 : CONFIGURATIONS DE L’ESPACE ………………………………………………………………………..............................4
+
+Séquence n°1 : Cube et Pavé droit……………………………………………………………………………………………………………………5
+
+Séquence n°2 : Cône de révolution ………………………………………………………………………………………………………………..
+
+Séquence n°3 : Sphère………………………………………………………………………………………………………..............13
+
+SAN°2: CONFIGURATIONS DU PLAN……………………………………………………………………………………………….18
+
+Séquence n°1 : Droites du plan……………………………………………………………………………………………………….19
+
+Séquence n°2 : Segments de droite……………………………………………………………………………………………..…25
+
+Séquence n° 3: Cercle………………………………………………………………………………………………………..……….....28
+
+Séquence n°4 : Angles……………………………………………………………………………………………………………….…...32
+
+Séquence n°5 : Triangles…………………………………………………………………………………………………..……………37
+
+Séquence n°6 : Parallélogrammes……………………………………………………………..…………………..………………40
+
+Séquence n°7 : Nombres entiers naturels…………………………………………………………….…………………………47
+
+Séquence n°8 : Nombres décimaux arithmétiques………………………………………………...................……….54
+
+Séquence n°9 : Fractions…………………………………………………………………………………………………………...…..57
+
+Séquence n°10 : Calcul littéral………………………………………………………………………..………………………………61
+
+SAN°3 : APPLICATIONS DU PLAN…………………………………………………………………………….…………………...…63
+
+Séquence n°1 : Figures symétriques par rapport à une droite…………………………………………................64
+
+Séquence n°2 : Figures symétriques par rapport à un point……………………………………………………………67
+
+Séquence n°3 : Glissement ……………………………………………………………………………………………………………
+
+SAN°4 : ORGANISATION DES DONNEES………………………………..………………………………………………………..72
+
+Séquence n°1 : Proportionnalité………………………………………..……………………………………………………….….73
+
+Séquence n°2 : Statistiques …………………………………………………………………………………………………………..77
+
+Evaluations formatives…………………………………………………………………………………..………………………………79
+
+Evaluations sommatives…………………………………………………………………………..…………………………………….86
+
+Correction des exercices…………………………………………………………………………………………...............……..106
+
+Corrections des évaluations formatives………………………………………………………………………………………..142
+
+Correction des évaluations sommatives………………………………………………………………………………..……..148
+
+Complément du cours………………………………………………………………………………………………………………….172
+
+Correction des exercices du compléments du cours………………………………………………………………….…183
+
+Fin
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+6
+
+Maths faciles 6è : Cours et Exercices Pratiques
+
+18
+7
+
